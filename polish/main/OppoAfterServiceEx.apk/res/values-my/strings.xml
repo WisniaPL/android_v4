@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OPPO ေရာင္းခ်မႈေနာက္ ဝန္ေဆာင္မႈ</string>
+    <string name="oppo_after_service_title">OPPO ေရာင္းခ်မႈေနာက္ ဝန္ေဆာင္မႈ</string>
+    <string name="afterservice_hotline_title">Service hotline</string>
+    <string name="afterservice_address_title">လိပ္စာ</string>
+    <string name="afterservice_email_title">အီးေမးလ္</string>
+    <string name="afterservice_website_title">ဝက္ဘ္စာမ်က္ႏွာ</string>
+    <string name="help_dialog_title">အကူအညီ</string>
+    <string name="help_dialog_msg">သင႔္အတြက္ဝန္ေဆာင္မႈေကာင္းမ်ားေပးႏိုင္ရန္ OPPO mobile phone service network သည္အျမဲတိုးခ်ဲ႕ေနပါသည္ ေနာက္ဆံုးအေျခအေနမ်ားသိရွိႏိုင္ရန္ ကၽြန္ေတာ္တို႕၏ official website ကိုဝင္ေရာက္ၾကည္႔ရွုပါ (သို႕) ႏိုင္ငံအဝွမ္းရွိ service hotline သို႔ေခၚဆိုပါ</string>
+</resources>

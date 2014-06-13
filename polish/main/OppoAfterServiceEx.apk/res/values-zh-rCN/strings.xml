@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OPPO售后服务</string>
+    <string name="oppo_after_service_title">OPPO售后服务</string>
+    <string name="afterservice_hotline_title">服务热线</string>
+    <string name="afterservice_address_title">地址</string>
+    <string name="afterservice_email_title">电子邮件</string>
+    <string name="afterservice_website_title">网址</string>
+    <string name="help_dialog_title">帮助</string>
+    <string name="help_dialog_msg">为了更好地为您服务，OPPO手机售后服务网点正在不断建设中，若有更新，请登陆官方网站进行查询，或拨打全国统一服务热线进行咨询。</string>
+</resources>

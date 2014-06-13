@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">9019</string>
+    <string name="oppo_after_service_title">9020</string>
+    <string name="afterservice_hotline_title">9021</string>
+    <string name="afterservice_address_title">9022</string>
+    <string name="afterservice_email_title">9023</string>
+    <string name="afterservice_website_title">9024</string>
+    <string name="help_dialog_title">9025</string>
+    <string name="help_dialog_msg">9026</string>
+</resources>

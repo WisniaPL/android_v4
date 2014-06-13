@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pogoda na ekranie blokady</string>
+    <string name="unlockname">Pogoda na ekranie blokady</string>
+    <string name="unlockAuthor">Pogoda na ekranie blokady</string>
+    <string name="unlockVersion">1.0</string>
+    <string name="unlockDate">2012/05/17</string>
+    <string name="unlockResolution">ALL</string>
+    <string name="discription">Pogoda na ekranie blokady</string>
+    <string name="degree">°</string>
+    <string name="charging">"Ładowanie: "</string>
+    <string name="battery_full">W pełni naładowany</string>
+    <string name="month_flag">Miesiąc</string>
+    <string name="month_day_flag">Dzień</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="no_weather">Brak danych o pogodzie</string>
+    <string name="noservice">Brak sieci</string>
+</resources>

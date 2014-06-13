@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="multi_nav_text">
+        <item>Kategorie</item>
+        <item>Telefon</item>
+        <item>Karta SD</item>
+        <item>Dysk sieciowy</item>
+    </string-array>
+    <string-array name="multi_nav_text_cmcc">
+        <item>Kategorie</item>
+        <item>Telefon</item>
+        <item>Karta SD</item>
+    </string-array>
+    <string-array name="single_nav_text">
+        <item>Kategorie</item>
+        <item>Telefon</item>
+        <item>Dysk sieciowy</item>
+    </string-array>
+    <string-array name="tab_text">
+        <item>Kategorie</item>
+        <item>Telefon</item>
+        <item>Dysk sieciowy</item>
+    </string-array>
+    <string-array name="single_nav_text_cmcc">
+        <item>Kategoria</item>
+        <item>Pamięć</item>
+    </string-array>
+    <string-array name="tab_text_cmcc">
+        <item>Kategoria</item>
+        <item>Pamięć</item>
+    </string-array>
+    <string-array name="netdisk_default_folder_names">
+        <item>Filmy</item>
+        <item>Dokumenty</item>
+        <item>Zdjęcia</item>
+        <item>Muzyka</item>
+    </string-array>
+    <string-array name="category_text">
+        <item>Muzyka</item>
+        <item>Filmy</item>
+        <item>Obrazy</item>
+        <item>Dokumenty</item>
+        <item>"APK "</item>
+        <item>"ZIP "</item>
+    </string-array>
+    <string-array name="group_item_names">
+        <item>Tymczasowe pliki systemowe</item>
+        <item>Pliki w pamięci podręcznej miniatur</item>
+        <item>Pamięć podręczna aplikacji</item>
+        <item>Puste foldery</item>
+        <item>Pozostałości odinstalowanych aplikacji</item>
+    </string-array>
+    <string-array name="sim_picker_contents">
+        <item>SIM1</item>
+        <item>SIM2</item>
+        <item>Ustaw obie</item>
+    </string-array>
+    <string-array name="image_text">
+        <item>Zrób zdjęcie</item>
+        <item>Wybierz zdjęcie</item>
+    </string-array>
+    <string-array name="select_music_path_DefualtsItem">
+        <item>Z telefonu</item>
+        <item>Własny</item>
+        <item>Przywróć dzwonek domyślny</item>
+    </string-array>
+    <string-array name="select_music_path_noDefualtItem">
+        <item>Z telefonu</item>
+        <item>Własny</item>
+    </string-array>
+    <string-array name="select_music_path_more_DefualtsItem">
+        <item>Z telefonu</item>
+        <item>Własny</item>
+        <item>Przywróć dzwonki domyślne</item>
+        <item>Więcej dzwonków</item>
+    </string-array>
+    <string-array name="select_music_path_more_noDefualtItem">
+        <item>Z telefonu</item>
+        <item>Własny</item>
+        <item>Więcej dzwonków</item>
+    </string-array>
+    <string-array name="default_folder_names">
+        <item>Movies</item>
+        <item>Music</item>
+        <item>Download</item>
+    </string-array>
+    <string-array name="path_picker">
+        <item>Telefon</item>
+        <item>Karta SD</item>
+    </string-array>
+    <string-array name="sort_dialog_items">
+        <item>Wg nazwy</item>
+        <item>Wg rozmiaru</item>
+        <item>Wg rodzaju</item>
+        <item>Od najnowszych</item>
+    </string-array>
+    <string-array name="encryptable_default_folder_names">
+        <item>Nagrania</item>
+        <item>Filmy</item>
+        <item>Obrazy</item>
+        <item>Pobrane</item>
+        <item>Muzyka</item>
+        <item>Zdjęcia</item>
+    </string-array>
+    <string-array name="select_search_path">
+        <item>Pamięć telefonu i karta SD</item>
+        <item>Pamięć telefonu</item>
+        <item>Karta SD</item>
+        <item>Katalog bieżący</item>
+        <item>Ustawienia własne</item>
+    </string-array>
+</resources>

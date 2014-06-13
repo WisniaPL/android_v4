@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hintCapability">Ładowanie</string>
+    <string name="hundrend">%</string>
+    <string name="unlockname">Blokada - podróż</string>
+    <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
+    <string name="battery_full">W pełni naładowany</string>
+    <string name="noservice">Brak sieci</string>
+</resources>

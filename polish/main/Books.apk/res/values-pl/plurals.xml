@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="download_limit_dialog_message">
+        <item quantity="other">Tę książkę można pobrać maksymalnie na %d urządzenia. Ten limit został osiągnięty. Zanim będzie można przeczytać ją na tym urządzeniu, musisz usunąć ją z innego.</item>
+        <item quantity="one">Tę książkę można pobrać tylko na jedno urządzenie i już została pobrana. Zanim będzie można przeczytać ją na tym urządzeniu, musisz usunąć ją z innego.</item>
+        <item quantity="two">Tę książkę można pobrać maksymalnie na %d urządzenia. Ten limit został osiągnięty. Zanim będzie można przeczytać ją na tym urządzeniu, musisz usunąć ją z innego.</item>
+        <item quantity="few">Tę książkę można pobrać maksymalnie na %d urządzenia. Ten limit został osiągnięty. Zanim będzie można przeczytać ją na tym urządzeniu, musisz usunąć ją z innego.</item>
+        <item quantity="many">Tę książkę można pobrać maksymalnie na %d urządzeń. Ten limit został osiągnięty. Zanim będzie można przeczytać ją na tym urządzeniu, musisz usunąć ją z innego.</item>
+    </plurals>
+    <plurals name="concurrent_access_denied_message">
+        <item quantity="other">Tę książkę można jednocześnie czytać na %1$d urządzeniach lub komputerach. Ten limit został osiągnięty. Zamknij książkę w innych czytnikach, poczekaj kilka minut i spróbuj ponownie.</item>
+        <item quantity="zero">Nie możesz obecnie czytać tej książki. Poczekaj kilka minut i spróbuj ponownie. Jeśli wciąż będziesz widzieć ten komunikat, kliknij link „Zgłoś problem” na naszej stronie Pomocy.</item>
+        <item quantity="one">Tę książkę można czytać na jednym urządzeniu lub komputerze. Ten limit został osiągnięty. Zamknij książkę w innym czytniku, poczekaj kilka minut i spróbuj ponownie.</item>
+        <item quantity="two">Tę książkę można jednocześnie czytać na %1$d urządzeniach lub komputerach. Ten limit został osiągnięty. Zamknij książkę w innych czytnikach, poczekaj kilka minut i spróbuj ponownie.</item>
+        <item quantity="few">Tę książkę można jednocześnie czytać na %1$d urządzeniach lub komputerach. Ten limit został osiągnięty. Zamknij książkę w innych czytnikach, poczekaj kilka minut i spróbuj ponownie.</item>
+        <item quantity="many">Tę książkę można jednocześnie czytać na %1$d urządzeniach lub komputerach. Ten limit został osiągnięty. Zamknij książkę w innych czytnikach, poczekaj kilka minut i spróbuj ponownie.</item>
+    </plurals>
+    <plurals name="note_text_book_added">
+        <item quantity="other">Dodano do biblioteki Google Play</item>
+        <item quantity="one">Dodano do biblioteki Google Play</item>
+        <item quantity="two">Dodano do biblioteki Google Play</item>
+        <item quantity="few">Dodano do biblioteki Google Play</item>
+        <item quantity="many">Dodano do biblioteki Google Play</item>
+    </plurals>
+    <plurals name="note_title_books_added">
+        <item quantity="other">%d nowej książki</item>
+        <item quantity="two">%d nowe książki</item>
+        <item quantity="few">%d nowe książki</item>
+        <item quantity="many">%d nowych książek</item>
+    </plurals>
+    <plurals name="note_summary_books_added">
+        <item quantity="other">…i jeszcze %d książki</item>
+        <item quantity="one">…i jeszcze %d książka</item>
+        <item quantity="two">…i jeszcze %d książki</item>
+        <item quantity="few">…i jeszcze %d książki</item>
+        <item quantity="many">…i jeszcze %d książek</item>
+    </plurals>
+    <plurals name="home_book_count">
+        <item quantity="other">Pokazywanie książek od %1$d do %2$d z %3$d.</item>
+        <item quantity="one">Wyświetlam jedną książkę w Twojej bibliotece.</item>
+    </plurals>
+    <plurals name="rental_badge_hours">
+        <item quantity="other">%1$d GODZINY</item>
+        <item quantity="one">%1$d GODZINA</item>
+        <item quantity="two">%1$d GODZINY</item>
+        <item quantity="few">%1$d GODZINY</item>
+        <item quantity="many">%1$d GODZIN</item>
+    </plurals>
+    <plurals name="rental_badge_hours_description">
+        <item quantity="other">okres wypożyczenia wygasa za %1$d godz.</item>
+        <item quantity="one">okres wypożyczenia wygasa za %1$d godzinę</item>
+        <item quantity="two">okres wypożyczenia wygasa za %1$d godz.</item>
+        <item quantity="few">okres wypożyczenia wygasa za %1$d godz.</item>
+        <item quantity="many">okres wypożyczenia wygasa za %1$d godz.</item>
+    </plurals>
+    <plurals name="rental_badge_days">
+        <item quantity="other">%1$d DNIA</item>
+        <item quantity="one">%1$d DZIEŃ</item>
+        <item quantity="two">%1$d DNI</item>
+        <item quantity="few">%1$d DNI</item>
+        <item quantity="many">%1$d DNI</item>
+    </plurals>
+    <plurals name="rental_badge_days_description">
+        <item quantity="other">okres wypożyczenia wygasa za %1$d dnia</item>
+        <item quantity="one">okres wypożyczenia wygasa za %1$d dzień</item>
+        <item quantity="two">okres wypożyczenia wygasa za %1$d dni</item>
+        <item quantity="few">okres wypożyczenia wygasa za %1$d dni</item>
+        <item quantity="many">okres wypożyczenia wygasa za %1$d dni</item>
+    </plurals>
+    <plurals name="license_dialog_body">
+        <item quantity="other">Możesz pobrać tę książkę do czytania offline na %1$d urządzenia lub czytać ją tylko online.</item>
+        <item quantity="zero">Tej książki nie możesz pobrać do czytania offline. Możesz ją czytać tylko online.</item>
+        <item quantity="one">Możesz pobrać tę książkę do czytania offline na jednym urządzeniu lub czytać ją tylko online.</item>
+        <item quantity="two">Możesz pobrać tę książkę do czytania offline na %1$d urządzeniach lub czytać ją tylko online.</item>
+        <item quantity="few">Możesz pobrać tę książkę do czytania offline na %1$d urządzeniach lub czytać ją tylko online.</item>
+        <item quantity="many">Możesz pobrać tę książkę do czytania offline na %1$d urządzeniach lub czytać ją tylko online.</item>
+    </plurals>
+    <plurals name="license_alert_offline_unavailable_body">
+        <item quantity="other">Ta książka została już pobrana na %1$d Twojego urządzenia. Aby czytać ją offline na tym urządzeniu, usuń ją z jednego z pozostałych.</item>
+        <item quantity="one">Ta książka została już pobrana na inne Twoje urządzenie. Aby czytać ją offline na tym urządzeniu, usuń ją z drugiego.</item>
+        <item quantity="two">Ta książka została już pobrana na %1$d Twoje urządzenia. Aby czytać ją offline na tym urządzeniu, usuń ją z jednego z pozostałych.</item>
+        <item quantity="few">Ta książka została już pobrana na %1$d Twoje urządzenia. Aby czytać ją offline na tym urządzeniu, usuń ją z jednego z pozostałych.</item>
+        <item quantity="many">Ta książka została już pobrana na %1$d Twoich urządzeń. Aby czytać ją offline na tym urządzeniu, usuń ją z jednego z pozostałych.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Co %d dni</item>
+        <item quantity="one">Co %d dzień</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Co %d tyg.</item>
+        <item quantity="one">Co %d tydzień</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Co %d mies.</item>
+        <item quantity="one">Co %d miesiąc</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Co %d lat(a)</item>
+        <item quantity="one">Co %d rok</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Dla %d wydarzeń</item>
+        <item quantity="one">Dla %d wydarzenia</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d razy</item>
+        <item quantity="one">; jeden raz</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Co %d dni</item>
+        <item quantity="one">Dzienne</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Co %1$d tygodni(e) w %2$s</item>
+        <item quantity="one">Co tydzień w %2$s</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Wybrane: %1$d</item>
+        <item quantity="zero">Wybranych %1$d</item>
+        <item quantity="one">Wybrana %1$d</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d godz.</item>
+        <item quantity="one">%1$d godzina</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d godz.</item>
+        <item quantity="one">%1$d godz.</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d minuta</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d dni</item>
+        <item quantity="one">%1$d dzień</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d dni</item>
+        <item quantity="one">%1$d dzień</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d mies.</item>
+        <item quantity="one">%1$d miesiąc</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d mies.</item>
+        <item quantity="one">%1$d miesiąc</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d lat(a)</item>
+        <item quantity="one">%1$d rok</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d lat(a)</item>
+        <item quantity="one">%1$d rok</item>
+    </plurals>
+    <plurals name="items_from_without_colon">
+        <item quantity="other">Elementy (%1$d) od</item>
+        <item quantity="one">%1$d element od</item>
+    </plurals>
+    <plurals name="last_bus_home_departure_time">
+        <item quantity="other">Ostatni autobus do domu masz za %2$s%1$d min%3$s</item>
+        <item quantity="one">Ostatni autobus do domu masz za %2$s%1$d minutę%3$s</item>
+    </plurals>
+    <plurals name="last_bus_to_hotel_departure_time">
+        <item quantity="other">Ostatni autobus do hotelu masz za %2$s%1$d min%3$s</item>
+        <item quantity="one">Ostatni autobus do hotelu masz za %2$s%1$d minutę%3$s</item>
+    </plurals>
+    <plurals name="last_train_home_departure_time">
+        <item quantity="other">Ostatni pociąg do domu odjeżdża za %2$s%1$d min%3$s</item>
+        <item quantity="one">Ostatni pociąg do domu masz za %2$s%1$d minutę%3$s</item>
+    </plurals>
+    <plurals name="last_train_to_hotel_departure_time">
+        <item quantity="other">Ostatni pociąg do hotelu za %2$s%1$d minut(y)%3$s</item>
+        <item quantity="one">Ostatni pociąg do hotelu masz za %2$s%1$d minutę%3$s</item>
+    </plurals>
+    <plurals name="last_transit_home_departure_time">
+        <item quantity="other">Ostatni transport do domu masz za %2$s%1$d min%3$s</item>
+        <item quantity="one">Ostatni transport do domu masz za %2$s%1$d minutę%3$s</item>
+    </plurals>
+    <plurals name="last_transit_to_hotel_departure_time">
+        <item quantity="other">Ostatni transport do hotelu masz za %2$s%1$d min%3$s</item>
+        <item quantity="one">Ostatni transport do hotelu masz za %2$s%1$d minutę%3$s</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext">
+        <item quantity="other">Idź przez %1$d min, by dotrzeć do stacji %2$s, peron %3$s</item>
+        <item quantity="zero">%2$s, peron %3$s</item>
+        <item quantity="one">Idź przez %1$d minutę, by dotrzeć do stacji %2$s, peron %3$s</item>
+    </plurals>
+    <plurals name="minutes_delay">
+        <item quantity="other">%d min opóźnienia</item>
+        <item quantity="zero">bez opóźnienia</item>
+        <item quantity="one">%d min opóźnienia</item>
+        <item quantity="two">%d min opóźnienia</item>
+        <item quantity="few">%d min opóźnienia</item>
+        <item quantity="many">%d min opóźnienia</item>
+    </plurals>
+    <plurals name="minutes_delay_more_than_usual">
+        <item quantity="other">%d min dłużej niż zwykle</item>
+        <item quantity="zero">bez opóźnienia</item>
+        <item quantity="one">%d min dłużej niż zwykle</item>
+        <item quantity="two">%d min dłużej niż zwykle</item>
+        <item quantity="few">%d min dłużej niż zwykle</item>
+        <item quantity="many">%d min dłużej niż zwykle</item>
+    </plurals>
+    <plurals name="minutes_delay_less_than_usual">
+        <item quantity="other">%d min krócej niż zwykle</item>
+        <item quantity="zero">bez opóźnienia</item>
+        <item quantity="one">%d minutę krócej niż zwykle</item>
+        <item quantity="two">%d min krócej niż zwykle</item>
+        <item quantity="few">%d min krócej niż zwykle</item>
+        <item quantity="many">%d min krócej niż zwykle</item>
+    </plurals>
+    <plurals name="usual_traffic_minutes_delay">
+        <item quantity="other">Normalny ruch: %d min opóźnienia</item>
+        <item quantity="zero">Normalny ruch: bez opóźnienia</item>
+        <item quantity="one">Normalny ruch: %d min opóźnienia</item>
+        <item quantity="two">Normalny ruch: %d min opóźnienia</item>
+        <item quantity="few">Normalny ruch: %d min opóźnienia</item>
+        <item quantity="many">Normalny ruch: %d min opóźnienia</item>
+    </plurals>
+    <plurals name="num_min_late">
+        <item quantity="other">%d min opóźnienia</item>
+        <item quantity="one">minuta opóźnienia</item>
+    </plurals>
+    <plurals name="num_min_early">
+        <item quantity="other">%d min wcześniej</item>
+        <item quantity="one">1 min wcześniej</item>
+    </plurals>
+    <plurals name="transit_interval_in_minutes">
+        <item quantity="other">· co %1$s min</item>
+        <item quantity="one">· co %1$s minutę</item>
+    </plurals>
+    <plurals name="transit_interval_in_hours">
+        <item quantity="other">· co %1$d godz.</item>
+        <item quantity="one">· co %1$d godzinę</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">%1$d. DOGRYWKA</item>
+        <item quantity="one">OT</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">Dotrzesz na miejsce %1$d min przed czasem</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_flight">
+        <item quantity="other">Dotrzesz na lotnisko %1$d min przed odlotem</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_reservation">
+        <item quantity="other">Dotrzesz na miejsce %1$d min przed rezerwacją</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_movie">
+        <item quantity="other">Dotrzesz do kina %1$d min przed seansem</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_concert">
+        <item quantity="other">Dotrzesz na koncert %1$d min przed czasem</item>
+    </plurals>
+    <plurals name="next_meeting_card_settings_summary">
+        <item quantity="other">Kalendarze: %1$d</item>
+        <item quantity="one">%1$d kalendarz</item>
+    </plurals>
+    <plurals name="card_count">
+        <item quantity="other">%d karty</item>
+        <item quantity="zero">Brak kart</item>
+        <item quantity="one">%d karta</item>
+        <item quantity="two">%d karty</item>
+        <item quantity="few">%d karty</item>
+        <item quantity="many">%d kart</item>
+    </plurals>
+    <plurals name="num_reviews">
+        <item quantity="other">Opinie: %1$d</item>
+        <item quantity="one">%1$d opinia</item>
+    </plurals>
+    <plurals name="miles">
+        <item quantity="other">&amp;lt;font face=sans-serif>%d&amp;lt;/font> mil(e)</item>
+        <item quantity="one">&amp;lt;font face=sans-serif>%d&amp;lt;/font> mila</item>
+    </plurals>
+    <plurals name="kilometers">
+        <item quantity="other">&amp;lt;font face=sans-serif>%d&amp;lt;/font> km</item>
+        <item quantity="one">&amp;lt;font face=sans-serif>%d&amp;lt;/font> kilometr</item>
+    </plurals>
+    <plurals name="reminders">
+        <item quantity="other">Przypomnienia (%1$d)</item>
+        <item quantity="one">%1$d przypomnienie</item>
+    </plurals>
+    <plurals name="deleted">
+        <item quantity="other">%1$d usunięte</item>
+    </plurals>
+    <plurals name="number_of_location_sharers">
+        <item quantity="other">Osoby, które Ci udostępniają: %1$d</item>
+        <item quantity="one">%1$d osoba udostępnia Ci</item>
+    </plurals>
+    <plurals name="expiring_duration_in_days">
+        <item quantity="other">Wygasa za %1$d dni</item>
+        <item quantity="one">Wygasa za %1$d dzień</item>
+    </plurals>
+    <plurals name="expiring_duration_in_hours">
+        <item quantity="other">Wygasa za %1$d godz.</item>
+        <item quantity="one">Wygasa za %1$d godzinę</item>
+    </plurals>
+    <plurals name="expiring_duration_in_minutes">
+        <item quantity="other">Wygasa za %1$d min</item>
+        <item quantity="one">Wygasa za %1$d minutę</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$,d wyśw.</item>
+        <item quantity="one">%1$,d wyśw.</item>
+    </plurals>
+    <plurals name="calendar_event_meeting_summary_with_attendees">
+        <item quantity="other">&lt;xliff id="subject" example="Meeting">%1$s&lt;/xliff> (&lt;xliff id="attendee_list" example="Paul, Peter, Jane, Hertha">%2$s&lt;/xliff>)</item>
+        <item quantity="one">&lt;xliff id="subject" example="Meeting">%1$s&lt;/xliff> z &lt;xliff id="attendee_list" example="Hertha">%2$s&lt;/xliff></item>
+    </plurals>
+</resources>

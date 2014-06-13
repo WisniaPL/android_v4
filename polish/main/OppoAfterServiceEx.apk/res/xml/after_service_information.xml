@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<regions version="1.0">
+    <TH Hotline="02-415-3888" Email="service@oppothai.com" Website="http://www.oppothai.com" Address="230 ถ.บางขุนเทียนชายทะเล แขวงแสมดำ เขตบางขุนเทียน กรุงเทพฯ 10150" />
+    <ID Hotline="+62-21-6306230" Email="service.id@oppo.com" Website="http://www.oppomobile.co.id" Address="Ruko ITC Roxy Mas Block D3 No.16 Jl.KH.Hasyim Ashari Jakarta Pusat 10150" />
+    <VN Hotline="1800577776" Email="service@oppomobile.vn" Website="http://www.oppomobile.vn" Address="Tòa Nhà 242 Cống Quỳnh, P.Phạm Ngũ Lão, Q1, TP.HCM" />
+    <RU Hotline="8 (800) 2006776" Email="cool-center@oppo.ru" Website="http://www.oppo.ru" Address="" />
+    <MY Hotline="+(60)321103448" Email="service@oppomobile.com.my" Website="http://www.oppomobile.com.my" Address="Lot 1.24 First Floor,Podium Block,Plaza Berjaya,12,Jalan Imbi,55100" />
+    <IN Hotline="+911141618154" Email="service@oppomobile.in" Website="http://www.oppomobile.in" Address="K-22, Lajpat Nagar-II New Delhi, 110024" />
+    <SG Hotline="1800-SOS-OPPO(1800-767-6776)" Email="Service@oppo.com.sg" Website="http://www.oppomobile.com.sg" Address="6, Eu Tong Sen Street #03-07 The Central Singapore 059817" />
+</regions>

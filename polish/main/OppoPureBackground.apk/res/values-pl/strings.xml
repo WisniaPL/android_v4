@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pure_background_title">Oszczędzanie danych</string>
+    <string name="pure_background_title_onof">Informacje o oszczędzaniu danych</string>
+    <string name="pure_background_detail_on">Po włączeniu trybu oszczędzania danych, aplikacje w tle nie będą zużywać pakietu danych, zasobów procesora i energii.</string>
+    <string name="pure_background_detail_off">Funkcja wyłączona. Zalecane jest jej włączenie, ponieważ może to ochronić przez złośliwymi programami, które działając w tle przesyłają spam i zwiększają rachunki za dane.</string>
+    <string name="pure_background_trust_app">Zaufane aplikacje</string>
+    <string name="pure_background_trust_app_addmore">Dodaj</string>
+    <string name="pure_background_applist_empty">Nie zainstalowano aplikacji od osób trzecich</string>
+    <string name="pure_background_whitelist_empty">Brak aplikacji uprawnionych do działania w tle</string>
+    <string name="pure_background_bgflow_ranking">Ranking transferu danych</string>
+    <string name="pure_background_bgflow_ranking_empty">Ranking transferu danych jest pusty</string>
+    <string name="pure_background_bgflow_ranking_more">Więcej…</string>
+    <string name="pure_background_bgapp_manager_title">Menedżer aplikacji w tle</string>
+    <string name="pure_background_bgapp_manager_allow">Zezwól na uruchamianie w tle</string>
+    <string name="pure_background_bgapp_manager_froze">Zamroź, gdy w tle</string>
+    <string name="pure_background_bgapp_traffic">Transfer:</string>
+    <string name="pure_background_bgapp_no_traffic">Brak ruchu</string>
+    <string name="pure_background_flowrank_reset">Resetuj statystyki transferu</string>
+    <string name="pure_background_flowrank_reset_time">Ostatni reset liczników:</string>
+    <string name="oppo_purebackground_menu_left">Dodaj aplikacje</string>
+    <string name="oppo_purebackground_menu_right">Transfer w tle</string>
+</resources>

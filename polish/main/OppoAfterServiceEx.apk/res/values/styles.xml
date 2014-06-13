@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.OPPO.ActionBar" parent="@oppo:style/Theme.OPPO">
+        <item name="android:windowActionBar">true</item>
+        <item name="android:actionBarStyle">@style/myActionBarStyle</item>
+    </style>
+    <style name="myActionBarStyle" parent="@oppo:style/Widget.OPPO.ActionBar">
+        <item name="android:displayOptions">showTitle</item>
+    </style>
+</resources>

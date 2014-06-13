@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="power_save_setting">Ustawienia oszczędzania energii</string>
+    <string name="power_save_normal">Zwykłe oszczędzanie energii</string>
+    <string name="power_save_using_title">Informacje</string>
+    <string name="power_save_nomal_tips">Zwykłe oszczędzanie energii</string>
+    <string name="power_save_deep_tips">Mocne oszczędzanie energii</string>
+    <string name="enable_screen_tag">Obniżenie jasności ekranu wydłuży czas działania na baterii</string>
+    <string name="enable_animation_title">Wyłącz animacje</string>
+    <string name="enable_down_cpu_title">Obniżenie częstotliwości pracy CPU</string>
+    <string name="enable_clear_back_title">Brak w tle</string>
+    <string name="twelve_hour_time_format">h:mm a</string>
+    <string name="twenty_four_hour_time_format">HH:mm</string>
+    <string name="full_year_month_day_week">yyyy.MM.dd EEEE</string>
+    <string name="help_string">"Zwykłe oszczędzanie energii:
+1.Ograniczenie energii zużywanej przez ekran
+Obniż jasność ekranu, aby uzyskać dłuższy czas pracy na baterii przy włączonym ekranie.
+2. Wyłącz wibracje przy dotknięciu
+Generowanie wibracji przy dotknięciu zużywa baterię, wyłączenie tej funkcjonalności wydłuży czas pracy.
+3. Wyłącz GPS, Wi-Fi, Bluetooth oraz sieci komórkowe
+Wyłączenie GPS, Wi-Fi, Bluetooth i sieci komórkowych może ograniczyć zużycie baterii.
+Wyłączenie opcji powyżej może mieć wpływ na dostępność internetu, ale wciąż będzie można korzystac z usług komunikacyjnych.
+Mocne oszczędzanie energii:
+1. Wyłącz animacje
+Wyłączenie animacji obniży zapotrzebowanie na energię, ale może mieć przełożenie na wygląd.
+2. Tylko komunikacja
+Przy niskim stanie baterii system wyłączy wszystkie funkcjonalności oprócz podstawowych: wysyłania wiadomości i dzwonienia, aby zdecydowanie wydłużyć pozostały czas pracy na baterii.
+3. Obniż taktowanie procesora
+Zmniejszenie częstotliwości taktowania procesora zdecydowanie wydłuża czas pracy na baterii, ale ma wpływ na szybkość działania systemu.
+4. Brak pracy w tle
+Wstrzymanie pracy aplikacji działających w tle zmniejszy zapotrzebowanie na energię, ale może mieć niekorzystny wpływ na aplikacje przystosowane do działania w ten sposób."</string>
+    <string name="battery_low_percent_format">Poziom baterii poniżej %d%%</string>
+    <string name="enter_smartMode_format">Wprowadzić %s?</string>
+    <string name="app_name">Zarządzanie energią</string>
+    <string name="power_details">Informacje o użyciu energii</string>
+    <string name="power_save_mode">Tryb oszczędzania energii</string>
+    <string name="smart_control">Inteligentne zarządzanie</string>
+    <string name="power_usage_details">Szczegóły użycia energii</string>
+    <string name="power_usage_statistics">Statystyki użycia energii</string>
+    <string name="smart_mode_set_title">Inteligentne zarządzanie</string>
+    <string name="clear_label">Zakończ wszystko</string>
+    <string name="application_drain_label">Aplikacje</string>
+    <string name="hardware_drain_label">Sprzęt</string>
+    <string name="refresh_label">Odśwież</string>
+    <string name="battery_history_days">%1$dd %2$dg %3$dm %4$ds</string>
+    <string name="battery_history_hours">%1$dg %2$dm %3$ds</string>
+    <string name="battery_history_minutes">%1$dm %2$ds</string>
+    <string name="battery_history_seconds">%1$d s.</string>
+    <string name="power_screen">Wyświetlacz</string>
+    <string name="power_wifi">Wi-Fi</string>
+    <string name="power_bluetooth">Bluetooth</string>
+    <string name="power_cell">Sieć komórkowa</string>
+    <string name="power_phone">Połączenia głosowe</string>
+    <string name="power_idle">Tryb gotowości</string>
+    <string name="process_kernel_label">System Android</string>
+    <string name="process_mediaserver_label">Serwer mediów</string>
+    <string name="prompt_system_app_label">Aplikacje systemu Android</string>
+    <string name="prompt_apps_forcestop_label">Aplikacje zużywające energię zostały zamknięte!</string>
+    <string name="label_text_standing_time">"Dostępne: "</string>
+    <string name="label_text_voltage">Napięcie:</string>
+    <string name="label_text_temperature">Temperatura:</string>
+    <string name="label_text_health">Stan baterii:</string>
+    <string name="label_text_idle">Tryb gotowości</string>
+    <string name="label_text_call">Połączenie</string>
+    <string name="label_text_net">Internet</string>
+    <string name="label_text_music">Muzyka</string>
+    <string name="label_text_video">Filmy</string>
+    <string name="label_text_read">Czytanie</string>
+    <string name="label_text_game">Gra</string>
+    <string name="label_text_leaving_time">Czas pozostały (godz./m.)</string>
+    <string name="label_text_mode">Tryb normalny</string>
+    <string name="label_text_hour">godz.</string>
+    <string name="label_text_min">m.</string>
+    <string name="label_text_battery_health_good">Dobry</string>
+    <string name="label_text_battery_health_overheat">Przegrzanie</string>
+    <string name="label_text_battery_health_dead">Zła</string>
+    <string name="label_text_battery_health_over_voltage">Zbyt wysokie napięcie</string>
+    <string name="label_text_battery_health_unknow">Nieznany</string>
+    <string name="label_text_mode_select">Wybierz tryb</string>
+    <string name="brightness">Jasność</string>
+    <string name="screen_timeout">Uśpienie</string>
+    <string name="display_settings">Ustawienia wyświetlania</string>
+    <string name="animations_title">Animacje</string>
+    <string name="enable_wlan">Wi-Fi</string>
+    <string name="enable_bluetooth">Bluetooth</string>
+    <string name="enable_mobiledata">Sieć komórkowa</string>
+    <string name="enable_gps">GPS</string>
+    <string name="enable_autosync">Synchronizacja automatyczna</string>
+    <string name="enable_silence">Wibracje</string>
+    <string name="enable_hapticfeedback">Reakcja na dotyk</string>
+    <string name="mode_delete">Usuń</string>
+    <string name="mode_modify">Zmień</string>
+    <string name="change_mode_title">Zmień tryb</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Anuluj</string>
+    <string name="save">Zapisz</string>
+    <string name="automatic">Dostosuj automatycznie</string>
+    <string name="automatic_brightness">Dostosuj jasność automatycznie</string>
+    <string name="brightness_summary">Jasność podświetlania: %s%%</string>
+    <string name="screen_timeout_summary">Czas podświetlania: %s</string>
+    <string name="is_changed">Zmodyfikowane</string>
+    <string name="cancel">Anuluj</string>
+    <string name="rename">Zmień nazwę</string>
+    <string name="values_check_not_null">Podana wartość nie może być pusta!</string>
+    <string name="values_check_dual_name">Nazwa już istnieje, wprowadź inną!</string>
+    <string name="new_power_mode">Własny tryb</string>
+    <string name="delete_mode_clue">Usunąć %s?</string>
+    <string name="hour_label">godz.</string>
+    <string name="minute_label">m.</string>
+    <string name="can_not_delete">Nie można usunąć trybu, który jest właśnie aktywny!</string>
+    <string name="mode_error">Błąd danych!</string>
+    <string name="smart_power">Inteligentne zarządzanie</string>
+    <string name="auto_low_power">Tryb niskiego poziomu baterii</string>
+    <string name="auto_lock_power">Tryb wyłączania ekranu</string>
+    <string name="on_schedule_power">Tryb planowego włączenia</string>
+    <string name="low_pow_value_string">Ustaw wartość baterii</string>
+    <string name="low_pow_value">%s%%</string>
+    <string name="low_pow_dialog">Stan baterii</string>
+    <string name="power_mode_title">Wybierz tryb</string>
+    <string name="mode_title">Lista trybów</string>
+    <string name="smart_lock_title">Tryb wyłączania ekranu</string>
+    <string name="lock_time">Ustaw czas</string>
+    <string name="lock_time_dialog_title">Lista czasów</string>
+    <string name="set_time_title">Ustaw okres czasu</string>
+    <string name="begin_time">Początek</string>
+    <string name="end_time">Koniec</string>
+    <string name="time_input_error">Konflikt czasu, dodaj automatycznie 1 godzinę</string>
+    <string name="values_check_long">Dane wejściowe zbyt długie!</string>
+    <string name="save_method">Wskazówki pomagające oszczędzać energię</string>
+    <string name="save_settings">Ustawienia</string>
+    <string name="exit">Zamknij</string>
+    <string name="enable_notification">Powiadomienia</string>
+    <string name="enable_notification_summary">Pokaż informację o baterii na pasku stanu</string>
+    <string name="enable_boot_start">Automatycznie uruchom po włączeniu zasilania</string>
+    <string name="enable_boot_start_summary">Uruchom oszczędzanie energii po włączeniu</string>
+    <string name="enable_button">Otwarte</string>
+    <string name="disable_button">Zamknięte</string>
+    <string name="super_mode_summary">Pozostaw włączone tylko funkcje komunikacyjne i wyłącz wszystkie inne, które mogą obciążać baterię.</string>
+    <string name="first_mode_summary">Ustawienia systemu zapisane przy pierwszym uruchomieniu tej aplikacji</string>
+    <string name="loading">Zmiana trybu</string>
+    <string name="enable_wlan_summary">Wyłączenie Wi-Fi może zmniejszyć zużycie energii</string>
+    <string name="enable_bluetooth_summary">Wyłączenie Bluetooth może zmniejszyć zużycie energii</string>
+    <string name="enable_mobiledata_summary">Wyłączenie danych komórkowych może zmniejszyć zużycie energii</string>
+    <string name="enable_gps_summary">Wyłączenie GPS może zmniejszyć zużycie energii</string>
+    <string name="enable_autosync_summary">Wyłączenie automatycznej synchronizacji może zmniejszyć zużycie energii</string>
+    <string name="enable_silence_summary">Wyłączenie wibracji może zmniejszyć zużycie energii</string>
+    <string name="enable_hapticfeedback_summary">Wyłączenie wibracji po dotknięciu zmniejszy zużycie energii</string>
+    <string name="power_settings">Zarządzanie energią</string>
+    <string name="display_power_percent">Pokaż procent baterii na pasku stanu</string>
+    <string name="battery_percentage_info">Procentowy wskaźnik baterii:</string>
+    <string name="power_manager_fresh">Odśwież</string>
+    <string name="power_manager_optimize">Optymalizuj</string>
+    <string name="enable_brightness_mode">Oszczędzanie energii przez ekran</string>
+    <string name="enable_brightness_mode_summary">Użyj trybu oszczędzania energii przez ekran</string>
+    <string name="enable_power_manager_toast">Tryb oszczędzania energii włączony</string>
+    <string name="unenable_power_manager_toast">Tryb oszczędzania energii wyłączony</string>
+    <string name="close_gps_wifi_bt_gprs_title">Wyłącz GPS, Wi-Fi, Bluetooth, dane komórkowe</string>
+    <string name="close_gps_wifi_bt_gprs_summary">Wyłączenie tych funkcji może wydłużyć czas pracy na baterii</string>
+    <string name="power_saving_setting">Ustawienia oszczędzania energii</string>
+    <string name="power_remind_setting">Ustawienia przypomnień</string>
+    <string name="power_charging_remind">Powiadomienie o baterii</string>
+    <string name="power_charging_remind_details">Wyświetlenie przypomnienia o ładowaniu, gdy stan baterii spadnie poniżej 40%</string>
+    <string name="power_saving_tips">Wskazówki dotyczące oszczędzania energii</string>
+    <string name="power_saving_help">Informacje o oszczędzaniu energii</string>
+    <string name="power_managerment_help1">1. Oszczędzanie energii przez ekran</string>
+    <string name="power_managerment_help1_summary">Uruchomienie funkcji oszczędzania energii przez ekran ograniczy jasność ekranu, co pomaga wydłużyć czas pracy na baterii przy włączonym ekranie.</string>
+    <string name="power_managerment_help2">2. Wyłącz reakcje na dotyk</string>
+    <string name="power_managerment_help2_summary">Funkcja wibrowania zwiększa użycie baterii.</string>
+    <string name="power_managerment_help3">3. Wyłącz GPS, Wi-Fi, Bluetooth oraz dane sieci komórkowej</string>
+    <string name="power_managerment_help3_summary">Jeśli nie korzystasz aktualnie z GPS, Wi-Fi, Bluetooth i danych komórkowych, możesz wyłączyć te funkcje, aby wydłużyć czas pracy na baterii.</string>
+    <string name="power_managerment_help_summary">Wyłączenie tych funkcji ograniczy możliwość łączenia się z internetem, ale nie będzie miało wpływu na funkcje komunikacyjne.</string>
+    <string name="full_need_time">W pełni naładowany za:</string>
+    <string name="label_used_time">"Użyto: "</string>
+    <string name="on_schedule_power_summary">%1$s automatycznie włącza %2$s</string>
+    <string name="auto_lock_power_summary">Włącz automatycznie %2$s gdy ekran jest wyłączony przez %1$s, powróć do poprzedniego trybu po włączeniu ekranu.</string>
+    <string name="auto_low_power_summary">Aktywuj %1$s, gdy poziom baterii spadnie poniżej %2$s%%</string>
+    <string name="change_mode_sub_clue">Przełączanie na %1$s, czas pracy na baterii %2$s(obniżony o %3$s)</string>
+    <string name="change_mode_add_clue">Przełączanie na %1$s, czas pracy na baterii %2$s(obniżony o %3$s)</string>
+</resources>

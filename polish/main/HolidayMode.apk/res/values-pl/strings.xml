@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HolidayModeActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="holiday_mode_time_set_start">Początek</string>
+    <string name="holiday_mode_time_set_end">Koniec</string>
+    <string name="holiday_mode_contacts_my_collection">Osoby w ulubionych</string>
+    <string name="holiday_mode_contacts_user_defined">Osoby wybrane</string>
+    <string name="holiday_mode_contacts_list">Lista kontaktów na białej liście</string>
+    <string name="holiday_mode_contacts_selected_list">Wybierz kontakt</string>
+    <string name="holiday_mode_menu_add">dodaj</string>
+    <string name="holiday_mode_menu_edit">Edycja</string>
+    <string name="holiday_mode_menu_delete">Usuń</string>
+    <string name="holiday_mode_menu_cancel">Anuluj</string>
+    <string name="holiday_mode_menu_option_item">Opcja</string>
+    <string name="holiday_mode_not_mark_contacts_string">Wybierz kontakty prywatne do usunięcia!</string>
+    <string name="holiday_mode_delete_contacts_item_warning">Usunąć?</string>
+    <string name="holiday_mode_delete_succeed_string">Usunięte!</string>
+    <string name="holiday_mode_name_is_null_string">Nazwa nieznana</string>
+    <string name="holiday_mode_menu_search">Szukaj</string>
+    <string name="holiday_mode_oppo_option_selectall">Nazwa nieznana</string>
+    <string name="holiday_mode_morning">AM</string>
+    <string name="holiday_mode_afternoon">PM</string>
+    <string name="holiday_mode_directions_for_use">Informacje</string>
+    <string name="holiday_mode_no_cantacts">Nie ustawiono własnych kontaktów</string>
+    <string name="holiday_mode_start_end_time_same">Czas rozpoczęcia i zakończenia nie może być taki sam</string>
+    <string name="attention">Wskazówki</string>
+    <string name="OK">Potwierdź</string>
+</resources>

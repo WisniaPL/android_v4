@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="eq_preset_entries">
+        <item>Domyślny</item>
+        <item>Wyłączony</item>
+        <item>Rock</item>
+        <item>Jazz</item>
+        <item>Pop</item>
+        <item>Klasyczna</item>
+        <item>Country</item>
+        <item>Dance</item>
+        <item>Metal</item>
+        <item>R&amp;B</item>
+        <item>Hip Hop</item>
+        <item>Nastrojowy blues</item>
+        <item>Muzyka elektroniczna</item>
+        <item>Muzyka nowoczesna</item>
+        <item>Podkasty</item>
+        <item>Muzyka latynowska</item>
+        <item>Jungle</item>
+        <item>Urban</item>
+        <item>Użytkownika</item>
+    </string-array>
+    <string-array name="repeat_modes_entries">
+        <item>Wył.</item>
+        <item>Raz</item>
+        <item>Powtarzaj wszystko</item>
+    </string-array>
+    <string-array name="play_modes_entries">
+        <item>W kolejności</item>
+        <item>Jeden utwór</item>
+        <item>Powtórz wszystkie</item>
+        <item>Losowo</item>
+    </string-array>
+    <string-array name="stop_playing_entries">
+        <item>Wyłączanie ręczne</item>
+        <item>30 minut</item>
+        <item>60 minut</item>
+        <item>90 minut</item>
+    </string-array>
+    <string-array name="skin_entries">
+        <item>Skórka1</item>
+        <item>Skórka2</item>
+        <item>Skórka3</item>
+    </string-array>
+    <string-array name="skin_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="speaker_mode_entries">
+        <item>Wył.</item>
+        <item>Efekt Dolby</item>
+    </string-array>
+    <string-array name="headset_sound_effect_entries">
+        <item>Wył.</item>
+        <item>Dolby mobile</item>
+        <item>Efekt Diraca</item>
+    </string-array>
+    <string-array name="headset_sound_effect_entries_nodolby">
+        <item>Wył.</item>
+        <item>Efekt Diraka</item>
+    </string-array>
+    <string-array name="pref_natural_bass_entries">
+        <item>Wył.</item>
+        <item>Zwyczajny</item>
+        <item>Średni</item>
+        <item>Silny</item>
+    </string-array>
+    <string-array name="pref_hfe_entries">
+        <item>Wył.</item>
+        <item>Zwyczajny</item>
+        <item>Średni</item>
+        <item>Silny</item>
+    </string-array>
+    <string-array name="pref_room_size_entries">
+        <item>Mały</item>
+        <item>Średni</item>
+        <item>Duży</item>
+    </string-array>
+    <string-array name="pref_brightness_entries">
+        <item>Niska</item>
+        <item>Średnia</item>
+        <item>Wysoka</item>
+    </string-array>
+    <string-array name="scan_exlude_suffixes">
+        <item>MIDI</item>
+        <item>SWB</item>
+        <item>RM</item>
+    </string-array>
+    <string-array name="scan_exlude_suffixes_default_value">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+    </string-array>
+    <string-array name="files_filter_size_entries">
+        <item>Brak limitu</item>
+        <item>200 K</item>
+        <item>500 K</item>
+        <item>800 K</item>
+        <item>1 M</item>
+    </string-array>
+    <string-array name="files_filter_size_values">
+        <item>0</item>
+        <item>204800</item>
+        <item>512000</item>
+        <item>819200</item>
+        <item>1024000</item>
+    </string-array>
+    <string-array name="files_filter_duration_entries">
+        <item>Brak limitu</item>
+        <item>20 sekund</item>
+        <item>60 sekund</item>
+        <item>90 sekund</item>
+        <item>120 sekund</item>
+    </string-array>
+    <string-array name="files_filter_duration_values">
+        <item>0</item>
+        <item>20000</item>
+        <item>60000</item>
+        <item>90000</item>
+        <item>120000</item>
+    </string-array>
+    <string-array name="global_sound_entries">
+        <item>Wył.</item>
+        <item>Efekt Dolby</item>
+        <item>Efekt Diraca</item>
+    </string-array>
+    <string-array name="download_entries">
+        <item>Pobieranie</item>
+        <item>Pobrane</item>
+    </string-array>
+    <string-array name="artist_child_entries">
+        <item>Utwór</item>
+        <item>Album</item>
+    </string-array>
+    <string-array name="local_songs_entries">
+        <item>Wszystkie utwory</item>
+        <item>Wykonawcy</item>
+        <item>Albumy</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kółko na klucze</string>
+    <string name="title_no_certs">Nie odnaleziono certyfikatów</string>
+    <string name="title_select_cert">Wybierz certyfikat</string>
+    <string name="requesting_application">Żądanie certyfikatu dla aplikacji %s. Należy wybrać certyfikat, za pomocą którego aplikacja będzie mogła identyfikować się na serwerach teraz i w przyszłości.</string>
+    <string name="requesting_server">Serwer zidentyfikował żądanie aplikacji jako: %s, jeżeli jednak jej nie ufasz, nie pozwól tej aplikacji na uzyskanie dostępu do certyfikatu.</string>
+    <string name="install_new_cert_message">Certyfikaty można instalować za pomocą plików PKCS#12 z rozszerzeniem %1$s lub %2$s, po umieszczeniu ich w pamięci zewnętrznej.</string>
+    <string name="install_new_cert_button_label">Zainstaluj</string>
+    <string name="allow_button">Zezwól</string>
+    <string name="deny_button">Odmów</string>
+</resources>

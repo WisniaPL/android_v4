@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Serviciul post vanzare OPPO</string>
+    <string name="oppo_after_service_title">Serviciul post vanzare OPPO</string>
+    <string name="afterservice_hotline_title">Telefon serviciu</string>
+    <string name="afterservice_address_title">Adresă</string>
+    <string name="afterservice_email_title">E-mail</string>
+    <string name="afterservice_website_title">Site web</string>
+    <string name="help_dialog_title">Ajutor</string>
+    <string name="help_dialog_msg">Pentru a fiti servit mai bine, reteaua de service mobil OPPO e in continua expansiune. Va rugam sa vizitati siteul nostru oficial sau sa sunati la linia noastra nationala pentru a afla ultimele noutati</string>
+</resources>

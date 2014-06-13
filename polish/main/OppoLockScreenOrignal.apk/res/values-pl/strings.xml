@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unlockVersion">1.0</string>
+    <string name="unlockDate">2012-05-17</string>
+    <string name="unlockResolution">800*480</string>
+    <string name="discription">this is a demo for oppo lockscreen</string>
+    <string name="ok">OK</string>
+    <string name="kg_emergency_call_label">Połączenie alarmowe</string>
+    <string name="kg_failed_attempts_almost_at_wipe">Po raz %1$d spróbowano nieprawidłowo odblokować telefon. Po kolejnych %2$d nieudanych próbach telefon zostanie zresetowany do ustawień fabrycznych, a wszystkie dane użytkownika zostaną utracone.</string>
+    <string name="kg_failed_attempts_now_wiping">Po raz %d próbowałeś nieprawidłowo odblokować telefon. Telefon zostanie teraz zresetowany do ustawień fabrycznych.</string>
+    <string name="kg_failed_attempts_almost_at_login">"Po raz %1$d nieprawidłowo narysowano wzór odblokowania. Po kolejnych %2$d nieudanych próbach konieczne będzie odblokowanie telefonu za pomocą danych logowania konta Google.
+
+ Spróbuj ponownie za %3$d s."</string>
+    <string name="kg_reordering_delete_drop_target_text">Usuń</string>
+    <string name="lockscreen_instructions_when_pattern_disabled">Naciśnij Menu, aby odblokować.</string>
+    <string name="lockscreen_plugged_in">Ładowanie (%d%%)</string>
+    <string name="lockscreen_charged">Naładowano</string>
+    <string name="lockscreen_battery_short">%d%%</string>
+    <string name="lockscreen_low_battery">Podłącz ładowarkę</string>
+    <string name="lockscreen_missing_sim_message_short">Brak karty SIM</string>
+    <string name="lockscreen_missing_sim_instructions">Włóż kartę SIM.</string>
+    <string name="lockscreen_missing_sim_instructions_long">Brak karty SIM lub nie można jej odczytać. Włóż kartę SIM.</string>
+    <string name="lockscreen_permanent_disabled_sim_message_short">Karta SIM bezużyteczna.</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"Karta SIM jest trwale wyłączona.
+ Skontaktuj się z dostawcą usług bezprzewodowych, aby uzyskać inną kartę SIM."</string>
+    <string name="lockscreen_transport_prev_description">Przycisk poprzedniego utworu</string>
+    <string name="lockscreen_transport_next_description">Przycisk następnego utworu</string>
+    <string name="lockscreen_transport_pause_description">Przycisk wstrzymania</string>
+    <string name="lockscreen_transport_play_description">Przycisk odtwarzania</string>
+    <string name="lockscreen_transport_stop_description">Przycisk zatrzymania</string>
+    <string name="lockscreen_network_locked_message">Sieć zablokowana</string>
+    <string name="lockscreen_sim_puk_locked_message">Karta SIM jest zablokowana kodem PUK.</string>
+    <string name="lockscreen_sim_locked_message">Karta SIM jest zablokowana.</string>
+    <string name="keyguard_accessibility_add_widget">Dodaj widżet.</string>
+    <string name="keyguard_accessibility_widget_empty_slot">Puste</string>
+    <string name="keyguard_accessibility_unlock_area_expanded">Rozwinięto obszar odblokowania.</string>
+    <string name="keyguard_accessibility_unlock_area_collapsed">Zwinięto obszar odblokowania.</string>
+    <string name="keyguard_accessibility_widget">Widżet %1$s.</string>
+    <string name="keyguard_accessibility_user_selector">Wybór użytkownika</string>
+    <string name="keyguard_accessibility_status">Stan</string>
+    <string name="keyguard_accessibility_camera">Aparat</string>
+    <string name="keygaurd_accessibility_media_controls">Elementy sterujące multimediów</string>
+    <string name="keyguard_accessibility_widget_reorder_start">Rozpoczęto zmienianie kolejności widżetów.</string>
+    <string name="keyguard_accessibility_widget_reorder_end">Zakończono zmienianie kolejności widżetów.</string>
+    <string name="keyguard_accessibility_widget_deleted">Usunięto widżet %1$s.</string>
+    <string name="keyguard_accessibility_expand_lock_area">Rozwiń obszar odblokowania.</string>
+    <string name="keyguard_accessibility_slide_unlock">Przesuń, aby odblokować.</string>
+    <string name="keyguard_accessibility_pattern_unlock">Odblokowanie wzorem.</string>
+    <string name="keyguard_accessibility_face_unlock">Rozpoznanie twarzy</string>
+    <string name="keyguard_accessibility_pin_unlock">Odblokowanie kodem PIN.</string>
+    <string name="keyguard_accessibility_password_unlock">Odblokowanie hasłem.</string>
+    <string name="keyguard_accessibility_pattern_area">Obszar wzoru.</string>
+    <string name="keyguard_accessibility_slide_area">Obszar przesuwania.</string>
+    <string name="user_switched">Bieżący użytkownik: %1$s.</string>
+    <string name="description_direction_up">Przesuń w górę: %s.</string>
+    <string name="description_direction_down">Przesuń w dół: %s.</string>
+    <string name="description_direction_left">Przesuń w lewo: %s.</string>
+    <string name="description_direction_right">Przesuń w prawo: %s.</string>
+    <string name="description_target_unlock">Odblokuj</string>
+    <string name="description_target_camera">Aparat</string>
+    <string name="description_target_silent">Wycisz</string>
+    <string name="description_target_soundon">Włącz dźwięk</string>
+    <string name="description_target_search">Szukaj</string>
+    <string name="activity_not_found">Aplikacja nie jest zainstalowana na telefonie.</string>
+    <string name="widget_picker_title">wybieranie widżetów</string>
+    <string name="no_keyguard_widget">Brak widżetu blokady ekranu</string>
+</resources>

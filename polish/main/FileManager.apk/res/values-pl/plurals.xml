@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dialog_status_files_exp">
+        <item quantity="other">" Plików: %d"</item>
+        <item quantity="one">" %d plik"</item>
+    </plurals>
+    <plurals name="dialog_status_folders_exp">
+        <item quantity="other">"Folderów: %d, "</item>
+        <item quantity="one">"%d folder, "</item>
+    </plurals>
+</resources>

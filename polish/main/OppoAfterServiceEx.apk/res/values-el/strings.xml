@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Υπηρεσία εξυπηρέτησης πελατών μετά τη πώληση της OPPO</string>
+    <string name="oppo_after_service_title">Υπηρεσία εξυπηρέτησης πελατών μετά τη πώληση OPPO</string>
+    <string name="afterservice_hotline_title">Γραμμή υποστήριξης</string>
+    <string name="afterservice_address_title">Διεύθυνση</string>
+    <string name="afterservice_email_title">Ηλεκτρονικό ταχυδρομείο</string>
+    <string name="afterservice_website_title">Ιστότοπος</string>
+    <string name="help_dialog_title">Βοήθεια</string>
+    <string name="help_dialog_msg">Για να εξασφαλίσουμε την καλύτερη υπηρεσία σας, το δίκτυο κινητών τηλεφώνων της OPPO επεκτείνεται διαρκώς. Παρακαλώ επισκεφτείτε την επίσημη ιστοσελίδα μας ή τηλεφωνήστε στην εθνικής εμβέλειας γραμμή εξυπηρέτησης πελατών για να ενημερωθείτε.</string>
+</resources>

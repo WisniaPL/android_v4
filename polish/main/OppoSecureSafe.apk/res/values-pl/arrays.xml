@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oppo_add_blacklist_dialog">
+        <item>Wprowadź numer</item>
+        <item>Historia polączeń</item>
+        <item>Szukaj w kontaktach</item>
+    </string-array>
+    <string-array name="responds_to_private_sms">
+        <item>Wycisz</item>
+        <item>Wibruj</item>
+        <item>Ustawienia domyślne</item>
+    </string-array>
+    <string-array name="responde_to_private_contact_call">
+        <item>Wycisz</item>
+        <item>Rozłącz</item>
+        <item>Rozłącz i wyślij SMS</item>
+        <item>Wibruj</item>
+        <item>Ustawienia domyślne</item>
+    </string-array>
+    <string-array name="dayofweek">
+        <item>nie</item>
+        <item>pon</item>
+        <item>wto</item>
+        <item>śr</item>
+        <item>czw</item>
+        <item>pt</item>
+        <item>sob</item>
+    </string-array>
+    <string-array name="list_entries">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="list_entries_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+</resources>

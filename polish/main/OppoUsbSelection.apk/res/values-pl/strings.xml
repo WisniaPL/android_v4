@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usb_no_ask_name">Nie pytaj ponownie</string>
+    <string name="usb_settings">Ustawienia USB</string>
+    <string name="usb_charge">Tylko ładowanie</string>
+    <string name="usb_charge_detail">Naładuj telefon przez USB</string>
+    <string name="usb_storage">Pamięć</string>
+    <string name="usb_storage_detail">Użyj telefonu jako urządzenia pamięci masowej</string>
+    <string name="usb_mtp">Urządzenie multimedialne (MTP)</string>
+    <string name="usb_mtp_detail">Prześlij pliki multimedialne</string>
+    <string name="usb_selection_processing">Przetwarzanie, proszę czekać…</string>
+    <string name="device_reboot">Uruchom ponownie</string>
+    <string name="cancel">Anuluj</string>
+    <string name="detect_new_SD_title">Włożono kartę SD</string>
+    <string name="detect_null_title">Nie wykryto karty SD</string>
+    <string name="detect_new_SD_description">Wykryto kartę SD, uruchomić ponownie?</string>
+    <string name="detect_null_description">Nie wykryto karty SD, wykonać restart?</string>
+    <string name="file_transmit_string">Plik</string>
+    <string name="image_transmit_string">Obraz</string>
+    <string name="usb_help_string">Pomoc</string>
+    <string name="usb_select_file_transmit">Przesyłanie plików z komputera</string>
+    <string name="usb_select_image_transmit">Przesyłanie obrazów z komputera</string>
+    <string name="adb_enable_notification_title">Debugowanie USB włączone</string>
+    <string name="adb_enable_notification_message">Dotknij, aby wyłączyć debugowanie USB</string>
+    <string name="adb_disenable_notification_title">Debugowanie USB wyłączone</string>
+    <string name="adb_disenable_notification_message">Dotknij, aby włączyć debugowanie USB</string>
+    <string name="adb_status_no_reminder">Nie pytaj</string>
+    <string name="device_mac">MAC OS</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OPPO Kundeservice</string>
+    <string name="oppo_after_service_title">OPPO Kundeservice</string>
+    <string name="afterservice_hotline_title">Kundeservice</string>
+    <string name="afterservice_address_title">Adresse</string>
+    <string name="afterservice_email_title">E-mail</string>
+    <string name="afterservice_website_title">Webside</string>
+    <string name="help_dialog_title">Hjælp</string>
+    <string name="help_dialog_msg">OPPOs Kundeservicenetværk udvider konstant for at give dig bedre service. Besøg vores officielle hjemmeside eller ring til vores nationale Kundeservicenummer for at se den seneste status.</string>
+</resources>

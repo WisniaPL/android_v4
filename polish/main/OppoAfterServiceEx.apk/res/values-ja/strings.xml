@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OPPOアフターサービス</string>
+    <string name="oppo_after_service_title">OPPOアフターサービス</string>
+    <string name="afterservice_hotline_title">サービスホットライン</string>
+    <string name="afterservice_address_title">住所</string>
+    <string name="afterservice_email_title">電子メール</string>
+    <string name="afterservice_website_title">ウェブサイト</string>
+    <string name="help_dialog_title">ヘルプ</string>
+    <string name="help_dialog_msg">充実したサービスを提供するために、OPPOの携帯電話サービスネットワークは拡大しています。公式ウェブサイトか全国のサービスホットラインで最新の情報を確認できます。</string>
+</resources>

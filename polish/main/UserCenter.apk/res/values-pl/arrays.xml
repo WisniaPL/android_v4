@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="avatar_operator">
+        <item>Zrób zdjęcie</item>
+        <item>Wybierz zdjęcie</item>
+        <item>Usuń wybrane zdjęcia</item>
+    </string-array>
+    <string-array name="security_questions_cn">
+        <item>Imię ojca?</item>
+        <item>Imię matki?</item>
+        <item>Miejsce urodzenia?</item>
+        <item>Imię małżonka/małżonki?</item>
+        <item>Nazwa szkoły podstawowej?</item>
+        <item>Najlepszy przyjaciel z dzieciństwa?</item>
+        <item>Ulubiony nauczyciel w szkole podstawowej?</item>
+        <item>Najlepszy przyjaciel w szkole wyższej?</item>
+        <item>Twoje ID w szkole (lub w pracy)?</item>
+        <item>Ostatnie 4 cyfry Twojego pierwszego numeru telefonu?</item>
+        <item>Numer prawa jazdy?</item>
+    </string-array>
+    <string-array name="constellations">
+        <item>Wodnik</item>
+        <item>Ryby</item>
+        <item>Baran</item>
+        <item>Byk</item>
+        <item>Bliźnięta</item>
+        <item>Rak</item>
+        <item>Lew</item>
+        <item>Panna</item>
+        <item>Waga</item>
+        <item>Skorpion</item>
+        <item>Strzelec</item>
+        <item>Koziorożec</item>
+    </string-array>
+</resources>

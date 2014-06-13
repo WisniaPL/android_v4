@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Obsługa posprzedażowa OPPO</string>
+    <string name="oppo_after_service_title">Obsługa posprzedażowa OPPO</string>
+    <string name="afterservice_hotline_title">Infolinia usługi</string>
+    <string name="afterservice_address_title">Adres</string>
+    <string name="afterservice_email_title">E-mail</string>
+    <string name="afterservice_website_title">Strona WWW</string>
+    <string name="help_dialog_title">Pomoc</string>
+    <string name="help_dialog_msg">W celu zapewnienia lepszego poziomu usług, OPPO stale rozwija sieć punktów obsługi telefonów. Aby zapoznać się z najnowszymi informacjami, odwiedź oficjalną stronę OPPO lub zadzwoń na krajową infolinię OPPO.</string>
+</resources>

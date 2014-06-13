@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="intelligent_dial_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="display_num">
+        <item>Zamknij</item>
+        <item>Pokaż kontakty</item>
+        <item>Pokaż ulubione</item>
+    </string-array>
+    <string-array name="display_num_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="type_press_sound">
+        <item>Rodzaj 1</item>
+        <item>Rodzaj 2</item>
+    </string-array>
+    <string-array name="type_press_sound_Values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="type_ip_dial">
+        <item>"'12593'"</item>
+        <item>"'17911'"</item>
+        <item>"'17951'"</item>
+        <item>"'Wył.'"</item>
+    </string-array>
+    <string-array name="type_ip_dial_Values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="dayofweek">
+        <item>nie</item>
+        <item>pon</item>
+        <item>wto</item>
+        <item>śr</item>
+        <item>czw</item>
+        <item>pt</item>
+        <item>sob</item>
+        <item>wczoraj</item>
+    </string-array>
+    <string-array name="oppo_replace_name_dialog_value">
+        <item>Dodaj mimo wszystko</item>
+        <item>Zastąp istniejący kontakt</item>
+    </string-array>
+    <string-array name="oppo_replace_name_dialog_summary">
+        <item>Skopiuj wszystkie bez zastępowania powielonych kontaktów</item>
+        <item>Skopiuj wszystkie i zastąp powielone kontakty</item>
+        <item>Pomiń powielone kontakty podczas kopiowania</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Organizacja</item>
+        <item>Notatka</item>
+    </string-array>
+</resources>

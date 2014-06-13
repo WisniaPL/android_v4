@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Ustawienia</string>
+    <string name="maxxaudio_mode_select_title">Wybierz tryb</string>
+    <string name="music_menu_title">Muzyka</string>
+    <string name="movies_menu_title">Film</string>
+    <string name="games_menu_title">Gra</string>
+    <string name="speech_menu_title">Własny</string>
+    <string name="recording_menu_title">Ustawienia własne</string>
+    <string name="refresh">Usuń wybrany obraz</string>
+    <string name="maxxbass">Megabas</string>
+    <string name="maxxtreble">Przejrzyste tony wysokie</string>
+    <string name="maxxvolume">Wzmocniona głośność</string>
+    <string name="maxxdialog">Czysty głos</string>
+</resources>

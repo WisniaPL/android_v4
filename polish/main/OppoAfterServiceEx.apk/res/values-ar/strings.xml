@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">خدمة OPPO ما بعد البيع</string>
+    <string name="oppo_after_service_title">خدمة OPPO ما بعد البيع</string>
+    <string name="afterservice_hotline_title">رقم الخدمة الساخن</string>
+    <string name="afterservice_address_title">العنوان</string>
+    <string name="afterservice_email_title">البريد الإلكتروني</string>
+    <string name="afterservice_website_title">الموقع</string>
+    <string name="help_dialog_title">المساعدة</string>
+    <string name="help_dialog_msg">لمساعدتك في الحصول على خدمة أفضل، والهاتف المحمول ممن لهم خدمة شبكة تتوسع دائما. يرجى زيارة http://www.oppo.com للتحقق للحصول على أحدث المعلومات (خدمة الهاتف المحمول --- المنتج --- ما بعد البيع)، أو الاتصال على الخط الساخن لدينا خدمة البلاد 4001-666-888.</string>
+</resources>

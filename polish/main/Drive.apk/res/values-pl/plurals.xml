@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="replace_result_count">
+        <item quantity="other">Zastąpione wystąpienia: %d</item>
+        <item quantity="one">Zastąpiono 1 wystąpienie</item>
+    </plurals>
+    <plurals name="search_result_count">
+        <item quantity="other">Znalezione wystąpienia: %d</item>
+        <item quantity="zero">Nie znaleziono żadnych wystąpień</item>
+        <item quantity="one">Znaleziono 1 wystąpienie</item>
+    </plurals>
+    <plurals name="table_num_columns">
+        <item quantity="other">Kolumny: %d</item>
+        <item quantity="one">1 kolumna</item>
+    </plurals>
+    <plurals name="table_num_rows">
+        <item quantity="other">Wiersze: %d</item>
+        <item quantity="one">1 wiersz</item>
+    </plurals>
+    <plurals name="accounts_title">
+        <item quantity="other">Konta: %1$d</item>
+        <item quantity="one">Konto: %1$d</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">Pliki dostępne na urządzeniu: %1$d z %2$s.</item>
+        <item quantity="one">Pliki dostępne na urządzeniu: %1$d z %2$s.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">Wszystkie pliki (%1$d) są już na urządzeniu.</item>
+        <item quantity="one">%1$d plik jest dostępny na tym urządzeniu.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">Pobieram pliki (%1$d) na to urządzenie.</item>
+        <item quantity="one">Pobieram %1$d plik na to urządzenie.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">Pliki: %1$d</item>
+        <item quantity="one">%1$d plik</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">Wstrzymano pobieranie %1$d plików.</item>
+        <item quantity="one">Wstrzymano pobieranie %1$d pliku.</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">Wznów wszystkie</item>
+        <item quantity="one">Wznów</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_ticker">
+        <item quantity="other">Przesyłanie plików wstrzymane, oczekiwanie na połączenie z Wi-Fi...</item>
+        <item quantity="one">Przesyłanie pliku wstrzymane, oczekiwanie na połączenie z Wi-Fi...</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">Nie udało się zaplanować przesłania %1$d plików.</item>
+        <item quantity="one">Nie udało się zaplanować przesłania %1$d pliku.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">Przesłane pliki: %1$d.</item>
+        <item quantity="one">Przesłano plik: %1$d.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">Nie powiodło się przesyłanie plików: %1$d z %2$d.</item>
+        <item quantity="one">Nie powiodło się przesyłanie plików: %1$d z %2$d.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">Przesyłanie %1$d plików.</item>
+        <item quantity="one">Przesyłanie %1$d pliku.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">Przesyłanie %1$d plików wstrzymane.</item>
+        <item quantity="one">Przesyłanie %1$d pliku wstrzymane.</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">Trwa przygotowywanie %1$d plików do przesłania.</item>
+        <item quantity="one">Trwa przygotowywanie %1$d pliku do przesłania.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">Twoje pliki (%1$d) są przesyłane do: %2$s</item>
+        <item quantity="one">Twój %1$d plik jest przesyłany do: %2$s</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s nie są prawidłowymi adresami e-mail.</item>
+        <item quantity="one">%s nie jest prawidłowym adresem e-mail.</item>
+    </plurals>
+    <plurals name="drag_shadow_text">
+        <item quantity="other">Przenieś elementy (%d)</item>
+        <item quantity="one">Przenieś „%s”</item>
+    </plurals>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filter_name">
+        <item>Oryginał</item>
+        <item>Klasyka</item>
+        <item>Retro</item>
+        <item>Cz-B</item>
+        <item>Ciepło</item>
+        <item>Film</item>
+        <item>Lustro</item>
+        <item>LOMO</item>
+        <item>Kowboy</item>
+        <item>Rozmycie</item>
+        <item>Tunel</item>
+        <item>Starożytność</item>
+    </string-array>
+</resources>

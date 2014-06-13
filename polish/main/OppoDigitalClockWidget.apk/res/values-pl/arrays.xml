@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeks_day">
+        <item>nie</item>
+        <item>pon</item>
+        <item>wto</item>
+        <item>śr</item>
+        <item>czw</item>
+        <item>pt</item>
+        <item>sob</item>
+    </string-array>
+</resources>

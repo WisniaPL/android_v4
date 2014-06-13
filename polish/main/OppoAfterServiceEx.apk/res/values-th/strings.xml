@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">บริการหลังการขาย OPPO</string>
+    <string name="oppo_after_service_title">บริการหลังการขาย OPPO</string>
+    <string name="afterservice_hotline_title">เบอร์ติดต่อ</string>
+    <string name="afterservice_address_title">ที่อยู่</string>
+    <string name="afterservice_email_title">อีเมล</string>
+    <string name="afterservice_website_title">เว็บไซต์</string>
+    <string name="help_dialog_title">ช่วยเหลือ</string>
+    <string name="help_dialog_msg">เพื่อการบริการที่ดี จุดบริการหลังการขายของโทรศัพท์ OPPO ได้มีการขยายและพัฒนาอย่างต่อเนื่อง ลูกค้าสามารถเยี่ยมชมเว็บไซต์ทางการเพื่อดูรายละเอียด หรือติดต่อ Call center เพื่อสอบถามเพิ่มเติม</string>
+</resources>

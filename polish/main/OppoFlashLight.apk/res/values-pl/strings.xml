@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Latarka</string>
+    <string name="exit_application_if_repress">Naciśnij ponownie, aby zakończyć</string>
+    <string name="unable_to_open_camera">Nie można otworzyć latarki, spróbuj ponownie lub zakończ</string>
+    <string name="hint">Przytrzymaj przycisk home przy zablokowanym ekranie, aby szybko włączyć latarkę</string>
+    <string name="low_battery">Stan baterii jest zbyt niski, by otworzyć latarkę</string>
+</resources>

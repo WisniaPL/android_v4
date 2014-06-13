@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OppoPreventMode</string>
+    <string name="title">Zapobieganie błędom</string>
+    <string name="top_tag">Zapobiegaj blokowaniu górnej części ekranu</string>
+    <string name="boottom_tag">Naciśnij jednocześnie przycisk wstecz i górny klawisz głośności, aby wymusić zakończenie</string>
+</resources>

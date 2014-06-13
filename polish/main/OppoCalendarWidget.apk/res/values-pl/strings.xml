@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalendarz</string>
+    <string name="chinese_chushi">初十</string>
+    <string name="nongli">Księżycowy</string>
+    <string name="format_year_month_day">MMMM d, yyyy</string>
+    <string name="chinese_year">Rok</string>
+    <string name="event_notification_default">Brak powiadomień o zdarzeniach</string>
+    <string name="event_notification_more">Pojawiło się powiadomienie</string>
+</resources>

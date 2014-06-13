@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OPPOLeather</string>
+    <string name="description_target_unlock">description_target_unlock</string>
+    <string name="description_target_camera">description_target_camera</string>
+    <string name="description_direction_right">description_direction_right</string>
+    <string name="description_direction_left">description_direction_left</string>
+    <string name="Monday">Pon</string>
+    <string name="Tuesday">Wto</string>
+    <string name="Wednesday">Śr</string>
+    <string name="Thursday">Czw</string>
+    <string name="Friday">Pią</string>
+    <string name="Saturday">Sob</string>
+    <string name="Sunday">Ndz</string>
+    <string name="day">Dzień</string>
+    <string name="month">Miesiąc</string>
+    <string name="answer_call">Odbierz</string>
+    <string name="end_call">Rozłącz</string>
+    <string name="is_dialing">Wybieranie numeru</string>
+    <string name="is_ending">Trwa rozłączanie</string>
+    <string name="call_ended">Połączenie zakończone</string>
+    <string name="oppo_UnknowCity">–</string>
+    <string name="oppo_local_number">Numer lokalny</string>
+    <string name="oppo_special_number">Numer usługi</string>
+    <string name="emergency_call_dialog_number_for_display">Numer alarmowy</string>
+    <string name="call_hold">Połączenie z %1$s zawieszone</string>
+    <string name="exit_window_mode">Dotknij, aby zakończyć pracę w małym oknie</string>
+</resources>

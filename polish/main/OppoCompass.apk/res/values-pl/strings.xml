@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kompas</string>
+    <string name="Judge">Kalibracja</string>
+    <string name="Help">Pomoc</string>
+    <string name="NorthEast">Północ z odchyleniem wschodnim</string>
+    <string name="EastNorth">Wschód z odchyleniem północnym</string>
+    <string name="EastSouth">Wschód z odchyleniem południowym</string>
+    <string name="SouthEast">Południe z odchyleniem wschodnim</string>
+    <string name="SouthWest">Południe z odchyleniem zachodnim</string>
+    <string name="WestSouth">Południe z odchyleniem zachodnim</string>
+    <string name="WestNorth">Zachód z odchyleniem północnym</string>
+    <string name="NorthWest">Północ z odchyleniem zachodnim</string>
+    <string name="menu_Calibration">Kalibracja</string>
+    <string name="disturb">Zakłócenia kompasu</string>
+    <string name="hint_calibration">Aby skalibrować kompas należy oddalić się od źródła zakłóceń, podnieść telefon i narysować nim obrys cyfry 8.</string>
+    <string name="adjust">Podnieś telefon i narysuj nim obrys cyfry 8, aby ponownie skalibrować kompas.</string>
+    <string name="menu_Help">Pomoc</string>
+    <string name="Calibration_Instructions">"Okno kalibracji jest wyświetlane w chwili wykrycia, że dokładność wskazań kompasu pogorszyła się. Aby skalibrować, należy przesunąć telefon po obrysie cyfry 8. 
+Aktualna dokładność wskazań to: %d, kalibrację należy przeprowadzić od razu."</string>
+    <string name="Calibration_Top">"Okno kalibracji jest wyświetlane w chwili wykrycia, że dokładność wskazań kompasu pogorszyła się. Aby skalibrować, należy przesunąć telefon po obrysie cyfry 8. 
+
+"<b>Kompas jest już idealnie skalibrowany.</b></string>
+    <string name="Help_Instructions">W górnej częsci kompasu widoczny jest kierunek wskazywany przez telefon. Igła kompasu pokazuje północ. Jeżeli dokładność wskazań kompasu pogorszy się, zostanie wyświetlone okno kalibracji. Aby skalibrować, należy przesunąć telefon po obrysie cyfry 8.</string>
+    <string name="Close">Zamknij</string>
+    <string name="JudgeBeforeUse">Przed pierwszym użyciem należy przeprowadzić kalibrację.</string>
+    <string name="longitude_east">Długość geograficzna</string>
+    <string name="calibrate">Kalibracja</string>
+    <string name="latitude_north">Szerokość geograficzna</string>
+    <string name="gps_no_open">Włącz odbiór GPS</string>
+    <string name="comprass_interference">Zakłócenia kompasu</string>
+    <string name="comprass_interference_detail">Aby skalibrować kompas należy oddalić się od źródła zakłóceń, podnieść telefon i narysować nim obrys cyfry 8.</string>
+    <string name="north">Północ</string>
+    <string name="east">Wschód</string>
+    <string name="south">Południe</string>
+    <string name="west">Zachód</string>
+    <string name="north_east">Północny wschód</string>
+    <string name="south_east">Południowy wschód</string>
+    <string name="south_west">Południowy zachód</string>
+    <string name="north_west">Północny zachód</string>
+    <string name="cta_test_dialog_title">Potwierdzenie połączenia z siecią</string>
+    <string name="cta_test_dialog_content">Zostanie nawiązane połączenie z siecią. Mogą być naliczane opłaty za transfer danych. Kontynuować i uruchomić połączenie sieciowe?</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appwidget_name">Pogoda</string>
+    <string name="no_city">Brak dostępnych danych</string>
+    <string name="no_data">Brak dostępnych danych</string>
+    <string name="local_weather">Moja lokalizacja</string>
+    <string name="update_success">Uaktualniono informacje o pogodzie</string>
+    <string name="update_failed">Nie udało się uaktualnić danych o pogodzie</string>
+    <string name="monday">Pon</string>
+    <string name="tuesday">Wto</string>
+    <string name="wednesday">Śr</string>
+    <string name="thursday">Czw</string>
+    <string name="friday">Pią</string>
+    <string name="saturday">Sob</string>
+    <string name="sunday">Ndz</string>
+    <string name="comma">,</string>
+    <string name="interval">~</string>
+</resources>

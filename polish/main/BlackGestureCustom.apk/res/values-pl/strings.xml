@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_tag_call">Połączenie</string>
+    <string name="action_tag_send_message">Wyślij wiadomość do</string>
+    <string name="action_tag_open_url">Przejdź do witryny</string>
+    <string name="action_tag_open_app">Uruchom</string>
+    <string name="action_tag_open_app_normal">Otwórz</string>
+    <string name="action_app_not_found">Próba otwarcia nieudana, aplikacja nie została zainstalowana</string>
+    <string name="action_contact_not_found">Kontakt nieznany</string>
+    <string name="action_number_not_found">Numer nieznany</string>
+    <string name="dialog_title_double_touch">Gest dwukrotnego stuknięcia</string>
+    <string name="dialog_title_circle">Gest okręgu</string>
+    <string name="dialog_title_v">Gest V</string>
+    <string name="dialog_title_double_down">Przeciągnięcie palcami w pionie</string>
+    <string name="dialog_title_arror_left">Gest strzałki w lewo</string>
+    <string name="dialog_title_arror_right">Poruszenie - strzałka w prawo</string>
+    <string name="dialog_title_arror_up">Poruszenie - strzałka w górę</string>
+    <string name="dialog_title_arror_down">Poruszenie - strzałka w dół</string>
+    <string name="dialog_title_slide_left">Przesuń w lewo</string>
+    <string name="dialog_title_slide_right">Przesunięcie w prawo</string>
+    <string name="dialog_title_slide_up">Przesunięcie w górę</string>
+    <string name="dialog_title_slide_down">Przesunięcie w dół</string>
+    <string name="dialog_title_w">Gest narysowania W</string>
+    <string name="dialog_title_m">Gest narysowania M</string>
+    <string name="dialog_tips_double_touch">"Gdy ekran jest wyłączony, stuknij go szybko dwukrotnie: "</string>
+    <string name="dialog_tips_circle">"Gdy ekran jest wyłączony, narysuj na nim okrąg (kierunek rysowania nie ma znaczenia): "</string>
+    <string name="dialog_tips_double_down">"Gdy ekran jest wyłączony, przeciągnij po nim dwoma palcami w dół przez 1/3 powierzchni: "</string>
+    <string name="dialog_tips_arror_left">"Gdy ekran jest wyłączony, narysuj na nim strzałkę w lewo: "</string>
+    <string name="dialog_tips_arror_right">"Gdy ekran jest wyłączony, narysuj na nim strzałkę w prawo: "</string>
+    <string name="dialog_tips_arror_up">"Gdy ekran jest wyłączony, narysuj na nim strzałkę w górę: "</string>
+    <string name="dialog_tips_arror_down">"Gdy ekran jest wyłączony, narysuj na nim strzałkę w dół: "</string>
+    <string name="dialog_tips_slide_left">"Gdy ekran jest wyłączony, przeciągnij po nim w lewo: "</string>
+    <string name="dialog_tips_slide_right">"Gdy ekran jest wyłączony, przesuń palcem w prawo: "</string>
+    <string name="dialog_tips_slide_up">"Gdy ekran jest wyłączony, przesuń palcem w górę: "</string>
+    <string name="dialog_tips_slide_down">"Gdy ekran jest wyłączony, przesuń palcem w dół: "</string>
+    <string name="dialog_tips_w">"Gdy ekran jest wyłączony, narysuj na nim W: "</string>
+    <string name="dialog_tips_m">"Gdy ekran jest wyłączony, narysuj na nim M: "</string>
+    <string name="dialog_button_try">Spróbuj</string>
+    <string name="dialog_button_add">Funkcje własne</string>
+    <string name="dialog_button_add_tag">Do tego gestu nie została przypisana żadna funkcja. Dotknij przycisku poniżej, aby przypisać</string>
+    <string name="activity_tips_double_touch">Dotknij dwukrotnie ekranu</string>
+    <string name="activity_tips_circle">Narysuj okrąg, zgodnie z instrukcją</string>
+    <string name="activity_tips_double_down">Postępuj zgodnie z instrukcjami, aby narysować dwie pionowe linie</string>
+    <string name="activity_tips_arror_left">Postępuj zgodnie z instrukcjami, aby narysować strzałkę w lewo</string>
+    <string name="activity_tips_arror_right">Postępuj zgodnie z instrukcjami, aby narysować strzałkę w prawo</string>
+    <string name="activity_tips_arror_up">Postępuj zgodnie z instrukcjami, aby narysować strzałkę w górę</string>
+    <string name="activity_tips_arror_down">Postępuj zgodnie z instrukcjami, aby narysować strzałkę w dół</string>
+    <string name="activity_tips_slide_left">Postępuj zgodnie z instrukcjami, aby przewinąć w lewo</string>
+    <string name="activity_tips_slide_right">Postępuj zgodnie z instrukcjami, aby przewinąć w prawo</string>
+    <string name="activity_tips_slide_up">Postępuj zgodnie z instrukcjami, aby przewinąć w górę</string>
+    <string name="activity_tips_slide_down">Postępuj zgodnie z instrukcjami, aby przewinąć w dół</string>
+    <string name="activity_tips_w">Postępuj zgodnie z instrukcjami, aby narysować W</string>
+    <string name="activity_tips_m">Postępuj zgodnie z instrukcjami, aby narysować M</string>
+    <string name="activity_tips_try_again">Gest nieprawidłowy. Spróbuj ponownie</string>
+    <string name="dialog_black_double_touch">Ekran zostanie wyłączony. Po wyłączeniu dotknij go dwa razy</string>
+    <string name="dialog_black_circle">Ekran zostanie wyłączony. Po wyłączeniu narysuj okrąg</string>
+    <string name="dialog_black_double_down">Ekran zostanie wyłączony. Po wyłączeniu narysuj dwie linie pionowe</string>
+    <string name="dialog_black_arror_left">Ekran zostanie wyłączony. Po wyłączeniu narysuj strzałkę w lewo</string>
+    <string name="dialog_black_arror_right">Ekran zostanie wyłączony. Po wyłączeniu narysuj strzałkę w prawo</string>
+    <string name="dialog_black_arror_up">Ekran zostanie wyłączony. Po wyłączeniu narysuj strzałkę w górę</string>
+    <string name="dialog_black_arror_down">Ekran zostanie wyłączony. Po wyłączeniu narysuj strzałkę w dół</string>
+    <string name="dialog_black_slide_left">Ekran zostanie wyłączony. Po wyłączeniu przeciągnij palec w lewo</string>
+    <string name="dialog_black_slide_right">Ekran zostanie wyłączony. Po wyłączeniu przeciągnij palec w prawo</string>
+    <string name="dialog_black_slide_up">Ekran zostanie wyłączony. Po wyłączeniu przeciągnij palec w górę</string>
+    <string name="dialog_black_slide_down">Ekran zostanie wyłączony. Po wyłączeniu przeciągnij palec w dół</string>
+    <string name="dialog_black_w">Ekran zostanie wyłączony. Po wyłączeniu narysuj W</string>
+    <string name="dialog_black_m">Ekran zostanie wyłączony. Po wyłączeniu narysuj M</string>
+    <string name="dialog_list_tips_yes">Wszystkie gesty opanowane! Nastąpi powrót do listy</string>
+    <string name="dialog_list_tips_no">Nie ukończono prezentacji gestów, spróbuj ponownie</string>
+    <string name="list_title">Gesty na wyłączonym ekranie</string>
+    <string name="sky_list_title">Rozpoznawanie gestów i poruszeń</string>
+    <string name="list_title_select">Wybierz gest</string>
+    <string name="list_create">Utwórz gest</string>
+    <string name="list_edit">Edycja</string>
+    <string name="list_set">Zaawansowane</string>
+    <string name="black_list_hint">Uaktywnij przełącznik w prawym górnym rogu, aby włączyć gesty na wyłączonym ekranie</string>
+    <string name="list_hint">Uaktywnij przełącznik w prawym górnym rogu ekranu, aby włączyć śledzenie poruszeń</string>
+    <string name="list_delete">Usuń</string>
+    <string name="list_reset">Resetuj gest</string>
+    <string name="list_cancle">Anuluj</string>
+    <string name="list_dialog_title">Usuń gest</string>
+    <string name="list_dialog_description">Na pewno usunąć ten gest?</string>
+    <string name="list_dialog_ok">OK</string>
+    <string name="list_dialog_cancle">Anuluj</string>
+    <string name="reset_title">Resetuj gest</string>
+    <string name="reset_action_reset">Wybierz ponownie zadanie</string>
+    <string name="reset_gesture_reset">Narysuj gest ponownie</string>
+    <string name="reset_complete">Gest zapisany!</string>
+    <string name="select_all_gesture">Wybierz gest</string>
+    <string name="empty_tag">Nie dodano gestu!</string>
+    <string name="add_complete">Gest zapisany!</string>
+    <string name="sky_gesture_try">Spróbuj</string>
+    <string name="sky_gesture_cancel">Anuluj</string>
+    <string name="sky_z_gesture_title">Narysuj Z</string>
+    <string name="sky_v_gesture_title">Narysuj V</string>
+    <string name="sky_o_gesture_title">Narysuj O</string>
+    <string name="sky_m_gesture_title">Narysuj M</string>
+    <string name="sky_w_gesture_title">Narysuj W</string>
+    <string name="sky_arrow_right_gesture_title">Strzałka w prawo</string>
+    <string name="sky_arrow_left_gesture_title">Strzałka w lewo</string>
+    <string name="sky_z_gesture_summary">"Gdy ekran jest wygaszony, przytrzymaj przycisk głośności, aż telefon zawibruje, a następnie narysuj w powietrzu telefonem Z.
+Po zakończeniu rysowania puść przycisk."</string>
+    <string name="sky_o_gesture_summary">"Gdy ekran jest wygaszony, przytrzymaj przycisk głośności, aż telefon zawibruje, a następnie narysuj w powietrzu okrąg.
+Po zakończeniu rysowania puść przycisk."</string>
+    <string name="sky_v_gesture_summary">"Gdy ekran jest wygaszony, przytrzymaj przycisk głośności, aż telefon zawibruje, a następnie narysuj w powietrzu telefonem strzałkę w dół.
+Po zakończeniu rysowania puść przycisk."</string>
+    <string name="sky_w_gesture_summary">"Gdy ekran jest wygaszony, przytrzymaj przycisk głośności, aż telefon zawibruje, a następnie narysuj w powietrzu telefonem W.
+Po zakończeniu rysowania puść przycisk."</string>
+    <string name="sky_m_gesture_summary">"Gdy ekran jest wygaszony, przytrzymaj przycisk głośności, aż telefon zawibruje, a następnie narysuj w powietrzu telefonem M.
+Po zakończeniu rysowania puść przycisk."</string>
+    <string name="sky_arrow_right_gesture_summary">"Gdy ekran jest wygaszony, przytrzymaj przycisk głośności, aż telefon zawibruje, a następnie narysuj w powietrzu telefonem strzałkę w prawo.
+Po zakończeniu rysowania puść przycisk."</string>
+    <string name="sky_arrow_left_gesture_summary">"Gdy ekran jest wygaszony, przytrzymaj przycisk głośności, aż telefon zawibruje, a następnie narysuj w powietrzu telefonem strzałkę w lewo.
+Po zakończeniu rysowania puść przycisk."</string>
+    <string name="sky_z_gesture_toast_1">"Ekran zostanie wyłączony. Po wyłączeniu przytrzymaj
+ przycisk głośności, aż telefon zawibruje, a następnie
+ narysuj w powietrzu telefonem Z"</string>
+    <string name="sky_o_gesture_toast_1">"Ekran zostanie wyłączony. Po wyłączeniu przytrzymaj
+ przycisk głośności, aż telefon zawibruje, a następnie
+ narysuj w powietrzu telefonem okrąg"</string>
+    <string name="sky_v_gesture_toast_1">"Ekran zostanie wyłączony. Po wyłączeniu przytrzymaj
+ przycisk głośności, aż telefon zawibruje, a następnie
+ narysuj w powietrzu telefonem V"</string>
+    <string name="sky_w_gesture_toast_1">"Ekran zostanie wyłączony. Po wyłączeniu przytrzymaj
+ przycisk głośności, aż telefon zawibruje, a następnie
+ narysuj w powietrzu telefonem W"</string>
+    <string name="sky_m_gesture_toast_1">"Ekran zostanie wyłączony. Po wyłączeniu przytrzymaj
+ przycisk głośności, aż telefon zawibruje, a następnie
+ narysuj w powietrzu telefonem M"</string>
+    <string name="sky_arrow_right_gesture_toast_1">"Ekran zostanie wyłączony. Po wyłączeniu przytrzymaj przycisk głośności, aż telefon zawibruje, a następnie
+ narysuj w powietrzu telefonem strzałkę w prawo"</string>
+    <string name="sky_arrow_left_gesture_toast_1">"Ekran zostanie wyłączony. Po wyłączeniu przytrzymaj
+ przycisk głośności, aż telefon zawibruje, a następnie
+ narysuj w powietrzu telefonem strzałkę w lewo"</string>
+    <string name="sky_z_gesture_toast_2">Przytrzymaj przycisk głośności, aż telefon zawibruje, następnie narysuj zgodnie z instrukcjami Z i zwolnij przycisk.</string>
+    <string name="sky_v_gesture_toast_2">Przytrzymaj przycisk głośności, aż telefon zawibruje, następnie narysuj zgodnie z instrukcjami V i zwolnij przycisk.</string>
+    <string name="sky_o_gesture_toast_2">Przytrzymaj przycisk głośności, aż telefon zawibruje, następnie narysuj zgodnie z instrukcjami okrąg i zwolnij przycisk.</string>
+    <string name="sky_m_gesture_toast_2">Przytrzymaj przycisk głośności, aż telefon zawibruje, następnie narysuj zgodnie z instrukcjami M i zwolnij przycisk.</string>
+    <string name="sky_w_gesture_toast_2">Przytrzymaj przycisk głośności, aż telefon zawibruje, następnie narysuj zgodnie z instrukcjami W i zwolnij przycisk.</string>
+    <string name="sky_arrow_right_gesture_toast_2">Przytrzymaj przycisk głośności, aż telefon zawibruje, następnie narysuj zgodnie z instrukcjami > i zwolnij przycisk.</string>
+    <string name="sky_arrow_left_gesture_toast_2">Przytrzymaj przycisk głośności, aż telefon zawibruje, następnie narysuj zgodnie z instrukcjami strzałkę w lewo i zwolnij przycisk.</string>
+    <string name="return_to_listview_toast">Wszystkie gesty opanowane! Nastąpi powrót do listy</string>
+    <string name="ten_seconds_not_have_a_try_toast">Nie ukończono prezentacji gestów, spróbuj ponownie</string>
+    <string name="add_gesture_title">Wybierz gest wygaszonego ekranu</string>
+    <string name="add_sky_gesture_title">Wybierz poruszenie</string>
+    <string name="add_gesture_dailog_title">Powielenie gestu</string>
+    <string name="add_gesture_dailog_tag_1">Gest jest już używany jako:</string>
+    <string name="add_gesture_dailog_tag_2">. Zastąp aktualne zadanie:</string>
+    <string name="add_gesture_dailog_tag_3">\?</string>
+    <string name="definition_gestrue">Własne zadanie</string>
+    <string name="empty_action_tag">Brak funkcji</string>
+    <string name="empty_action_delete_tag">Funkcja niezdefiniowana</string>
+    <string name="system_tag">System</string>
+    <string name="system_wake_tag">Włączenie ekranu</string>
+    <string name="system_unlock_tag">Odblokuj</string>
+    <string name="communication_tag">Komunikacja społecznościowa</string>
+    <string name="communication_call_tag">Połączenie</string>
+    <string name="communication_send_tag">Wyślij SMS do</string>
+    <string name="communication_select_tag">Wybierz numer</string>
+    <string name="communication_open_url_tag">Przejdź do witryny</string>
+    <string name="communication_weibo_tag">Wyślij na weibo (mikroblog)</string>
+    <string name="media_tag">Multimedia</string>
+    <string name="media_photo_tag">Włącz aparat</string>
+    <string name="media_video_tag">Nagraj film</string>
+    <string name="media_music_tag">Odtworzenie/zatrzymanie muzyki</string>
+    <string name="media_music_previous_tag">Poprzedni utwór</string>
+    <string name="media_music_next_tag">Następny utwór</string>
+    <string name="open_app_tag">Aplikacje</string>
+    <string name="open_app_videotape_tag">Rozpocznij nagrywanie</string>
+    <string name="open_app_flashlight_tag">Włącz latarkę</string>
+    <string name="open_app_control_tag">Uruchomienie funkcji pilota</string>
+    <string name="other_app_tag">Inne</string>
+    <string name="other_app_select_tag">Otwórz aplikację</string>
+    <string name="select_app_video">Filmy</string>
+    <string name="select_app_photo">Aparat</string>
+    <string name="select_app_music">Odtwarzanie muzyki</string>
+    <string name="select_app_record">Nagrywanie dźwięku</string>
+    <string name="select_app_flashlight">Latarka</string>
+    <string name="select_app_activity_title">Wybierz aplikację</string>
+    <string name="select_uninstall">Aplikacja nieznana</string>
+    <string name="select_dailog_tag_2">, Zastąpić?</string>
+    <string name="app_name">BlackGestureCustom</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="url_select_title">Wybierz witrynę</string>
+    <string name="url_select_add_hint">Dodaj witrynę</string>
+    <string name="url_select_button_ok">OK</string>
+    <string name="url_select_error">Nieprawidłowy format witryny</string>
+</resources>

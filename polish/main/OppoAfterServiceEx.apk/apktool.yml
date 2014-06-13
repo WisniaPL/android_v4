@@ -1,0 +1,16 @@
+version: 2.0.0-BZ
+apkFileName: OppoAfterServiceEx.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  - 12
+sdkInfo:
+  minSdkVersion: '16'
+  targetSdkVersion: '16'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '1'
+  versionName: 1.0._SVN10964
+compressionType: false

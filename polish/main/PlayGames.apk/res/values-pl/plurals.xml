@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="games_leaderboard_player_count_format">
+        <item quantity="other">%1$s graczy</item>
+        <item quantity="one">%1$s gracz</item>
+    </plurals>
+    <plurals name="games_inbox_my_turn_toast_message">
+        <item quantity="other">Moje kolejki: %1$d</item>
+        <item quantity="one">Moja kolejka</item>
+    </plurals>
+    <plurals name="games_inbox_their_turn_toast_message">
+        <item quantity="other">Kolejki %1$d użytkowników</item>
+        <item quantity="one">Kolejka %1$d użytkownika</item>
+    </plurals>
+    <plurals name="games_inbox_invitation_toast_message">
+        <item quantity="other">Zaproszenia: %1$d</item>
+        <item quantity="one">%1$d zaproszenie</item>
+    </plurals>
+    <plurals name="games_inbox_matches_toast_message">
+        <item quantity="other">Gry w toku: %1$d</item>
+        <item quantity="one">Trwa %1$d gra</item>
+    </plurals>
+    <plurals name="games_dest_player_detail_circle_format">
+        <item quantity="other">%1$s KRĘGI(ÓW)</item>
+        <item quantity="one">%1$s KRĄG</item>
+    </plurals>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="title_block_sms">
+        <item quantity="other">Ostatnio zablokowano %d wiadomości</item>
+        <item quantity="one">Ostatnio zablokowano %d wiadomość</item>
+    </plurals>
+    <plurals name="title_block_sms_append">
+        <item quantity="other">, %d wiadomości</item>
+        <item quantity="one">, %d wiadomość</item>
+    </plurals>
+    <plurals name="title_block_phone">
+        <item quantity="other">Ostatnio zablokowano %d połączeń</item>
+        <item quantity="one">Ostatnio zablokowano %d połączenie</item>
+    </plurals>
+</resources>

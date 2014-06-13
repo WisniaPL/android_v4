@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Obszar muzyki</string>
+    <string name="unknown_music">0 utworów</string>
+    <string name="unknown_artist">Wykonawca nieznany</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OPPO Klantenservice</string>
+    <string name="oppo_after_service_title">OPPO Klantenservice</string>
+    <string name="afterservice_hotline_title">Service hotline</string>
+    <string name="afterservice_address_title">Adres</string>
+    <string name="afterservice_email_title">Email</string>
+    <string name="afterservice_website_title">Website</string>
+    <string name="help_dialog_title">Help</string>
+    <string name="help_dialog_msg">Om u te helpen met verbeterde service, zal OPPO mobiele telefoon service netwerk altijd uitbreiden. U kunt altijd terecht op onze officiële website of bel onze landelijke service-hotline om te controleren van de laatste ontwikkelingen.</string>
+</resources>

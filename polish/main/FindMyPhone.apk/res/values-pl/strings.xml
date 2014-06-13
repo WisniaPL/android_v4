@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Znajdź telefon</string>
+    <string name="btn_call">Zadzwoń</string>
+    <string name="btn_cancel">Anuluj</string>
+    <string name="title">Lokalizowanie telefonu</string>
+    <string name="sms_content">Zmieniono kartę SIM w telefonie</string>
+    <string name="sim_changed_notify_title">Powiadomienie o zmianie karty SIM</string>
+    <string name="sim_changed_notify_summary">Przy zmianie karty SIM, na przypisany numer telefonu zostanie wysłana wiadomość</string>
+    <string name="find_phone_assign_number_hint">Przypisz numer</string>
+    <string name="find_phone_cancel_btn">Anuluj</string>
+    <string name="find_phone_close_btn">Zamknij</string>
+    <string name="find_phone_title">Znajdź telefon</string>
+    <string name="find_phone_close_confirm">W przypadku wyłączenia nie będzie działać funkcja odnajdywania telefonu.</string>
+    <string name="find_phone_summary">Zezwól na dostęp do lokalizacji telefonu.</string>
+    <string name="find_phone_visit_web_wx">W przypadku utraty telefonu można otworzyć stronę findphone.oppo.com i spróbować zablokować telefon, usunąć z niego ważne dane a nawet odzyskać urządzenie.</string>
+    <string name="find_phone_alter_btn">Zmień</string>
+    <string name="find_phone_disable_btn">Wyłącz</string>
+    <string name="find_phone_enable_btn">Włącz</string>
+    <string name="find_phone_input_error_tip">Wprowadź poprawny numer telefonu !</string>
+    <string name="find_phone_open_no_network_message">Brak połączenia z siecią, aktualnie nie można użyć usługi odnajdywania telefonu.</string>
+    <string name="find_phone_open_push_disable_message">Usługa powiadomień push nie jest włączona, aktualnie nie można użyć funkcji odnajdywania telefonu .</string>
+    <string name="find_phone_close_no_network_message">Brak połączenia z siecią, aktualnie nie można użyć usługi odnajdywania telefonu. Upewnij się, że sieć jest dostępna.</string>
+    <string name="find_phone_close_push_disable_message">Usługa powiadomień push nie jest włączona, aktualnie nie można użyć funkcji odnajdywania telefonu. Należy włączyć powiadomienia push.</string>
+    <string name="find_phone_password_verify_dialog_title">Wyłącz odnajdywanie telefonu</string>
+    <string name="find_phone_password_verify_dialog_account">Aktualne konto:</string>
+    <string name="find_phone_password_verify_dialog_message_password_error">Błędne hasło, wprowadź ponownie!</string>
+    <string name="find_phone_password_verify_dialog_message_net_error">Błąd połączenia z siecią, sprawdź działanie sieci!</string>
+    <string name="find_phone_password_verify_dialog_edittext_message">Podaj hasło</string>
+    <string name="find_phone_password_verify_dialog_format_error">Wprowadź hasło w odpowiednim formacie</string>
+    <string name="find_phone_password_verify_dialog_server_error">Błąd serwera. Spróbuj ponownie później</string>
+    <string name="find_phone_password_verify_dialog_retry_restrict">Spróbuj ponownie później!</string>
+    <string name="find_phone_take_photo_message">Niestety już pięć razy wprowadzono nieprawidłowe hasło, spróbuj ponownie później.</string>
+    <string name="find_phone_instruction">Informacje</string>
+    <string name="find_phone_is_opening">Otwieranie, proszę czekać...</string>
+    <string name="login_filed">Logowanie nieudane, spróbuj ponownie później.</string>
+    <string name="open_failed">Próba otwarcia nieudana, spróbuj ponownie</string>
+    <string name="try_again">Spróbuj ponownie</string>
+    <string name="cancel">Anuluj</string>
+    <string name="imei_is_null">Urządzenie nie posiada numeru IMEI, funkcja odnajdywania telefonu została wyłączona.</string>
+    <string name="account_name_text">Zaloguj się do konta NearMe</string>
+    <string name="notification">Wskazówki</string>
+    <string name="find_phone_is_on">Funkcja odnajdywania telefonu jest włączona</string>
+    <string name="find_phone_is_off">Funkcja odnajdywania telefonu jest wyłączona</string>
+    <string name="find_phone_visit_web">W przypadku utracenia telefonu, możesz zalogować się do http://find.nearme.com.cn/ aby zlokalizować go, zablokować ekran lub usunąć ważne dane.</string>
+</resources>

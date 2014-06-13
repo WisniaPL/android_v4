@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="afterservice_address_title">Адреса</string>
+    <string name="afterservice_email_title">Електрона пошта</string>
+    <string name="help_dialog_title">Довідка</string>
+</resources>

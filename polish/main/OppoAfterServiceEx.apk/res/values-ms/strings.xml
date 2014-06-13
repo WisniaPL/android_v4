@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Khidmat selepas jualan OPPO</string>
+    <string name="oppo_after_service_title">Khidmat selepas jualan OPPO</string>
+    <string name="afterservice_hotline_title">Talian penting perkhidmatan</string>
+    <string name="afterservice_address_title">Alamat</string>
+    <string name="afterservice_email_title">E-mel</string>
+    <string name="afterservice_website_title">Laman web</string>
+    <string name="help_dialog_title">Bantuan</string>
+    <string name="help_dialog_msg">Bagi membantu anda mendapatkan perkhidmatan yang lebih baik, rangkaian perkhidmatan telefon mudah alih OPPO sentiasa memperluaskan perkhidmatannya. Sila lawat laman web rasmi kami atau hubungi talian penting perkhidmatan seluruh negara untuk memeriksa status terkini.</string>
+</resources>

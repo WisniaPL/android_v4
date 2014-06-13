@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Voiceprint</string>
+    <string name="confirm_voiceprint_title">Potwierdź wzór głosu</string>
+    <string name="choose_lock_voiceprint_title">Wybierz hasło głosowe</string>
+    <string name="enroll_voiceprint_title">Rozpocznij ustalanie wzoru głosu</string>
+    <string name="enroll_voiceprint_prompt2">Powtórz tekst, możliwie seksownym głosem: \"%1$s\"</string>
+    <string name="enroll_voiceprint_prompt3">Trwa zbieranie informacji o cechach szczególnych Twojego głosu, powtórz jeszcze raz tekst: \"%1$s\"</string>
+    <string name="enroll_voiceprint_prompt4">Twój unikatowy kod głosowy został już prawie ustalony, powtórz ponownie tekst: \"%1$s\"</string>
+    <string name="enroll_voiceprint_prompt5">Ostatnie potwierdzenie, przeczytaj w normalnym tempie tekst: \"%1$s\"</string>
+    <string name="enroll_result_error">Niestety nie udało się uzyskać dobrej próbki</string>
+    <string name="enroll_result_ok">OK</string>
+    <string name="enroll_result_success">Ustawiono kod głosowy</string>
+    <string name="record_error">Błąd nagrywania, naciśnij przycisk Nagraj, aby ponowić próbę</string>
+    <string name="record_cancel">Anulowano nagrywanie, naciśnij przycisk nagrywania, aby rozpocząć ponownie</string>
+    <string name="verify_retry">Błąd identyfikacji, naciśnij przycisk Nagraj, aby ponowić próbę</string>
+    <string name="preference_voiceprint_title">Hasło głosowe</string>
+    <string name="preference_information_title">Opis funkcji</string>
+    <string name="next">Dalej</string>
+    <string name="errorinfo_speech_device_occupied">Niestety mikrofon jest teraz używany, spróbuj ponownie później</string>
+    <string name="errorinfo_speech_no_input">Nie wykryto głosu, spróbuj ponownie</string>
+    <string name="errorinfo_speech_input_timeout">Niestety przekroczono czas nagrywania głosu, spróbuj ponownie</string>
+    <string name="voice_switch_title">Sterowanie głosowe</string>
+    <string name="voice_switch_gallery3d">Albumy</string>
+    <string name="voice_switch_reader">Przeczytany</string>
+    <string name="voice_switch_email">E-mail</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OPPO satış sonrası hizmetleri</string>
+    <string name="oppo_after_service_title">OPPO satış sonrası hizmetleri</string>
+    <string name="afterservice_hotline_title">Hizmet hattı</string>
+    <string name="afterservice_address_title">Adres</string>
+    <string name="afterservice_email_title">E-posta</string>
+    <string name="afterservice_website_title">Web sitesi</string>
+    <string name="help_dialog_title">Yardım</string>
+    <string name="help_dialog_msg">Sizin daha iyi hizmet almanıza yardımcı olmak için, OPPO cep telefonu servis ağı sürekli genişlemektedir. Son durumu denetlemek için resmi web sitemizi ziyaret edin veya ülke çapındaki hizmet hatlarımızı arayın.</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Serbisyo sa after-sales ng OPPO</string>
+    <string name="oppo_after_service_title">Serbisyo sa after-sales ng OPPO</string>
+    <string name="afterservice_hotline_title">Hotline ng serbisyo</string>
+    <string name="afterservice_address_title">Address</string>
+    <string name="afterservice_email_title">Email</string>
+    <string name="afterservice_website_title">Website</string>
+    <string name="help_dialog_title">Tulong</string>
+    <string name="help_dialog_msg">Para matulungan kang makakuha ng mas magandang serbisyo, palaging pinapalaki ang service network ng OPPO mobile phone. Pakibisita ang aming opisyal na website o tumawag sa aming pambansang hotline ng serbisyo para tingnan ang pinakabagong status.</string>
+</resources>

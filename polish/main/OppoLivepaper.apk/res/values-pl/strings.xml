@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_confirm">Na pewno usunąć?</string>
+    <string name="confirm">Usuń</string>
+    <string name="config">Ustawienia</string>
+    <string name="livepaper_using">Nie można usunąć tej tapety animowanej, jest aktualnie używana!</string>
+    <string name="cancel">Anuluj</string>
+    <string name="apply">Zastosuj</string>
+    <string name="delete">Usuń</string>
+    <string name="live_wallpaper_loading">Wczytywanie animowanej tapety...</string>
+    <string name="livepaper">Animowane tapety</string>
+    <string name="sign_use">Używane</string>
+    <string name="more_livepaper">Więcej tapet animowanych</string>
+    <string name="live_wallpaper_picker_title">Wybierz tapetę animowaną</string>
+</resources>

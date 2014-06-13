@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Service après-vente OPPO</string>
+    <string name="oppo_after_service_title">Service après-vente OPPO</string>
+    <string name="afterservice_hotline_title">Hotline</string>
+    <string name="afterservice_address_title">Adresse</string>
+    <string name="afterservice_email_title">E-mail</string>
+    <string name="afterservice_website_title">Site Web</string>
+    <string name="help_dialog_title">Aide</string>
+    <string name="help_dialog_msg">"Pour vous aider à obtenir un meilleur service, le réseau de service mobile OPPO est toujours en expansion. Veuillez visiter le site officiel pour vérifier l'état le plus récent, ou appelez notre service d'assistance téléphone national."</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Film jako wygaszacz ekranu</string>
+    <string name="need_to_configure">Nie wybrano filmu.</string>
+    <string name="storage_unmounted">Pamięć niedostępna.</string>
+    <string name="videoview_error_title">Nie można odtworzyć filmu</string>
+    <string name="videoview_error_text_unknown">Niestety nie można odtworzyć tego filmu.</string>
+</resources>

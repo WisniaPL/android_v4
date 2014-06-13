@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="invalid_theme_file">Plik motywu nie jest zgodny z telefonem!</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, OppoLockScreenCardActivity!</string>
+    <string name="app_name">Karty odblokowania</string>
+    <string name="good">Dobry</string>
+    <string name="hintSlide">Przeciągnij ikonę w dół, aby odblokować</string>
+    <string name="unlockname">Karty odblokowania</string>
+    <string name="discription">OPPO</string>
+    <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
+    <string name="sim_card_no_service">Brak sieci</string>
+    <string name="small_cn_month">Miesiąc</string>
+    <string name="small_cn_ri">Dzień</string>
+    <string name="xingqi_one">Pon</string>
+    <string name="xingqi_two">Wto</string>
+    <string name="xingqi_three">Śr</string>
+    <string name="xingqi_four">Czw</string>
+    <string name="xingqi_five">Pią</string>
+    <string name="xingqi_six">Sob</string>
+    <string name="xingqi_ri">Ndz</string>
+    <string name="morning">AM</string>
+    <string name="afternoon">PM</string>
+</resources>

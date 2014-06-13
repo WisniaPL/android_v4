@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="go_wind_dir">
+        <item>N/D</item>
+        <item>Brak wiatru</item>
+        <item>Płn</item>
+        <item>Płn-Płn-Wsch</item>
+        <item>Płn-Wsch</item>
+        <item>Wsch-Płn-Wsch</item>
+        <item>Wsch</item>
+        <item>Wsch-Płd-Wsch</item>
+        <item>Płd-Wsch</item>
+        <item>Płd-Płd-Wsch</item>
+        <item>Płd</item>
+        <item>Płd-Płd-Zach</item>
+        <item>Płd-Zach</item>
+        <item>Zach-Płd-Zach</item>
+        <item>Zach</item>
+        <item>Zach-Płn-Zach</item>
+        <item>Płn-Zach</item>
+        <item>Płn-Płn-Zach</item>
+        <item>Wiatr zmienny</item>
+    </string-array>
+    <string-array name="go_weather_type">
+        <item>B/D</item>
+        <item>Słonecznie</item>
+        <item>Przejściowe zachmurzenie</item>
+        <item>Pochmurnie</item>
+        <item>Śnieg</item>
+        <item>Mgła</item>
+        <item>Deszcz</item>
+        <item>Burza</item>
+    </string-array>
+    <string-array name="pic_style">
+        <item>Wybrane przez OPPO</item>
+        <item>Obrazy HD</item>
+    </string-array>
+    <string-array name="chineseten">
+        <item>初</item>
+        <item>十</item>
+        <item>廿</item>
+        <item>三</item>
+    </string-array>
+    <string-array name="chinesenumber">
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+        <item>七</item>
+        <item>八</item>
+        <item>九</item>
+        <item>十</item>
+        <item>十一</item>
+        <item>十二</item>
+    </string-array>
+    <string-array name="chinese_month">
+        <item>正月</item>
+        <item>二月</item>
+        <item>三月</item>
+        <item>四月</item>
+        <item>五月</item>
+        <item>六月</item>
+        <item>七月</item>
+        <item>八月</item>
+        <item>九月</item>
+        <item>十月</item>
+        <item>十一月</item>
+        <item>十二月</item>
+    </string-array>
+    <string-array name="chineseanimals">
+        <item>鼠</item>
+        <item>牛</item>
+        <item>虎</item>
+        <item>兔</item>
+        <item>龙</item>
+        <item>蛇</item>
+        <item>马</item>
+        <item>羊</item>
+        <item>猴</item>
+        <item>鸡</item>
+        <item>狗</item>
+        <item>猪</item>
+    </string-array>
+    <string-array name="chinesegan">
+        <item>甲</item>
+        <item>乙</item>
+        <item>丙</item>
+        <item>丁</item>
+        <item>戊</item>
+        <item>己</item>
+        <item>庚</item>
+        <item>辛</item>
+        <item>壬</item>
+        <item>癸</item>
+    </string-array>
+    <string-array name="chinesezhi">
+        <item>子</item>
+        <item>丑</item>
+        <item>寅</item>
+        <item>卯</item>
+        <item>辰</item>
+        <item>巳</item>
+        <item>午</item>
+        <item>未</item>
+        <item>申</item>
+        <item>酉</item>
+        <item>戌</item>
+        <item>亥</item>
+    </string-array>
+    <string-array name="chinese_month_number">
+        <item>月</item>
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+        <item>七</item>
+        <item>八</item>
+        <item>九</item>
+        <item>十</item>
+        <item>十一</item>
+        <item>十二</item>
+    </string-array>
+    <string-array name="chinese_day_number">
+        <item>初</item>
+        <item>十</item>
+        <item>廿</item>
+        <item>三</item>
+    </string-array>
+    <string-array name="chinese_leap_month">
+        <item>闰</item>
+        <item>月</item>
+    </string-array>
+    <string-array name="chinese_jieqi">
+        <item>小寒</item>
+        <item>大寒</item>
+        <item>立春</item>
+        <item>雨水</item>
+        <item>惊蛰</item>
+        <item>春分</item>
+        <item>清明</item>
+        <item>谷雨</item>
+        <item>立夏</item>
+        <item>小满</item>
+        <item>芒种</item>
+        <item>夏至</item>
+        <item>小暑</item>
+        <item>大暑</item>
+        <item>立秋</item>
+        <item>处暑</item>
+        <item>白露</item>
+        <item>秋分</item>
+        <item>寒露</item>
+        <item>霜降</item>
+        <item>立冬</item>
+        <item>小雪</item>
+        <item>大雪</item>
+        <item>冬至</item>
+    </string-array>
+    <string-array name="chinese_cal_anni">
+        <item>Nowy rok</item>
+        <item>Walentynki</item>
+        <item>Dzień kobiet</item>
+        <item>Dzień dla drzew</item>
+        <item>Prima aprilis</item>
+        <item>Festiwal wiosenny</item>
+        <item>Chiński dzień młodych</item>
+        <item>Dzień pielęgniarek</item>
+        <item>Dzień dziecka</item>
+        <item>Dzień założenia CPC</item>
+        <item>Dzień wojska</item>
+        <item>Dzień nauczyciela</item>
+        <item>Dzień niepodległości</item>
+        <item>Święta</item>
+    </string-array>
+    <string-array name="chinese_lunar_anni">
+        <item>"New Year's Eve"</item>
+        <item>Spring Festival</item>
+        <item>Lantern Festival</item>
+        <item>Dragon Boat Festival</item>
+        <item>Magpie Festival</item>
+        <item>Spirit Festival</item>
+        <item>Mid-Autumn Festival</item>
+        <item>Double-ninth Day</item>
+        <item>Laba Festival</item>
+        <item>Lean year</item>
+    </string-array>
+    <string-array name="chinese_other_cal_anni">
+        <item>Dzień matki</item>
+        <item>Dzień ojca</item>
+        <item>Święto dziękczynienia</item>
+    </string-array>
+    <string-array name="dev_city">
+        <item>塔城地区</item>
+        <item>呼和浩特市</item>
+        <item>包头市</item>
+        <item>赤峰市</item>
+        <item>通辽市</item>
+        <item>鄂尔多斯市</item>
+        <item>莫力达瓦达斡尔族自治旗</item>
+        <item>呼伦贝尔市</item>
+        <item>巴彦淖尔市</item>
+        <item>乌兰察布市</item>
+        <item>兴安盟</item>
+        <item>锡林郭勒盟</item>
+        <item>阿拉善盟</item>
+    </string-array>
+    <string-array name="dev_province">
+        <item>重庆</item>
+        <item>云南</item>
+        <item>新疆</item>
+        <item>西藏</item>
+        <item>四川</item>
+        <item>青海</item>
+        <item>内蒙古</item>
+        <item>吉林</item>
+        <item>黑龙江</item>
+    </string-array>
+    <string-array name="all_province">
+        <item>安徽</item>
+        <item>北京</item>
+        <item>福建</item>
+        <item>甘肃</item>
+        <item>广东</item>
+        <item>广西</item>
+        <item>贵州</item>
+        <item>海南</item>
+        <item>河北</item>
+        <item>河南</item>
+        <item>黑龙江</item>
+        <item>湖北</item>
+        <item>湖南</item>
+        <item>吉林</item>
+        <item>江苏</item>
+        <item>江西</item>
+        <item>辽宁</item>
+        <item>内蒙古</item>
+        <item>宁夏</item>
+        <item>青海</item>
+        <item>山东</item>
+        <item>山西</item>
+        <item>陕西</item>
+        <item>上海</item>
+        <item>四川</item>
+        <item>天津</item>
+        <item>西藏</item>
+        <item>新疆</item>
+        <item>云南</item>
+        <item>浙江</item>
+        <item>重庆</item>
+        <item>香港</item>
+        <item>澳门</item>
+        <item>台湾</item>
+    </string-array>
+    <string-array name="other_show_items">
+        <item>Wiatr</item>
+        <item>Kalendarz</item>
+    </string-array>
+    <string-array name="clothing_suggestion_title">
+        <item>T-shirt</item>
+        <item>T-shirt</item>
+        <item>Koszula</item>
+        <item>Płaszcz</item>
+        <item>Płaszcz</item>
+        <item>Sweter</item>
+        <item>Ciepły płaszcz</item>
+        <item>Ciepły płaszcz</item>
+    </string-array>
+    <string-array name="clothing_suggestion_description">
+        <item>Na ciepłe dni polecamy przewiewny ubiór letni, taki jak bluzki, spódniczki i szorty, cienkie koszulki z krótkimi rękawami, koszulki bawełniane bez kołnierzyka itp.</item>
+        <item>Gdy jest bardzo gorąco, polecamy ubiór typowo letni - spódniczki, szorty, koszulki z krótkimi rękawami itp. Osoby starsze mogą zaopatrzyć się w koszule z długim rękawem i lekkie spodnie.</item>
+        <item>Na dni chłodne polecamy bluzkę z długimi rękawami i spodnie oraz inne ubrania projektowane z myślą o okresie przejściowym - wiośnie i jesieni. Osoby starsze mogą ubrać ciepłe bluzy z długimi rękawami, kamizelki i spodnie.</item>
+        <item>Zalecamy ubrania przejściowe, wiosenne i zimowe. Osoby starsze oraz z problemami ze zdrowiem powinny ubrać się cieplej. Występuje duża różnica temperatur między dniem a nocą, pamiętaj by odpowiednio dostosować ubiór.</item>
+        <item>Gdy zaczyna się robić naprawdę zimno, warto ubrać ubrania jesienne i wiosenne, na przykład jednoczęściowy kombinezon i sweterek. Osoby z problemami ze zdrowiem powinny ubrać grubszy sweter. Występuje duża różnica temperatur między dniem a nocą, pamiętaj by się odpowiednio przebrać.</item>
+        <item>Gdy jest zimno, zalecamy korzystanie z ubrań wiosennych i jesiennych takich jak gruby płaszcz, sweter itp. Osoby z problemami ze zdrowiem powinny ubrać płaszcz i luźny sweter. Występuje duża różnica temperatur między dniem a nocą, pamiętaj by się odpowiednio przebrać.</item>
+        <item>Jest zimno, polecamy ubrania zimowe, takie jak bawełniane bluzy, kurtki, swetry itp. Osoby, które mają problemy ze zdrowiem powinny ubrać grubsze ubrania z bawełny lub płaszcze zimowe.</item>
+        <item>Gdy jest tak bardzo zimno, zalecane jest ubieranie ciepłych ubrań zimowych, z podszewką z wełny i puchu, dodatkiem futra oraz grube swetry itp. Osoby starsze i z problemami zdrowotnymi powinny zwrócić szczególną uwagę na to, by było im ciepło.</item>
+    </string-array>
+    <string-array name="uv_suggestion_title">
+        <item>Niepotrzebne</item>
+        <item>SPF 12-15</item>
+        <item>SPF 15+</item>
+        <item>SPF 20+</item>
+        <item>SPF 30+</item>
+    </string-array>
+    <string-array name="uv_suggestion_description">
+        <item>Niski poziom promieniowania UV, dodatkowa ochrona nie jest wymagana. Jeśli przebywasz na zewnątrz dłuższy czas, najlepiej zastosuj ochronę z filtrem SPF o wartości 8-12.</item>
+        <item>Niski poziom promieniowania UV, dodatkowa ochrona nie jest wymagana. Jeśli przebywasz na zewnątrz dłuższy czas, najlepiej zastosuj ochronę z filtrem SPF o wartości 12-15 PA+.</item>
+        <item>Średni poziom promieniowania UV, zalecane stosowanie ochrony z filtrem SPF o wartości minimum 15 PA+, noś nakrycie głowy oraz okulary przeciwsłoneczne.</item>
+        <item>Wysoki poziom promieniowania UV, unikaj przebywania na słońcu i zastosuj ochronę skóry z filtrem SPF o wartości 20 PA++.</item>
+        <item>Przy bardzo wysokim poziomie promieniowania UV unikaj przebywania na słońcu oraz stosuj ochronę skóry z filtrem SPF o wartości powyżej 30 PA++.</item>
+    </string-array>
+    <string-array name="abbr_week_labels">
+        <item>nie</item>
+        <item>pon</item>
+        <item>wto</item>
+        <item>śr</item>
+        <item>czw</item>
+        <item>pt</item>
+        <item>sob</item>
+    </string-array>
+    <string-array name="update_frequencys">
+        <item>Co godzinę</item>
+        <item>Co 2 godziny</item>
+        <item>Co 4 godziny</item>
+        <item>Co 6 godzin</item>
+        <item>Co 12 godzin</item>
+    </string-array>
+    <string-array name="warn_weather_type">
+        <item>Zamieć - kod niebieski</item>
+        <item>Zamieć - kod pomarańczowy</item>
+        <item>Zamieć - kod czerwony</item>
+        <item>Zamieć - kod żółty</item>
+        <item>Ulewa - kod niebieski</item>
+        <item>Ulewa - kod pomarańczowy</item>
+        <item>Ulewa - kod czerwony</item>
+        <item>Ulewa - kod żółty</item>
+        <item>Grad - kod niebieski</item>
+        <item>Grad - kod pomarańczowy</item>
+        <item>Grad - kod czerwony</item>
+        <item>Grad - kod żółty</item>
+        <item>Wichura - kod niebieski</item>
+        <item>Wichura - kod pomarańczowy</item>
+        <item>Wichura - kod czerwony</item>
+        <item>Wichura - kod żółty</item>
+        <item>Mgła - kod niebieski</item>
+        <item>Mgła - kod pomarańczowy</item>
+        <item>Mgła - kod czerwony</item>
+        <item>Mgła - kod żółty</item>
+        <item>Oblodzona droga - kod niebieski</item>
+        <item>Oblodzona droga - kod pomarańczowy</item>
+        <item>Oblodzona droga - kod czerwony</item>
+        <item>Oblodzona droga - kod żółty</item>
+        <item>Susza - kod niebieski</item>
+        <item>Susza - kod pomarańczowy</item>
+        <item>Susza - kod czerwony</item>
+        <item>Susza - kod żółty</item>
+        <item>Upały - kod niebieski</item>
+        <item>Upały - kod pomarańczowy</item>
+        <item>Upały - kod czerwony</item>
+        <item>Upały - kod żółty</item>
+        <item>Zimno - kod niebieski</item>
+        <item>Zimno - kod pomarańczowy</item>
+        <item>Zimno - kod czerwony</item>
+        <item>Zimno - kod żółty</item>
+        <item>Burze - kod niebieski</item>
+        <item>Burze - kod pomarańczowy</item>
+        <item>Burze - kod czerwony</item>
+        <item>Burze - kod żółty</item>
+        <item>Zapylenie - kod niebieski</item>
+        <item>Zapylenie - kod pomarańczowy</item>
+        <item>Zapylenie - kod czerwony</item>
+        <item>Zapylenie - kod żółty</item>
+        <item>Burza piaskowa - kod niebieski</item>
+        <item>Burza piaskowa - kod pomarańczowy</item>
+        <item>Burza piaskowa - kod czerwony</item>
+        <item>Burza piaskowa - kod żółty</item>
+        <item>Mróz - kod niebieski</item>
+        <item>Mróz - kod pomarańczowy</item>
+        <item>Mróz - kod czerwony</item>
+        <item>Mróz - kod żółty</item>
+        <item>Tajfun - kod niebieski</item>
+        <item>Tajfun - kod pomarańczowy</item>
+        <item>Tajfun - kod czerwony</item>
+        <item>Tajfun - kod żółty</item>
+    </string-array>
+    <string-array name="base_wind_direction">
+        <item>Wiatr przelotny</item>
+        <item>W</item>
+        <item>Z</item>
+        <item>Pd</item>
+        <item>Pn</item>
+        <item>PdW</item>
+        <item>PnW</item>
+        <item>PdZ</item>
+        <item>PnZ</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Wiatr przelotny</item>
+        <item>W</item>
+        <item>Z</item>
+        <item>Pd</item>
+        <item>Pn</item>
+        <item>PdW</item>
+        <item>PnW</item>
+        <item>PdZ</item>
+        <item>PnZ</item>
+    </string-array>
+    <string-array name="base_uv_description">
+        <item>Bardzo słaby</item>
+        <item>Najsłabszy</item>
+        <item>Słaby</item>
+        <item>Średni</item>
+        <item>Silny</item>
+        <item>Najsilniejszy</item>
+        <item>Bardzo silny</item>
+    </string-array>
+    <string-array name="uv_description">
+        <item>Bardzo słaby</item>
+        <item>Najsłabszy</item>
+        <item>Słaby</item>
+        <item>Średni</item>
+        <item>Silny</item>
+        <item>Najsilniejszy</item>
+        <item>Bardzo silny</item>
+    </string-array>
+    <string-array name="weather_show_type_items">
+        <item>Film (lepszy efekt wizualny)</item>
+        <item>Obraz (płynniejsze działanie)</item>
+    </string-array>
+</resources>

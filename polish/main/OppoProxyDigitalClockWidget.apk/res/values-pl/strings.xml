@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="proxy_weather_widget_app_name">Zegar</string>
+    <string name="text_am">AM</string>
+    <string name="text_pm">PM</string>
+    <string name="widgetview_week_text">SUNDAY</string>
+    <string name="full_wday_month_day_no_year">EEEE, yyyy.MM.d</string>
+</resources>

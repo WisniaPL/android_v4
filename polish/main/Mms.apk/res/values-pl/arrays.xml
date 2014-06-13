@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Uśmiech</item>
+        <item>Uniesienie</item>
+        <item>Wstyd</item>
+        <item>Nuda</item>
+        <item>Zły uśmiech</item>
+        <item>Zastanawia się</item>
+        <item>Niegrzecznie</item>
+        <item>Głupek</item>
+        <item>Krzywy uśmiech</item>
+        <item>Róża</item>
+        <item>Wielki smutek</item>
+        <item>Smutne spojrzenie</item>
+        <item>Płacz</item>
+        <item>Całus</item>
+        <item>Słodki pocałunek</item>
+        <item>Kubek kawy/herbaty</item>
+        <item>Niespodzianka</item>
+        <item>Usuń</item>
+        <item>Co?</item>
+        <item>Hamburger</item>
+        <item>List miłosny</item>
+    </string-array>
+    <string-array name="days_of_week">
+        <item>NIE</item>
+        <item>PON</item>
+        <item>WTO</item>
+        <item>ŚR</item>
+        <item>CZW</item>
+        <item>PT</item>
+        <item>SOB</item>
+    </string-array>
+    <string-array name="oppo_repeat_type">
+        <item>Jednorazowo</item>
+        <item>Codziennie</item>
+        <item>W dni robocze</item>
+        <item>Dostosowane</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Telefon</item>
+        <item>Karta SIM</item>
+    </string-array>
+    <string-array name="dayofweek">
+        <item>Wczoraj</item>
+    </string-array>
+    <string-array name="slidelist_add_slide_choose">
+        <item>Dodaj na górze</item>
+        <item>Dodaj na dole</item>
+    </string-array>
+    <string-array name="slideedit_add_slide_choose">
+        <item>Dodaj na początku bieżącej strony</item>
+        <item>Dodaj po bieżącej stronie</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>Alfabet GSM</item>
+        <item>Unicode</item>
+        <item>Auto</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>sekunda</item>
+        <item>2 sekundy</item>
+        <item>3 sekundy</item>
+        <item>4 sekundy</item>
+        <item>5 sekund</item>
+        <item>6 sekund</item>
+        <item>7 sekund</item>
+        <item>8 sekund</item>
+        <item>9 sekund</item>
+        <item>10 sekund</item>
+        <item>Inny…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Zawsze</item>
+        <item>Tylko gdy wyciszony</item>
+        <item>Nigdy</item>
+    </string-array>
+    <string-array name="insert_dialog_items">
+        <item>Nazwa i numer</item>
+        <item>Historia</item>
+        <item>Szablony</item>
+        <item>Emotikony</item>
+    </string-array>
+    <string-array name="usemainnumexist_dialog_items">
+        <item>Zapisz</item>
+        <item>Wybierz numer</item>
+        <item>Kopiuj</item>
+        <item>Wyślij wiadomość</item>
+    </string-array>
+    <string-array name="usemainnum_dialog_items">
+        <item>Wybierz numer</item>
+        <item>Edycja przed wybraniem</item>
+        <item>Pole numeryczne</item>
+        <item>Podgląd kontaktu</item>
+    </string-array>
+    <string-array name="usesubnum_dialog_items">
+        <item>Wybierz numer</item>
+        <item>Zapisz</item>
+        <item>Wyślij wiadomość</item>
+        <item>Edycja przed wybraniem</item>
+        <item>Numer kierunkowy</item>
+    </string-array>
+    <string-array name="use_unsaved_telephone_number">
+        <item>Wybierz numer</item>
+        <item>Edycja przed wybraniem</item>
+        <item>Pole numeryczne</item>
+    </string-array>
+    <string-array name="email_dialog_items">
+        <item>Wyślij e-mail</item>
+        <item>Zapisz adres e-mail</item>
+        <item>Kopiuj adres e-mail</item>
+    </string-array>
+    <string-array name="emailexit_dialog_items">
+        <item>Wyślij e-mail</item>
+        <item>Zapisz adres e-mail</item>
+        <item>Kopiuj adres e-mail</item>
+    </string-array>
+    <string-array name="web_dialog_items">
+        <item>Otwórz</item>
+        <item>Zapisz w ulubionych</item>
+        <item>Kopiuj URL</item>
+    </string-array>
+    <string-array name="prefEntries_sms_validity">
+        <item>Nie ustalony</item>
+        <item>1 godzina</item>
+        <item>6 godzin</item>
+        <item>12 godzin</item>
+        <item>1 dzień</item>
+        <item>Maksymalny</item>
+    </string-array>
+    <string-array name="prefValues_sms_validity">
+        <item>-1</item>
+        <item>11</item>
+        <item>71</item>
+        <item>143</item>
+        <item>167</item>
+        <item>255</item>
+    </string-array>
+    <string-array name="prefEntries_mms_validity">
+        <item>2 dni</item>
+        <item>3 dni</item>
+        <item>Maksymalny</item>
+    </string-array>
+    <string-array name="prefValues_mms_validity">
+        <item>2</item>
+        <item>3</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="prefEntries_choose_message">
+        <item>informacje sim1</item>
+        <item>informacje sim2</item>
+        <item>wszystkie informacje</item>
+    </string-array>
+</resources>

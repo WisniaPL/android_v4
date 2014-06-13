@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="oppo_screen_shot_up_text">Przesuń w górę przez 1/3 ekranu</string>
+    <string name="oppo_screen_shot_down_text">Przesuń w dół w 1/3 ekranu</string>
+    <string name="oppo_volume_media">Media</string>
+    <string name="oppo_volume_system">Głośność systemowa</string>
+    <string name="oppo_volume_ringtone">Dzwonek</string>
+    <string name="oppo_volume_call">Głośność połączenia</string>
+</resources>

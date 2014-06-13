@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_password_enter_puk_code">Podaj kod PUK</string>
+    <string name="keyguard_password_wrong_puk_code">Błędny kod PUK!</string>
+    <string name="new_pin">Nowy kod PIN</string>
+    <string name="reenter_pin">Wprowadź ponownie kod PIN</string>
+    <string name="invalid_puk">Wprowadź ponownie kod PUK (8 cyfr).</string>
+    <string name="invalid_pin">Wpisz 4-8 cyfrowy kod PIN .</string>
+    <string name="keyguard_password_enter_new_pin_code">Podaj nowy PIN</string>
+    <string name="keyguard_password_Confirm_pin_code">Potwierdź nowy PIN:</string>
+    <string name="invalidPuk">Podaj numer 8-cyfrowy.</string>
+    <string name="sim_permanently_locked">Ponad 10 razy wprowadzono nieprawidłowy kod PUK, karta SIM została trwale zablokowana.</string>
+    <string name="pin_length_indicate">(4-8 cyfrowy numer)</string>
+    <string name="puk_length_indicate">(8-cyfrowy numer)</string>
+    <string name="one_retry_left">pozostała 1 próba</string>
+    <string name="retries_left">Pozostało prób: %d</string>
+    <string name="choose_gprs_mode">Wybierz połączenie danych</string>
+    <string name="new_sim">Nowa karta SIM</string>
+    <string name="new_sim_inserted">Włożono nową kartę SIM</string>
+    <string name="change_setting_for_onenewsim">Włożono nową kartę SIM:</string>
+    <string name="change_setting_for_twonewsim">Włożono nową kartę SIM:</string>
+    <string name="change_settings">Zmień ustawienia</string>
+    <string name="default_sim_removed">Usunięto domyślną kartę SIM</string>
+    <string name="keyguard_close">Zamknij</string>
+    <string name="change_setting_for_removesim">Karta SIM został wyjęta. Domyślną kartą SIM jest aktualnie:</string>
+    <string name="keyguard_sms">Wiadomość:</string>
+    <string name="keyguard_data">Połączenie danych:</string>
+    <string name="keyguard_alwaysask">Zawsze pytaj</string>
+    <string name="keyguard_data_none">Wyłączone</string>
+    <string name="dismiss">Ignoruj</string>
+    <string name="keyguard_password_enter_pin_code">Podaj kod PIN</string>
+    <string name="keyguard_code_length_prompt">Wprowadź 4-8 cyfr.</string>
+    <string name="keyguard_code_donnot_mismatch">Kod PIN nie zgadza się</string>
+    <string name="keyguard_internal_call">Dzwonienie przez internet</string>
+    <string name="keyguard_not_set">Nie ustawiono</string>
+    <string name="searching_simcard">Wykrywanie...</string>
+    <string name="lockscreen_emergency_call">Połączenie alarmowe</string>
+    <string name="lockscreen_return_to_call">Powrót do połączenia</string>
+    <string name="more_siminfo_for_button">Więcej informacji</string>
+    <string name="more_info_title">Odblokuj wybraną kartę SIM</string>
+    <string name="lockscreen_pattern_wrong">Niestety nie, spróbuj ponownie</string>
+    <string name="for_first_simcard">Dla pierwszej karty SIM</string>
+    <string name="for_second_simcard">Dla drugiej karty SIM</string>
+    <string name="new_sim_setting_prompt">Aktualnie domyślna karta SIM to:</string>
+    <string name="lockscreen_sim_unlock_progress_dialog_message">Odblokowywanie karty SIM...</string>
+    <string name="ok">OK</string>
+    <string name="pinpuk_attempts">"
+Pozostało prób:"</string>
+    <string name="invalidPin">Podaj 4-8-cyfrowy kod PIN.</string>
+    <string name="keyguard_pin_accepted">Hasło poprawne!</string>
+    <string name="keyguard_password_wrong_pin_code">Błędny kod PIN!</string>
+    <string name="lockscreen_carrier_default">Brak usługi</string>
+    <string name="keyguard_videocall">Połączenie wideo:</string>
+    <string name="keyguard_wrong_code_input">Hasło nieprawidłowe.</string>
+</resources>

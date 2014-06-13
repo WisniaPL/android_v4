@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OPPO poprodejní služba</string>
+    <string name="oppo_after_service_title">OPPO poprodejní služba</string>
+    <string name="afterservice_hotline_title">Servisní horká linka</string>
+    <string name="afterservice_address_title">Adresa</string>
+    <string name="afterservice_email_title">Email</string>
+    <string name="afterservice_website_title">Webstránka</string>
+    <string name="help_dialog_title">Nápověda</string>
+    <string name="help_dialog_msg">Abychom Vám poskytli co nejlepší službu, snaží se služba mobilních telefonů OPPO neustále expandovat. Prosím navštivte naší oficiální stránku nebo zavolejte naší mezinárodní servisní horkou linku pro kontrolu nejnovějšího stavu.</string>
+</resources>

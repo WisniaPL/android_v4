@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">COOL - Centre</string>
+    <string name="oppo_after_service_title">COOL - Centre</string>
+    <string name="afterservice_hotline_title">Горячая линия</string>
+    <string name="afterservice_address_title">Адрес</string>
+    <string name="afterservice_email_title">Email</string>
+    <string name="afterservice_website_title">Веб-сайт</string>
+    <string name="help_dialog_title">Справка</string>
+    <string name="help_dialog_msg">В целях предоставления вам лучшего обслуживания, сеть послепродажного сервиса мобильных телефонов OPPO находится временно на реконструкции. Посетите для проверки наличия обновления или проконсультируйтесь по единой национальной сервисной горячей линии.</string>
+</resources>

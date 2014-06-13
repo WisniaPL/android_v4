@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Obszar zdjęć</string>
+    <string name="camera_error_title">Błąd aparatu</string>
+    <string name="Close">Zamknij</string>
+    <string name="no_storage">Brak dostępnej pamięci</string>
+    <string name="internal_external_no_enough_space">Pamięć telefonu i karta SD są pełne, nie można dalej korzystać z aparatu, usuń pliki, aby zwolnić miejsce.</string>
+    <string name="internal_no_enough_space">Pamięć telefonu zapełniona, nie można dalej korzystać z aparatu, usuń pliki, aby zwolnić miejsce.</string>
+    <string name="external_to_internal">Karta SD jest pełna, zdjęcia będą zapisywane w pamięci telefonu</string>
+    <string name="internal_to_external">Pamięć telefonu zapełniona, zdjęcia będą zapisywane na karcie SD</string>
+    <string name="internal_to_external_camera">Pamięć telefonu niedostępna, zdjęcia będą zapisywane na karcie SD</string>
+    <string name="external_to_internal_camera">Karta SD nie jest dostępna, zdjęcia będą zapisywane w pamięci telefonu</string>
+    <string name="internal_low_storage_space">Zbyt mało miejsca w pamięci telefonu</string>
+    <string name="date">2013.01.01</string>
+    <string name="share">Udostępnij</string>
+    <string name="delete">Usuń</string>
+    <string name="cancel">Anuluj</string>
+    <string name="ok">Zapisz</string>
+    <string name="send_to">Wyślij</string>
+    <string name="edit_mood_hint">Wpisz treść do 25 znaków</string>
+    <string name="oppo_timeline_hint">Otwórz zdjęcia, aby zobaczyć więcej</string>
+    <string name="confirm_delete">Usunąć?</string>
+    <string name="confirm_delete_ok">Usunąć?</string>
+    <string name="picture_not_exist">Brak takiego obrazu lub wymieniono nośnik pamięci.</string>
+    <string name="camera_in_use">Brak połączenia z aparatem!</string>
+</resources>

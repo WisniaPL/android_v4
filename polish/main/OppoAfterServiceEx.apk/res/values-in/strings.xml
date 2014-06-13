@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Layanan purna jual OPPO</string>
+    <string name="oppo_after_service_title">Layanan purna jual OPPO</string>
+    <string name="afterservice_hotline_title">Hotline layanan</string>
+    <string name="afterservice_address_title">Alamat</string>
+    <string name="afterservice_email_title">Email</string>
+    <string name="afterservice_website_title">Situs web</string>
+    <string name="help_dialog_title">Bantuan</string>
+    <string name="help_dialog_msg">Demi melayani anda dengan lebih baik, kami sedang membangun lebih banyak pusat layanan purna jual. Untuk keterangan lebih lanjut, silakan kunjungi situs resmi kami.Sedang mencari, atau silakan hubungi layanan hotline.</string>
+</resources>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sync_contact">Kopia zapasowa kontaktów</string>
+    <string name="sync_sm">Kopia zapasowa SMS</string>
+    <string name="sync_contact_data_count">Kontakty w kopii zapasowej</string>
+    <string name="sync_sm_data_count">- utworzono kopię zapasową SMS</string>
+    <string name="album_message">Zapisz zdjęcia w chmurze</string>
+    <string name="network_disk_message">Zapisz pliki w chmurze</string>
+    <string name="sync_contact_message">Zapisz kontakty w chmurze</string>
+    <string name="sync_sm_message">Zapisz SMS w chmurze</string>
+    <string name="note_message">Zapisz notatki w chmurze</string>
+    <string name="app_name">O-Cloud</string>
+    <string name="my_account">Moje konto</string>
+    <string name="my_account_not_login">Po zalogowaniu można korzystać z następujących funkcji</string>
+    <string name="find_my_phone">Znajdź telefon</string>
+    <string name="my_cloud_service">O-Cloud</string>
+    <string name="storage_space">Pamięć w chmurze</string>
+    <string name="note">Notatki w chmurze</string>
+    <string name="album">Albumy w chmurze</string>
+    <string name="network_disk">Dysk sieciowy</string>
+    <string name="cloud_explain">Pomoc</string>
+    <string name="pc_url_explain">Zaloguj się na www.nearme.com.cn, aby zarządzać danymi w chmurze i używać funkcji odnajdywania telefonu</string>
+    <string name="note_data_count">- notatki zsynchronizowane</string>
+    <string name="baidu_data_count">- dostępne/- łącznie</string>
+    <string name="data_loading">Wczytywanie danych, proszę czekać!</string>
+    <string name="baidu_info_explain_text1">Albumy w chmurze i dysk sieciowy</string>
+    <string name="baidu_info_explain_text2_wx">"
+
+Obsługę przechowywania danych w chmurze zapewnia Amazon"</string>
+    <string name="baidu_info_agreement_text_1">Przeczytałem i zgadzam się</string>
+    <string name="baidu_info_agreement_text_2">Warunki korzystania z usług sieciowych Baidu</string>
+    <string name="pager1_message_text_wx">Zlokalizuj swój telefon i zabezpiecz dane osobiste; zapewnij sobie łatwy dostęp do kontaktów i wiadomości SMS, tworząc kopie zapasowe w chmurze.</string>
+    <string name="pager2_message_text_wx">W przypadku utracenia telefonu, możesz zalogować się do http://find.nearme.com.cn/ aby zlokalizować go, zablokować ekran lub usunąć ważne dane.</string>
+    <string name="pager3_message_text_wx">15 GB miejsca w chmurze, automatyczne kopie zapasowe przez Wi-Fi.</string>
+    <string name="pager4_message_text_wx">"Przeglądaj swoje pliki wszędzie i z każdego miejsca
+ciesz się ogromną pojemnością przenośnego dysku USB, bezpiecznie i wygodnie."</string>
+    <string name="pager5_message_text_wx">Utwórz kopię zapasową kontaktów, aby ich nie utracić</string>
+    <string name="pager6_message_text">"        Łatwe tworzenie kopii zapasowych, pełne przywracanie; 
+ochrona przed utratą ważnych wiadomości SMS"</string>
+    <string name="pager7_message_text">"        Wysyłaj bezpłatne wiadomości tekstowe i głosowe oraz zdjęcia;
+Spersonalizowany temat \"Zakochanych\", słodki i radosny."</string>
+    <string name="pager8_message_text">"Synchronizacja z chmurą, ciesz się dostępem do notatek zawsze i wszędzie
+notatki odręczne i szkice, teraz łatwiej zanotujesz to, co trzeba."</string>
+    <string name="pager1_title_text">O-Cloud</string>
+    <string name="pager2_title_text">Znajdź telefon</string>
+    <string name="pager3_title_text">Albumy w chmurze</string>
+    <string name="pager4_title_text">Dysk sieciowy</string>
+    <string name="pager5_title_text">Kopia zapasowa kontaktów</string>
+    <string name="pager6_title_text">Kopia zapasowa SMS w chmurze</string>
+    <string name="pager7_title_text">Wiadomości w chmurze NearMe</string>
+    <string name="pager8_title_text">Notatki</string>
+    <string name="pager2_btn_text">Kliknij, aby użyć funkcji odnajdywania telefonu</string>
+    <string name="pager3_btn_text">Kliknij, aby użyć albumów w chmurze</string>
+    <string name="pager4_btn_text">Kliknij, aby użyć dysku sieciowego</string>
+    <string name="pager5_btn_text">Kliknij, aby użyć kopii zapasowej kontaktów</string>
+    <string name="pager6_btn_text">Kliknij, aby użyć kopii zapasowej SMS w chmurze</string>
+    <string name="pager7_btn_text">Kliknij, aby użyć notatek w chmurze</string>
+    <string name="pager_btn_text">Zaloguj się do konta NearMe</string>
+    <string name="baidu_agreement_activity">http://pan.baidu.com/disk/duty_mobi</string>
+    <string name="total_capacity_text">"Pojemność całkowita "</string>
+    <string name="available_space_text">Miejsce dostępne</string>
+    <string name="account_name_text_wx">Nazwa</string>
+    <string name="account_message_text">Po zalogowaniu można korzystać z następujących funkcji</string>
+    <string name="baiduinfo_message">Łączna pojemność 5 GB</string>
+    <string name="baiduinfo_message_15G">5G</string>
+    <string name="activation_message_header">Aktywuj miejsce</string>
+    <string name="activation_message_details">Po aktywacji otrzymasz 15 GB bezpłatnego miejsca</string>
+    <string name="button_activation">Aktywuj</string>
+    <string name="button_activation_cancel">Anuluj</string>
+    <string name="activation_dialog_message">Każdy telefon można aktywować tylko raz, po aktywacji otrzymasz 15 GB miejsca do wykorzystania, aktywować teraz?</string>
+    <string name="activation_success">Aktywowano poprawnie</string>
+    <string name="activation_failed">Aktywacja nieudana z powodu problemów z siecią, spróbuj ponownie później.</string>
+    <string name="activation_waiting">Aktywowanie miejsca…</string>
+    <string name="please_login">Należy zalogować się przed rozpoczęciem oglądania</string>
+    <string name="other_function">Funkcje pozostałe</string>
+    <string name="personal_info">Profil</string>
+    <string name="login_page_info">Zlokalizuj swój telefon i zabezpiecz dane osobiste; zapewnij sobie łatwy dostęp do kontaktów, zdjęć, notatek i wiadomości SMS, tworząc kopie zapasowe w chmurze.</string>
+    <string name="download_data_failed">Nie udało się pobrać danych, kliknij aby spróbować ponownie</string>
+    <string name="btn_register">Rejestracja</string>
+    <string name="baidu_info_explain_text2">Obsługę przechowywania danych w chmurze zapewnia Amazon</string>
+    <string name="pager1_message_text">Zlokalizuj swój telefon i zabezpiecz znajdujące się w nim dane; zapewnij sobie łatwy dostęp do plików, zdjęć, notatek i wiadomości SMS, tworząc kopie zapasowe w chmurze.</string>
+    <string name="pager2_message_text">W przypadku utracenia telefonu, możesz zalogować się do http://find.nearme.com.cn/ aby zlokalizować go, zablokować ekran lub usunąć ważne dane.</string>
+    <string name="pager3_message_text">Bezpłatne 15 GB miejsca w chmurze, automatyczna synchronizacja przez Wi-Fi.</string>
+    <string name="pager4_message_text">"Przeglądaj swoje pliki wszędzie i z każdego miejsca
+ciesz się ogromną pojemnością przenośnego dysku USB, bezpiecznie i wygodnie."</string>
+    <string name="pager5_message_text">Utwórz kopię zapasową kontaktów w chmurze, aby ich nie utracić</string>
+    <string name="account_name_text">Zaloguj się do konta NearMe</string>
+    <string name="login_page_info_wx">"      Zlokalizuj swój telefon, zabezpiecz swoje dane; skopiuj kontakty i wiadomości SMS do chmury aby mieć do nich dostęp zawsze i wszędzie."</string>
+    <string name="app_name_wx">Centrum użytkownika</string>
+    <string name="amazon_info_expansion_text">Zwiększ przestrzeń na dane</string>
+    <string name="upgrade_notify_upgrade_label">Wykryto najnowszą wersję oprogramowania</string>
+    <string name="upgrade_notify_upgrade_content">Najnowsza wersja to %s; kliknij, aby uaktualnić.</string>
+    <string name="upgrade_dialog_force_upgrade_title">Aktualizacja oprogramowania</string>
+    <string name="upgrade_dialog_force_upgrade_label">Jeżeli nie wykonasz aktualizacji, korzystanie z aktualnej wersji aplikacji nie będzie dłużej możliwe. Zalecane jest przeprowadzenie aktualizacji przez sieć Wi-Fi. Updates: %s</string>
+    <string name="upgrade_update_now">Aktualizuj teraz</string>
+    <string name="upgrade_update_later">Nie teraz</string>
+    <string name="upgrade_dialog_upgrade_label">"Zalecane jest przeprowadzenie aktualizacji za pomocą sieci Wi-Fi.
+Aktualizacje:
+%s"</string>
+    <string name="upgrade_notify_install_fail">Instalacja %s nie powiodła się</string>
+    <string name="upgrade_download_pause">Wstrzymane</string>
+    <string name="upgrade_download_resume">Kontynuuj</string>
+    <string name="upgrade_download_cancel">Anuluj</string>
+    <string name="upgrade_dialog_download_ing">Trwa pobieranie, proszę czekać…</string>
+    <string name="upgrade_dialog_download_pause">Pobieranie wstrzymane, kliknij aby kontynuować</string>
+    <string name="upgrade_dialog_download_fail">"Z powodu problemów z siecią aktualizacja przerwana. 
+Spróbuj ponownie za chwilę."</string>
+    <string name="upgrade_maintain_title">Aktualizacja i utrzymanie</string>
+    <string name="upgrade_update_already">Zainstalowana wersja jest aktualna, brak potrzeby aktualizacji.</string>
+    <string name="upgrade_confirm">Potwierdź</string>
+    <string name="upgrade_update_checking">Wyszukiwanie aktualizacji, proszę czekać…</string>
+    <string name="upgrade_network_error">Błąd sieci, spróbuj ponownie</string>
+    <string name="upgrade_no_enough_space">Zbyt mało miejsca w pamięci telefonu lub na karcie pamięci. Usuń niepotrzebne pliki i spróbuj ponownie.</string>
+    <string name="upgrade_fail">Aktualizacja nieudana</string>
+    <string name="upgrade_error_md5">Z powodu problemów z siecią pobrany pakiet nie jest kompletny, pobierz ponownie.</string>
+    <string name="upgrade_retry">Pobierz ponownie</string>
+    <string name="upgrade_no_sdcard">Brak karty SD, nie można wczytać obrazu i przeprowadzić aktualizacji online.</string>
+    <string name="upgrade_upgrade_size">Rozmiar aktualizacji: %s</string>
+    <string name="upgrade_version">Wersja: %s</string>
+    <string name="upgrade_dialog_force_upgrade_title_fail">Aktualizacja przerwana</string>
+</resources>

@@ -1,0 +1,71 @@
+<?Xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name"> bagażnika rejestracji </string>
+    <string name="please_register_first"> konto OPPO </string>
+    <string name="using_existing_account"> zaloguj się </string>
+    <string name="register"> </string>
+    <string name="about_oppo_account"> O OPPO konto Usługi </string>
+    <string name="about_scratch"> konto OPPO logowania, można wyodrębnić nagrody tajemnicy oh ~ </string>
+    <string name="ignore"> pomijane w korzystaniu z telefonów komórkowych </string>
+    <string name="about_oppo_service"> O OPPO konto Usługi </string>
+    <string name="introduction_title"> Drogi użytkowniku: </string>
+    <string name="introduction_text"> "Witaj OPPO przed użyciem inteligentnych maszyn, OPPO zapraszamy do rejestracji konta, aby lepiej korzystać z następujących usług firmy OPPO udzieli Państwu:
+1) oprogramowanie sklepu, popularne Zalecane zastosowanie, dobrze gra, piękne tematy i tapety, dzwonki i inne spersonalizowane stale aktualizowana, po raz pierwszy do pchania konta.
+2) OPPO park, najnowsze informacje na temat najbardziej popularnych stanowisk, interakcje OPPO mobilnych graczy, doskonałe wyposażenie i zapytań serwisowych, można zatrzymać się cieszyć.
+3) Można dodawać własne kontakty, wiadomości tekstowe, notatki i inne zapasową synchronizacji danych w chmurze, nie muszą już martwić się o utratę danych.
+4) rachunek OPPO, można również odzyskać utracone telefon. "</String>
+    <string name="back"> Powrót do Poprzedni </string>
+    <string name="user_experience_illustration_title"> Witamy OPPO telefon komórkowy! </String>
+    <string name="user_experience_illustration_text"> "W celu usprawnienia systemu i łatwość systemu użytkowania, trwałość, funkcjonalność, zbieramy użytkownika do korzystania z produktu w czasie nie informacji i danych osobowych, a zagregowane i analizowane przez analizę użytkownika Użyj funkcji zwyczaje związane z produktem i operacyjne wykorzystanie dalszej poprawy produktu.
+Nie zbieramy żadnych danych odnoszących się do prywatności, ponieważ tworzone przez użytkowników. Podjął również Powyższe informacje są wykorzystywane wyłącznie do udoskonalania naszych produktów, nie będą udostępniane osobom trzecim ani wykorzystywane do żadnych innych celów handlowych. "</ String>
+    <string name="login_illustration"> "Bo nie używali konta do logowania Oppo, więc wpływa na wykorzystanie sklepów, tworzenie kopii zapasowych kontaktów, odzyskać funkcje telefonu.
+Proszę nie martw się, gdy trzeba korzystać z tych usług, pomożemy Ci się zalogować. "</String>
+    <string name="complete"> zakończona </string>
+    <string name="start_use"> rozpoczęciem korzystania z telefonu </string>
+    <string name="start_scratch"> loterii uprzejmy </string>
+    <string name="join_user_experience_improvement"> uczestniczyć Program poprawy użytkownika </string>
+    <string name="login"> zaloguj się </string>
+    <string name="account_label"> konto: </string>
+    <string name="account_hint"> mail / numer / nazwa telefonu użytkownika </string>
+    <string name="password_label"> Hasło: </string>
+    <string name="password_hint"> Wprowadź hasło </string>
+    <string name="account_or_password_error"> błąd nazwa użytkownika lub hasło </string>
+    <string name="connection_timeout">, zaloguj się ponownie </string>
+    <string name="forget_password"> Nie pamiętasz hasła? </String>
+    <string name="check_mobile"> sprawdzić telefon </string>
+    <string name="phone_number_label"> Mobile Number: </string>
+    <string name="phone_number_hint"> 11 位 numer telefonu </string>
+    <string name="phone_number_registered"> "został zarejestrowany numer telefonu" </string>
+    <string name="phone_number_error"> Proszę wprowadzić poprawny format numeru telefonu </string>
+    <string name="read_clause"> Przeczytałem przepisy dotyczące rejestracji </string>
+    <string name="phone_number_registered_link"> zaloguj się </string>
+    <string name="oppo_id_clause"> przepisy dotyczące rejestracji OPPO ID </string>
+    <string name="authentication_code_label"> cztery Kod weryfikacyjny: </string>
+    <string name="authentication_code_hint"> 4-cyfry </string>
+    <string name="authentication_code_error_hint"> kod weryfikacyjny jest niepoprawna, należy ponownie wprowadzić </string>
+    <string name="resend"> Wyślij ponownie </string>
+    <string name="confirm"> OK </string>
+    <string name="set_password"> ustawienia hasła </string>
+    <string name="sex_label"> Płeć: </string>
+    <string name="male"> mężczyzna </string>
+    <string name="female"> kobieta </​​string>
+    <string name="set_password_hint"> (6-16 cyfrowy alfanumeryczny) </string>
+    <string name="show_password"> Pokaż hasło </string>
+    <string name="password_error_hint"> Wpisz hasło w odpowiednim formacie </string>
+    <string name="generate_user_name"> wygenerować nazwę użytkownika </string>
+    <string name="user_name_label"> Nazwa użytkownika: </string>
+    <string name="modify"> Edytuj </string>
+    <string name="warm_prompt_for_next_login">: Przy następnym logowaniu można użyć numeru telefonu podczas rejestracji, aby się zalogować. </String>
+    <string name="finish_register"> zakończyć rejestrację </string>
+    <string name="modify_user_name"> zmienić nazwę użytkownika </string>
+    <string name="user_name_label_1"> Nazwa użytkownika: </string>
+    <string name="user_name_hint"> 2-12 bitów liter, cyfr, znaków </string>
+    <string name="all_error_hint"> jest zajęty, proszę spróbować ponownie </string> 
+    <string name="no_net_and_ignore"> nie jest dostępne połączenie sieciowe, przejdź bezpośrednio do telefonu przy użyciu </string>
+    <string name="read_clause_first"> sprawdzić "Przeczytałem przepisy rejestracyjne" </string>
+    <string name="user_name_exists_please_repick"> już istnieje, należy ponownie wprowadzić </string>
+    <string name="please_wait"> Proszę czekać ...... </string>
+    <string name="login_please_wait"> logowanie Proszę czekać ...... </string>
+    <string name="authenticate_please_wait"> Proszę czekać ...... </string>
+    <string name="wlan_select"> WLAN wybór sieci </string>
+</resources>

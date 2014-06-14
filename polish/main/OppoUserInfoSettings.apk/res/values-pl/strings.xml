@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UserInfoSettings</string>
+    <string name="userInfoActivity_label">Info o właścicielu</string>
+    <string name="change_portrait">Zmień awatar</string>
+    <string name="showing_on_screen_checkbox_content">Info o właścicielu na ekranie blokady</string>
+    <string name="userPortraitActivity_label">Awatar</string>
+    <string name="history_portrait">Poprzedni awatar</string>
+    <string name="attachToContact">Dodaj zdjęcie</string>
+    <string name="take_photo">Zrób zdjęcie</string>
+    <string name="pick_photo">Wybierz z biblioteki</string>
+    <string name="lock_show_head">Pokaż awatar na ekranie blokady:</string>
+</resources>

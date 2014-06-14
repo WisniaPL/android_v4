@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete">Usuń</string>
+    <string name="apply">Zastosuj</string>
+    <string name="confirm">Potwierdź</string>
+    <string name="cancel">Anuluj</string>
+    <string name="confirm_delete">Potwierdź usunięcie</string>
+    <string name="confirm_delete_content">Chcesz usunąć żywą tapetę?</string>
+</resources>

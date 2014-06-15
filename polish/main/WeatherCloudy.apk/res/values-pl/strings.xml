@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<resources>
+  <string name="app_name">WeatherCloudy</string>
+  <string name="liveweather_cloudy">Cloudy</string>
+  <string name="author">oppo</string>
+  <string name="package_name">com.oppo.liveweather.newcloudy</string>
+  <string name="version">2.0</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<resources>
+  <string-array name="oldComponentName">
+    <item>com.oppo.LockNow/com.oppo.LockNow.LockNowActivity</item>
+  </string-array>
+</resources>

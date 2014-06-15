@@ -1,68 +1,570 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0"?>
 <resources>
-    <string-array name="clir_display_values">
-        <item>Domyślna wartość dla sieci</item>
-        <item>Ukryj numer</item>
-        <item>Pokaż numer</item>
-    </string-array>
-    <string-array name="preferred_network_mode_choices">
-        <item>LTE/WCDMA</item>
-        <item>LTE</item>
-        <item>Globalny</item>
-        <item>GSM/WCDMA/LTE</item>
-        <item>CDMA + LTE/EvDo</item>
-        <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>Tylko EvDo</item>
-        <item>CDMA bez EvDo</item>
-        <item>Automatyczny CDMA/EvDo</item>
-        <item>Automatyczny GSM/WCDMA</item>
-        <item>Tylko WCDMA</item>
-        <item>Tylko GSM</item>
-        <item>Preferowany GSM/WCDMA</item>
-    </string-array>
-    <string-array name="list_language_entries">
-        <item>Angielski</item>
-        <item>francuski</item>
-        <item>hiszpański</item>
-        <item>japoński</item>
-        <item>koreański</item>
-        <item>chiński</item>
-        <item>hebrajski</item>
-    </string-array>
-    <string-array name="list_language_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-    </string-array>
-    <string-array name="cdma_system_select_choices">
-        <item>Tylko główne</item>
-        <item>Automatycznie</item>
-    </string-array>
-    <string-array name="cdma_subscription_choices">
-        <item>RUIM/SIM</item>
-        <item>NV</item>
-    </string-array>
-    <string-array name="cdma_subscription_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="tty_mode_entries">
-        <item>TTY wyłączony</item>
-        <item>TTY pełny</item>
-        <item>TTY HCO</item>
-        <item>TTY VCO</item>
-    </string-array>
-    <string-array name="dtmf_tone_entries">
-        <item>Normalne</item>
-        <item>Długie</item>
-    </string-array>
-    <string-array name="voicemail_notification_vibrate_when_entries">
-        <item>Zawsze</item>
-        <item>Tylko po wyciszeniu</item>
-        <item>Nigdy</item>
-    </string-array>
+  <string-array name="transport_types">
+    <item>UDP</item>
+    <item>TCP</item>
+  </string-array>
+  <string-array name="sip_call_options_entries">
+    <item>@string/sip_call_options_entry_1</item>
+    <item>@string/sip_call_options_entry_2</item>
+    <item>@string/sip_call_options_entry_3</item>
+  </string-array>
+  <string-array name="sip_call_options_wifi_only_entries">
+    <item>@string/sip_call_options_wifi_only_entry_1</item>
+    <item>@string/sip_call_options_entry_2</item>
+    <item>@string/sip_call_options_entry_3</item>
+  </string-array>
+  <string-array name="sip_call_options_values">
+    <item>@string/sip_always</item>
+    <item>@string/sip_address_only</item>
+    <item>@string/sip_ask_me_each_time</item>
+  </string-array>
+  <string-array name="phone_type_values">
+    <item>@string/pstn_phone</item>
+    <item>@string/internet_phone</item>
+  </string-array>
+  <string-array name="sip_send_keepalive_options">
+    <item>@string/sip_system_decide</item>
+    <item>@string/sip_always_send_keepalive</item>
+  </string-array>
+  <string-array name="incoming_call_widget_3way_target_descriptions">
+    <item>@string/description_target_answer</item>
+    <item>@string/description_target_send_sms</item>
+    <item>@string/description_target_decline</item>
+    <item>@null</item>
+  </string-array>
+  <array name="incoming_call_widget_3way_direction_descriptions">
+    <item>@null</item>
+    <item>@null</item>
+    <item>@null</item>
+    <item>@null</item>
+  </array>
+  <array name="incoming_call_widget_2way_targets">
+    <item>@drawable/ic_lockscreen_answer</item>
+    <item>@null</item>
+    <item>@drawable/ic_lockscreen_decline</item>
+    <item>@null</item>
+  </array>
+  <string-array name="incoming_call_widget_2way_target_descriptions">
+    <item>@string/description_target_answer</item>
+    <item>@null</item>
+    <item>@string/description_target_decline</item>
+    <item>@null</item>
+  </string-array>
+  <array name="incoming_call_widget_2way_direction_descriptions">
+    <item>@null</item>
+    <item>@null</item>
+    <item>@null</item>
+    <item>@null</item>
+  </array>
+  <string-array name="iso3_languages">
+    <item>USA</item>
+    <item>CHN</item>
+    <item>TWN</item>
+    <item>HKG</item>
+    <item>THA</item>
+    <item>RUS</item>
+    <item>IDN</item>
+    <item>VNM</item>
+    <item>ISR</item>
+    <item>NULL</item>
+    <item>NULL</item>
+    <item>NULL</item>
+    <item>NULL</item>
+    <item>NULL</item>
+    <item>NULL</item>
+    <item>DNK</item>
+    <item>DEU</item>
+    <item>GRC</item>
+    <item>ZAF</item>
+    <item>ESP</item>
+    <item>NULL</item>
+    <item>NULL</item>
+    <item>NULL</item>
+    <item>NULL</item>
+    <item>FRA</item>
+    <item>NULL</item>
+    <item>NULL</item>
+    <item>NULL</item>
+    <item>ITA</item>
+    <item>NULL</item>
+    <item>JPN</item>
+    <item>NULL</item>
+    <item>NULL</item>
+    <item>NULL</item>
+    <item>NULL</item>
+    <item>NOR</item>
+    <item>NLD</item>
+    <item>NULL</item>
+    <item>PRT</item>
+    <item>NULL</item>
+    <item>NULL</item>
+    <item>NULL</item>
+    <item>NULL</item>
+    <item>NULL</item>
+    <item>SWE</item>
+    <item>NULL</item>
+    <item>NULL</item>
+    <item>TUR</item>
+    <item>NULL</item>
+    <item>NULL</item>
+    <item>NULL</item>
+  </string-array>
+  <string-array name="language_list_values">
+    <item>All Languages</item>
+    <item>German</item>
+    <item>English</item>
+    <item>Italian</item>
+    <item>French</item>
+    <item>Spanish</item>
+    <item>Dutch</item>
+    <item>Swedish</item>
+    <item>Danish</item>
+    <item>Portuguese</item>
+    <item>Finnish</item>
+    <item>Norwegian</item>
+    <item>Greek</item>
+    <item>Turkish</item>
+    <item>Hungarian</item>
+    <item>Polish</item>
+    <item>Others</item>
+    <item>Czech</item>
+    <item>Hebrew</item>
+    <item>Arabic</item>
+    <item>Russian</item>
+    <item>IceLandic</item>
+  </string-array>
+  <string-array name="language_list_id">
+    <item>-1</item>
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>10</item>
+    <item>11</item>
+    <item>12</item>
+    <item>13</item>
+    <item>14</item>
+    <item>15</item>
+    <item>32</item>
+    <item>33</item>
+    <item>34</item>
+    <item>35</item>
+    <item>36</item>
+  </string-array>
+  <string-array name="vt_replace_local_video_entries">
+    <item>@string/vt_pic_replace_local_default</item>
+    <item>@string/vt_pic_replace_local_freezeme</item>
+    <item>@string/vt_pic_replace_local_mypic</item>
+  </string-array>
+  <string-array name="vt_replace_local_video_entries2">
+    <item>@string/vt_pic_replace_local_default</item>
+    <item>@string/vt_pic_replace_local_mypic</item>
+  </string-array>
+  <string-array name="vt_replace_local_video_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+  </string-array>
+  <string-array name="vt_replace_local_video_values2">
+    <item>0</item>
+    <item>1</item>
+  </string-array>
+  <string-array name="vt_mt_local_video_display_entries">
+    <item>@string/vt_incoming_showme_always</item>
+    <item>@string/vt_incoming_showme_ask</item>
+    <item>@string/vt_incoming_showme_disable</item>
+  </string-array>
+  <string-array name="vt_mt_local_video_display_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+  </string-array>
+  <string-array name="vt_incall_setting_local_video_effect_entries">
+    <item>@string/pref_camera_coloreffect_entry_none</item>
+    <item>@string/pref_camera_coloreffect_entry_mono</item>
+    <item>@string/pref_camera_coloreffect_entry_sepia</item>
+    <item>@string/pref_camera_coloreffect_entry_negative</item>
+    <item>@string/pref_camera_coloreffect_entry_solarize</item>
+    <item>@string/pref_camera_coloreffect_entry_posterize</item>
+    <item>@string/pref_camera_coloreffect_entry_aqua</item>
+    <item>@string/pref_camera_coloreffect_entry_pastel</item>
+    <item>@string/pref_camera_coloreffect_entry_mosaic</item>
+    <item>@string/pref_camera_coloreffect_entry_redtint</item>
+    <item>@string/pref_camera_coloreffect_entry_bluetint</item>
+    <item>@string/pref_camera_coloreffect_entry_greentint</item>
+    <item>@string/pref_camera_coloreffect_entry_blackboard</item>
+    <item>@string/pref_camera_coloreffect_entry_whiteboard</item>
+    <item>@string/pref_camera_coloreffect_entry_sepiablue</item>
+    <item>@string/pref_camera_coloreffect_entry_sepiagreen</item>
+  </string-array>
+  <string-array name="vt_incall_setting_local_video_effect_values">
+    <item>none</item>
+    <item>mono</item>
+    <item>sepia</item>
+    <item>negative</item>
+    <item>solarize</item>
+    <item>posterize</item>
+    <item>aqua</item>
+    <item>pastel</item>
+    <item>mosaic</item>
+    <item>red-tint</item>
+    <item>blue-tint</item>
+    <item>green-tint</item>
+    <item>blackboard</item>
+    <item>whiteboard</item>
+    <item>sepiablue</item>
+    <item>sepiagreen</item>
+  </string-array>
+  <string-array name="vt_incall_setting_peer_video_quality_entries">
+    <item>@string/vt_peer_video_quality_normal</item>
+    <item>@string/vt_peer_video_quality_sharp</item>
+  </string-array>
+  <string-array name="vt_incall_setting_peer_video_quality_values">
+    <item>Normal</item>
+    <item>Sharp</item>
+  </string-array>
+  <string-array name="vt_incall_video_setting_entries">
+    <item>@string/vt_local_video_zoom</item>
+    <item>@string/vt_local_video_brightness</item>
+    <item>@string/vt_local_video_contrast</item>
+    <item>@string/vt_local_video_effect</item>
+    <item>@string/vt_local_video_nightmode</item>
+    <item>@string/vt_peer_video_quality</item>
+  </string-array>
+  <string-array name="vt_incall_video_setting_entries2">
+    <item>@string/vt_peer_video_quality</item>
+  </string-array>
+  <string-array name="vt_incall_video_setting_local_nightmode_entries">
+    <item>@string/alert_dialog_yes</item>
+    <item>@string/alert_dialog_no</item>
+  </string-array>
+  <string-array name="vt_incall_video_setting_local_nightmode_entries2">
+    <item>@string/alert_dialog_no</item>
+  </string-array>
+  <string-array name="vt_incall_video_setting_peer_quality_entries">
+    <item>@string/vt_peer_video_quality_normal</item>
+    <item>@string/vt_peer_video_quality_sharp</item>
+  </string-array>
+  <string-array name="plmn_prefer_network_mode_choices">
+    <item>GSM</item>
+    <item>WCDMA</item>
+    <item>Dual mode</item>
+  </string-array>
+  <string-array name="plmn_prefer_network_mode_td_choices">
+    <item>GSM</item>
+    <item>TD-SCDMA</item>
+    <item>Dual mode</item>
+  </string-array>
+  <string-array name="plmn_prefer_network_mode_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+  </string-array>
+  <string-array name="gsm_umts_network_preferences_choices">
+    <item>GSM/WCDMA (auto mode)</item>
+    <item>WCDMA only</item>
+    <item>GSM only</item>
+  </string-array>
+  <string-array name="gsm_umts_network_preferences_values">
+    <item>0</item>
+    <item>2</item>
+    <item>1</item>
+  </string-array>
+  <string-array name="gsm_umts_network_preferences_choices_cmcc">
+    <item>GSM/TD-SCDMA (auto mode)</item>
+    <item>TD-SCDMA only</item>
+    <item>GSM only</item>
+  </string-array>
+  <string-array name="gsm_umts_network_preferences_values_cmcc">
+    <item>0</item>
+    <item>2</item>
+    <item>1</item>
+  </string-array>
+  <string-array name="umts_network_preferences_choices">
+    <item>GSM/WCDMA (auto mode)</item>
+    <item>WCDMA only</item>
+  </string-array>
+  <string-array name="umts_network_preferences_values">
+    <item>0</item>
+    <item>2</item>
+  </string-array>
+  <string-array name="umts_network_preferences_choices_cmcc">
+    <item>GSM/TD-SCDMA (auto mode)</item>
+    <item>TD-SCDMA only</item>
+  </string-array>
+  <string-array name="call_reject_mode_entries">
+    <item>Off</item>
+    <item>All numbers</item>
+    <item>Auto reject list</item>
+  </string-array>
+  <string-array name="call_reject_mode_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+  </string-array>
+  <string-array name="call_reject_dialog_array">
+    <item>Contacts</item>
+    <item>Call logs</item>
+  </string-array>
+  <string-array name="numberOfserver">
+    <item>10086</item>
+    <item>10010</item>
+    <item>10000</item>
+    <item>10050</item>
+    <item>11185</item>
+    <item>95588</item>
+    <item>95599</item>
+    <item>95566</item>
+    <item>95533</item>
+    <item>95559</item>
+    <item>95558</item>
+    <item>95528</item>
+    <item>95508</item>
+    <item>95501</item>
+    <item>95555</item>
+    <item>95561</item>
+    <item>95595</item>
+    <item>95568</item>
+    <item>95577</item>
+    <item>95516</item>
+    <item>95080</item>
+    <item>95530</item>
+    <item>95539</item>
+    <item>950712</item>
+    <item>4008206222</item>
+    <item>95583</item>
+    <item>95500</item>
+    <item>95511</item>
+    <item>95519</item>
+    <item>95522</item>
+    <item>95567</item>
+    <item>13800138000</item>
+    <item>10011</item>
+    <item>4001666888</item>
+    <item>4006096777</item>
+    <item>95526</item>
+    <item>4006006222</item>
+    <item>96528</item>
+    <item>4008100999</item>
+    <item>114</item>
+  </string-array>
+  <string-array name="areaOfnumber">
+    <item>China Mobile Customer Service</item>
+    <item>China Unicom Customer service</item>
+    <item>China Telecom</item>
+    <item>China Railcom</item>
+    <item>China Post</item>
+    <item>Industrial and Commercial Bank of China</item>
+    <item>Agricultural Bank of China</item>
+    <item>Bank of China</item>
+    <item>China Construction Bank</item>
+    <item>Bank of Communications</item>
+    <item>CITIC Bank</item>
+    <item>Shanghai Pudong Development Bank</item>
+    <item>Guangdong Development Bank</item>
+    <item>Shenzhen Development Bank</item>
+    <item>China Merchants Bank</item>
+    <item>Industrial Bank</item>
+    <item>Everbright Bank</item>
+    <item>China Minsheng Bank</item>
+    <item>Huaxia Bank</item>
+    <item>China UnionPay service hotline</item>
+    <item>Shenzhen Airlines</item>
+    <item>Eastern Airlines</item>
+    <item>China Southern Airlines</item>
+    <item>Hainan Airlines</item>
+    <item>Spring Airlines</item>
+    <item>China International Aviation</item>
+    <item>China Pacific Insurance</item>
+    <item>Ping An Insurance</item>
+    <item>China Life Insurance</item>
+    <item>Taikang Life Insurance</item>
+    <item>New China Insurance</item>
+    <item>China Mobile prepaid recharge</item>
+    <item>China Unicom prepaid recharge</item>
+    <item>OPPO Offical Customer service</item>
+    <item>Shandong Airlines</item>
+    <item>Bank of Beijing</item>
+    <item>Spring Airlines</item>
+    <item>Ningbo Commercial Bank</item>
+    <item>Air China</item>
+    <item>China Telecom Best Tone</item>
+  </string-array>
+  <string-array name="oppo_call_notification_summary">
+    <item>None</item>
+    <item>Ring only</item>
+    <item>Vibrate</item>
+    <item>Ring and vibrate</item>
+  </string-array>
+  <string-array name="oppo_call_dial_animation_summary">
+    <item>Default</item>
+    <item>Movie</item>
+  </string-array>
+  <string-array name="oppo_call_dial_tone_summary">
+    <item>Default</item>
+    <item>Piano</item>
+    <item>Guitar</item>
+    <item>Marimba</item>
+    <item>Electronic</item>
+  </string-array>
+  <string-array name="oppo_call_display_summary">
+    <item>Big avatar prior</item>
+    <item>Weather prior</item>
+    <item>Only show small avatar</item>
+  </string-array>
+  <string-array name="oppo_call_display_summary_delete_weather">
+    <item>Big avatar prior</item>
+    <item>Only show small avatar</item>
+  </string-array>
+  <string-array name="oppo_intelligent_dial">
+    <item>Smart pinyin dial</item>
+    <item>Smart stroke dial</item>
+  </string-array>
+  <string-array name="clir_display_values">
+    <item>Network default</item>
+    <item>Hide number</item>
+    <item>Show number</item>
+  </string-array>
+  <string-array name="clir_values">
+    <item>DEFAULT</item>
+    <item>HIDE</item>
+    <item>SHOW</item>
+  </string-array>
+  <string-array name="preferred_network_mode_choices">
+    <item>LTE/WCDMA</item>
+    <item>LTE</item>
+    <item>Globalny</item>
+    <item>GSM/WCDMA/LTE</item>
+    <item>CDMA + LTE/EvDo</item>
+    <item>CDMA/EvDo/GSM/WCDMA</item>
+    <item>Tylko EvDo</item>
+    <item>CDMA bez EvDo</item>
+  </string-array>
+  <string-array name="preferred_network_mode_values">
+    <item>7</item>
+    <item>6</item>
+    <item>5</item>
+    <item>4</item>
+    <item>3</item>
+    <item>2</item>
+    <item>1</item>
+    <item>0</item>
+  </string-array>
+  <string-array name="preferred_network_mode_choices_lte">
+    <item>LTE / CDMA</item>
+    <item>CDMA</item>
+  </string-array>
+  <string-array name="preferred_network_mode_values_lte">
+    <item>7</item>
+    <item>4</item>
+  </string-array>
+  <string-array name="list_language_entries">
+    <item>Angielski</item>
+    <item>francuski</item>
+    <item>hiszpański</item>
+    <item>japoński</item>
+    <item>koreański</item>
+    <item>chiński</item>
+    <item>hebrajski</item>
+  </string-array>
+  <string-array name="list_language_values">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+  </string-array>
+  <string-array name="umts_network_preferences_choices_1">
+    <item>GSM/WCDMA</item>
+    <item>WCDMA only</item>
+  </string-array>
+  <string-array name="umts_network_preferences_values_1">
+    <item>3</item>
+    <item>2</item>
+  </string-array>
+  <string-array name="cdma_system_select_choices">
+    <item>Tylko główne</item>
+    <item>Automatycznie</item>
+  </string-array>
+  <string-array name="cdma_system_select_values">
+    <item>0</item>
+    <item>2</item>
+  </string-array>
+  <string-array name="cdma_roaming_mode_choices">
+    <item>Home Networks only</item>
+    <item>Affiliated Networks</item>
+    <item>Any Network</item>
+  </string-array>
+  <string-array name="cdma_roaming_mode_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+  </string-array>
+  <string-array name="cdma_network_preferences_choices">
+    <item>CDMA/EV-DO</item>
+    <item>CDMA only</item>
+    <item>EV-DO only</item>
+  </string-array>
+  <string-array name="cdma_network_preferences_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+  </string-array>
+  <string-array name="cdma_subscription_choices">
+    <item>RUIM/SIM</item>
+    <item>NV</item>
+  </string-array>
+  <string-array name="cdma_subscription_values">
+    <item>0</item>
+    <item>1</item>
+  </string-array>
+  <string-array name="tty_mode_entries">
+    <item>TTY wyłączony</item>
+    <item>TTY pełny</item>
+    <item>TTY HCO</item>
+    <item>TTY VCO</item>
+  </string-array>
+  <string-array name="tty_mode_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+  </string-array>
+  <string-array name="dtmf_tone_entries">
+    <item>Normalne</item>
+    <item>Długie</item>
+  </string-array>
+  <string-array name="dtmf_tone_values">
+    <item>0</item>
+    <item>1</item>
+  </string-array>
+  <string-array name="voicemail_notification_vibrate_when_entries">
+    <item>Zawsze</item>
+    <item>Tylko po wyciszeniu</item>
+    <item>Nigdy</item>
+  </string-array>
+  <string-array name="voicemail_notification_vibrate_when_values">
+    <item>always</item>
+    <item>silent</item>
+    <item>never</item>
+  </string-array>
+  <string-array name="td_network_mode_choices">
+    <item>GSM</item>
+    <item>WCDMA/TD-SCDMA</item>
+    <item>Dual mode</item>
+  </string-array>
+  <string-array name="td_network_mode_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+  </string-array>
 </resources>

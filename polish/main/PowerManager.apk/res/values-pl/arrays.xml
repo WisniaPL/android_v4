@@ -1,15 +1,82 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0"?>
 <resources>
-    <string-array name="animations_entries">
-        <item>Wyłącz animacje</item>
-        <item>Włącz niektóre animacje</item>
-        <item>Włącz wszystkie animacje</item>
-    </string-array>
-    <string-array name="screen_timeout_entries">
-        <item>15 s</item>
-        <item>30 s</item>
-        <item>1 min</item>
-        <item>2 min.</item>
-        <item>10 min.</item>
-    </string-array>
+  <string-array name="animations_entries">
+    <item>Wyłącz animacje</item>
+    <item>Włącz niektóre animacje</item>
+    <item>Włącz wszystkie animacje</item>
+  </string-array>
+  <string-array name="animations_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+  </string-array>
+  <string-array name="screen_timeout_entries">
+    <item>15 s</item>
+    <item>30 s</item>
+    <item>1 min</item>
+    <item>2 min.</item>
+    <item>10 min.</item>
+  </string-array>
+  <string-array name="screen_timeout_values">
+    <item>15000</item>
+    <item>30000</item>
+    <item>60000</item>
+    <item>120000</item>
+    <item>600000</item>
+  </string-array>
+  <string-array name="presskey_light_timeout_entries">
+    <item>2S</item>
+    <item>6S</item>
+    <item>Always open</item>
+    <item>Never open</item>
+    <item>Open in darkness</item>
+  </string-array>
+  <string-array name="presskey_light_timeout_values">
+    <item>2</item>
+    <item>6</item>
+    <item>always</item>
+    <item>Never</item>
+    <item>dark</item>
+  </string-array>
+  <string-array name="save_power_mode_entries">
+    <item>Long Time Mode</item>
+    <item>General Mode</item>
+    <item>First Mode</item>
+  </string-array>
+  <string-array name="save_power_mode_values">
+    <item>00</item>
+    <item>01</item>
+    <item>11</item>
+  </string-array>
+  <string-array name="lock_timeout_entries">
+    <item>5 mins</item>
+    <item>15 mins</item>
+    <item>30 mins</item>
+    <item>1 hrs</item>
+    <item>3 hrs</item>
+  </string-array>
+  <string-array name="lock_timeout_values">
+    <item>300000</item>
+    <item>900000</item>
+    <item>1800000</item>
+    <item>3600000</item>
+    <item>10800000</item>
+  </string-array>
+  <integer-array name="battery_usage_configure">
+    <item>7500</item>
+    <item>184511</item>
+    <item>464138</item>
+    <item>114914</item>
+    <item>297978</item>
+    <item>315766</item>
+    <item>347612</item>
+    <item>1000</item>
+    <item>2000</item>
+    <item>3000</item>
+    <item>4000</item>
+    <item>12000</item>
+    <item>1000</item>
+    <item>28000</item>
+    <item>1000</item>
+  </integer-array>
 </resources>

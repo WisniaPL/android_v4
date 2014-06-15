@@ -1,0 +1,541 @@
+<?xml version="1.0"?>
+<resources>
+  <string-array name="numberOfserver">
+    <item>10086</item>
+    <item>10010</item>
+    <item>10000</item>
+    <item>10050</item>
+    <item>11185</item>
+    <item>95588</item>
+    <item>95599</item>
+    <item>95566</item>
+    <item>95533</item>
+    <item>95559</item>
+    <item>95558</item>
+    <item>95528</item>
+    <item>95508</item>
+    <item>95501</item>
+    <item>95555</item>
+    <item>95561</item>
+    <item>95595</item>
+    <item>96528</item>
+    <item>95568</item>
+    <item>95577</item>
+    <item>95516</item>
+    <item>95080</item>
+    <item>95530</item>
+    <item>95539</item>
+    <item>950712</item>
+    <item>4008206222</item>
+    <item>4008100999</item>
+    <item>95500</item>
+    <item>95511</item>
+    <item>95519</item>
+    <item>95522</item>
+    <item>95567</item>
+    <item>13800138000</item>
+    <item>10011</item>
+    <item>95526</item>
+    <item>4006096777</item>
+    <item>114</item>
+    <item>95583</item>
+    <item>4001666888</item>
+    <item>110</item>
+    <item>119</item>
+    <item>120</item>
+    <item>122</item>
+    <item>999</item>
+    <item>10106666</item>
+  </string-array>
+  <string-array name="logoOfnumber">
+    <item>oppo_photo_10086</item>
+    <item>oppo_photo_10010</item>
+    <item>oppo_photo_10000</item>
+    <item>oppo_photo_10050</item>
+    <item>oppo_photo_11185</item>
+    <item>oppo_photo_95588</item>
+    <item>oppo_photo_95599</item>
+    <item>oppo_photo_95566</item>
+    <item>oppo_photo_95533</item>
+    <item>oppo_photo_95559</item>
+    <item>oppo_photo_95558</item>
+    <item>oppo_photo_95528</item>
+    <item>oppo_photo_95508</item>
+    <item>oppo_photo_95501</item>
+    <item>oppo_photo_95555</item>
+    <item>oppo_photo_95561</item>
+    <item>oppo_photo_95595</item>
+    <item>oppo_photo_96528</item>
+    <item>oppo_photo_95568</item>
+    <item>oppo_photo_95577</item>
+    <item>oppo_photo_95516</item>
+    <item>oppo_photo_95080</item>
+    <item>oppo_photo_95530</item>
+    <item>oppo_photo_95539</item>
+    <item>oppo_photo_950712</item>
+    <item>oppo_photo_4008206222</item>
+    <item>oppo_photo_4008100999</item>
+    <item>oppo_photo_95500</item>
+    <item>oppo_photo_95511</item>
+    <item>oppo_photo_95519</item>
+    <item>oppo_photo_95522</item>
+    <item>oppo_photo_95567</item>
+    <item>oppo_photo_13800138000</item>
+    <item>oppo_photo_10011</item>
+    <item>oppo_photo_95526</item>
+    <item>oppo_photo_4006096777</item>
+    <item>oppo_photo_114</item>
+    <item>oppo_photo_4008100999</item>
+    <item>oppo_photo_4001666888</item>
+    <item>oppo_photo_110</item>
+    <item>oppo_photo_119</item>
+    <item>oppo_photo_120</item>
+    <item>oppo_photo_122</item>
+    <item>oppo_photo_999</item>
+    <item>oppo_photo_10106666</item>
+  </string-array>
+  <string-array name="areaOfnumber">
+    <item>China Mobile Service</item>
+    <item>中国移动客服</item>
+    <item>中國移動客服</item>
+    <item>China Unicom Service</item>
+    <item>中国联通客服</item>
+    <item>中國聯通客服</item>
+    <item>China Telecom</item>
+    <item>中国电信</item>
+    <item>中國電信</item>
+    <item>China Tietong</item>
+    <item>中国铁通</item>
+    <item>中國鐵通</item>
+    <item>China Post</item>
+    <item>中国邮政</item>
+    <item>中國郵政</item>
+    <item>Industrial and Commercial Bank of China</item>
+    <item>中国工商银行</item>
+    <item>中國工商銀行</item>
+    <item>Agricultural Bank of China</item>
+    <item>中国农业银行</item>
+    <item>中國農業銀行</item>
+    <item>Bank of China</item>
+    <item>中国银行</item>
+    <item>中國銀行</item>
+    <item>Construction Bank of China</item>
+    <item>中国建设银行</item>
+    <item>中國建設銀行</item>
+    <item>Bank of Communications</item>
+    <item>交通银行</item>
+    <item>交通銀行</item>
+    <item>China Citic Bank</item>
+    <item>中信银行</item>
+    <item>中信銀行</item>
+    <item>Shanghai Pudong Development Bank</item>
+    <item>浦发银行</item>
+    <item>浦發銀行</item>
+    <item>Guangdong Development Bank</item>
+    <item>广东发展银行</item>
+    <item>廣東發展銀行</item>
+    <item>Shenzhen Development Bank</item>
+    <item>深圳发展银行</item>
+    <item>深圳發展銀行</item>
+    <item>China Merchants Bank</item>
+    <item>招商银行</item>
+    <item>招商銀行</item>
+    <item>Industrial Bank</item>
+    <item>兴业银行</item>
+    <item>興業銀行</item>
+    <item>China Everbright Bank</item>
+    <item>光大银行</item>
+    <item>光大銀行</item>
+    <item>Ningbo Commercial Bank</item>
+    <item>宁波商业银行</item>
+    <item>寧波商業銀行</item>
+    <item>China Minsheng Bank</item>
+    <item>民生银行</item>
+    <item>民生銀行</item>
+    <item>Huaxia Bank</item>
+    <item>华夏银行</item>
+    <item>華夏銀行</item>
+    <item>China Unionpay Service</item>
+    <item>中国银联客服</item>
+    <item>中國銀聯客服</item>
+    <item>Shenzhen Airlines</item>
+    <item>深圳航空</item>
+    <item>深圳航空</item>
+    <item>Eastern Airlines</item>
+    <item>东方航空</item>
+    <item>東方航空</item>
+    <item>Southern Airlines</item>
+    <item>南方航空</item>
+    <item>南方航空</item>
+    <item>Hainan Airlines</item>
+    <item>海南航空</item>
+    <item>海南航空</item>
+    <item>Spring Airlines</item>
+    <item>春秋航空</item>
+    <item>春秋航空</item>
+    <item>Air China</item>
+    <item>中国国际航空</item>
+    <item>中國國際航空</item>
+    <item>China Pacific Insurance</item>
+    <item>中国太平洋保险</item>
+    <item>中國太平洋保險</item>
+    <item>Ping An Insurance</item>
+    <item>平安保险</item>
+    <item>平安保險</item>
+    <item>China Life Insurance</item>
+    <item>中国人寿保险</item>
+    <item>中國人壽保險</item>
+    <item>Taikang Life Insurance</item>
+    <item>泰康人寿保险</item>
+    <item>泰康人壽保險</item>
+    <item>New China Insurance</item>
+    <item>新华人寿保险</item>
+    <item>新華人壽保險</item>
+    <item>China Mobile cell phone recharge</item>
+    <item>中国移动话费充值</item>
+    <item>中國移動話費充值</item>
+    <item>China Unicom cell phone recharge</item>
+    <item>中国联通话费充值</item>
+    <item>中國聯通話費充值</item>
+    <item>Bank of Beijing</item>
+    <item>北京银行</item>
+    <item>北京銀行</item>
+    <item>Shandong Airlines</item>
+    <item>山东航空</item>
+    <item>山東航空</item>
+    <item>China Telecom Best Tone</item>
+    <item>中国电信号码百事通</item>
+    <item>中國電信號碼百事通</item>
+    <item>Air China</item>
+    <item>中国国际航空</item>
+    <item>中國國際航空</item>
+    <item>OPPO Service</item>
+    <item>OPPO官方客服</item>
+    <item>OPPO官方客服</item>
+    <item>Police</item>
+    <item>公安报警</item>
+    <item>公安報警</item>
+    <item>Fire</item>
+    <item>消防火警</item>
+    <item>消防火警</item>
+    <item>Ambulance</item>
+    <item>医疗急救</item>
+    <item>醫療急救</item>
+    <item>Traffic Accident</item>
+    <item>交通事故报警</item>
+    <item>交通事故報警</item>
+    <item>Emergency</item>
+    <item>国际急救电话</item>
+    <item>國際急救電話</item>
+    <item>Ctrip</item>
+    <item>携程</item>
+    <item>攜程</item>
+  </string-array>
+  <string-array name="urlOfserver">
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item/>
+    <item>http://m.ctrip.com/html5/?sourceid=1638</item>
+  </string-array>
+  <string-array name="numberOfserverTH">
+    <item>+6626455555</item>
+    <item>026455555</item>
+    <item>1333</item>
+    <item>+6628888888</item>
+    <item>028888888</item>
+    <item>+6622851555</item>
+    <item>022851555</item>
+    <item>+6622991111</item>
+    <item>022991111</item>
+    <item>+6626267777</item>
+    <item>026267777</item>
+    <item>1302</item>
+    <item>1572</item>
+    <item>+6627777777</item>
+    <item>027777777</item>
+    <item>1551</item>
+    <item>+6625550555</item>
+    <item>025550555</item>
+    <item>+6622998000</item>
+    <item>022998000</item>
+    <item>1115</item>
+    <item>+6626803333</item>
+    <item>026803333</item>
+    <item>1770</item>
+    <item>1590</item>
+    <item>1595</item>
+    <item>1588</item>
+    <item>+6623590000</item>
+    <item>023590000</item>
+    <item>+6626639999</item>
+    <item>026639999</item>
+    <item>1124</item>
+    <item>+6622858888</item>
+    <item>022858888</item>
+    <item>1766</item>
+    <item>1484</item>
+    <item>1557</item>
+    <item>+6622392200</item>
+    <item>022392200</item>
+    <item>1175</item>
+    <item>1331</item>
+    <item>1678</item>
+    <item>1100</item>
+    <item>1322</item>
+    <item>1150</item>
+    <item>1711</item>
+    <item>1112</item>
+    <item>1150</item>
+    <item>+6624153888</item>
+    <item>024153888</item>
+  </string-array>
+  <string-array name="logoOfnumberTH">
+    <item>oppo_photo_bangkok</item>
+    <item>oppo_photo_bangkok</item>
+    <item>oppo_photo_bangkok</item>
+    <item>oppo_photo_kasikorn</item>
+    <item>oppo_photo_kasikorn</item>
+    <item>oppo_photo_uobbank</item>
+    <item>oppo_photo_uobbank</item>
+    <item>oppo_photo_tmbbank</item>
+    <item>oppo_photo_tmbbank</item>
+    <item>oppo_photo_cimbbank</item>
+    <item>oppo_photo_cimbbank</item>
+    <item>oppo_photo_islamicbank</item>
+    <item>oppo_photo_ayudhya</item>
+    <item>oppo_photo_siamcomm</item>
+    <item>oppo_photo_siamcomm</item>
+    <item>oppo_photo_krungthai</item>
+    <item>oppo_photo_agriculture</item>
+    <item>oppo_photo_agriculture</item>
+    <item>oppo_photo_governmentbank</item>
+    <item>oppo_photo_governmentbank</item>
+    <item>oppo_photo_governmentbank</item>
+    <item>oppo_photo_kiatnakin</item>
+    <item>oppo_photo_kiatnakin</item>
+    <item>oppo_photo_thanachart</item>
+    <item>oppo_photo_hsbcccard</item>
+    <item>oppo_photo_standardbank</item>
+    <item>oppo_photo_citybank</item>
+    <item>oppo_photo_lhbank</item>
+    <item>oppo_photo_lhbank</item>
+    <item>oppo_photo_icbcbank</item>
+    <item>oppo_photo_icbcbank</item>
+    <item>oppo_photo_thaiinsurance</item>
+    <item>oppo_photo_bangkokinsurance</item>
+    <item>oppo_photo_bangkokinsurance</item>
+    <item>oppo_photo_muanglifeassurance</item>
+    <item>oppo_photo_muanglifeinsurance</item>
+    <item>oppo_photo_viriyahinsurance</item>
+    <item>oppo_photo_dhipayainsurance</item>
+    <item>oppo_photo_dhipayainsurance</item>
+    <item>oppo_photo_1175</item>
+    <item>oppo_photo_1331</item>
+    <item>oppo_photo_1678</item>
+    <item>oppo_photo_1100</item>
+    <item>oppo_photo_1322</item>
+    <item>oppo_photo_1150</item>
+    <item>oppo_photo_1171</item>
+    <item>oppo_photo_1112</item>
+    <item>oppo_photo_1150</item>
+    <item>oppo_photo_oppo</item>
+    <item>oppo_photo_oppo</item>
+  </string-array>
+  <string-array name="areaOfnumberTH">
+    <item>Bangkok Bank</item>
+    <item>盘古银行</item>
+    <item>ธนาคารกรุงเทพ</item>
+    <item>Bangkok Bank</item>
+    <item>盘古银行</item>
+    <item>ธนาคารกรุงเทพ</item>
+    <item>Bangkok Bank</item>
+    <item>盘古银行</item>
+    <item>ธนาคารกรุงเทพ</item>
+    <item>KASIKORN BANK</item>
+    <item>泰华农民银行</item>
+    <item>ธนาคารกสิกรไทย</item>
+    <item>KASIKORN BANK</item>
+    <item>泰华农民银行</item>
+    <item>ธนาคารกสิกรไทย</item>
+    <item>UOB Bank</item>
+    <item>UOB 银行</item>
+    <item>ธนาคารยูโอบี</item>
+    <item>UOB Bank</item>
+    <item>UOB 银行</item>
+    <item>ธนาคารยูโอบี</item>
+    <item>TMB Bank</item>
+    <item>泰国军方银行</item>
+    <item>ธนาคารทหารไทย</item>
+    <item>TMB Bank</item>
+    <item>泰国军方银行</item>
+    <item>ธนาคารทหารไทย</item>
+    <item>CIMB Bank</item>
+    <item>联昌国际银行(泰国)</item>
+    <item>ธนาคารซีไอเอ็มบีไทย</item>
+    <item>CIMB Bank</item>
+    <item>联昌国际银行(泰国)</item>
+    <item>ธนาคารซีไอเอ็มบีไทย</item>
+    <item>Islamic Bank</item>
+    <item>泰国穆斯林银行</item>
+    <item>ธนาคารอิสลามแห่งประเทศไทย</item>
+    <item>Bank Of Ayudhya</item>
+    <item>大城银行</item>
+    <item>ธนาคารกรุงศรีอยุธยา</item>
+    <item>Siam Commercial Bank</item>
+    <item>泰国商业银行</item>
+    <item>ธนาคารไทยพาณิชย์</item>
+    <item>Siam Commercial Bank</item>
+    <item>泰国商业银行</item>
+    <item>ธนาคารไทยพาณิชย์</item>
+    <item>Krung Thai Bank</item>
+    <item>泰国曼谷银行</item>
+    <item>ธนาคารกรุงไทย</item>
+    <item>Bank for Agriculture and Agricultural Cooperatives</item>
+    <item>泰国农业银行</item>
+    <item>ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร</item>
+    <item>Bank for Agriculture and Agricultural Cooperatives</item>
+    <item>泰国农业银行</item>
+    <item>ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร</item>
+    <item>Government Savings Bank</item>
+    <item>储蓄银行</item>
+    <item>ธนาคารออมสิน</item>
+    <item>Government Savings Bank</item>
+    <item>储蓄银行</item>
+    <item>ธนาคารออมสิน</item>
+    <item>Government Savings Bank</item>
+    <item>储蓄银行</item>
+    <item>ธนาคารออมสิน</item>
+    <item>Kiatnakin Bank</item>
+    <item>甲那金银行(泰国)</item>
+    <item>ธนาคารเกียรตินาคิน</item>
+    <item>Kiatnakin Bank</item>
+    <item>甲那金银行(泰国)</item>
+    <item>ธนาคารเกียรตินาคิน</item>
+    <item>Thanachart Bank</item>
+    <item>TThanachart银行</item>
+    <item>ธนาคารธนชาต</item>
+    <item>HSBC Credit Card</item>
+    <item>汇丰银行</item>
+    <item>ธนาคารเอชเอสบีซี ประเทศไทย</item>
+    <item>Standard Chartered Bank(Thailand)</item>
+    <item>渣打银行(泰国)</item>
+    <item>ธนาคารสแตนดาร์ดชาร์เตอร์ด (ไทย)</item>
+    <item>City Bank</item>
+    <item>花旗银行</item>
+    <item>ธนาคารซิตี้แบงก์</item>
+    <item>LH Bank</item>
+    <item>LH银行</item>
+    <item>ธนาคารแลนด์ แอนด์ เฮ้าส์</item>
+    <item>LH Bank</item>
+    <item>LH银行</item>
+    <item>ธนาคารแลนด์ แอนด์ เฮ้าส์</item>
+    <item>ICBC bank</item>
+    <item>中国工商银行</item>
+    <item>ธนาคารไอซีบีซี(ไทย)</item>
+    <item>ICBC bank</item>
+    <item>中国工商银行</item>
+    <item>ธนาคารไอซีบีซี(ไทย)</item>
+    <item>Thai Life Insurance</item>
+    <item>泰国人寿保险公司</item>
+    <item>ไทยประกันชีวิต</item>
+    <item>Bangkok Insurance</item>
+    <item>曼谷保险公司</item>
+    <item>กรุงเทพประกันชีวิต</item>
+    <item>Bangkok Insurance</item>
+    <item>曼谷保险公司</item>
+    <item>กรุงเทพประกันชีวิต</item>
+    <item>Muang Thai Life Assurance</item>
+    <item>孟泰人寿公司</item>
+    <item>เมืองไทยประกันชีวิต</item>
+    <item>Muang Thai Insurance</item>
+    <item>Muang Thai Insurance</item>
+    <item>เมืองไทยประกันภัย</item>
+    <item>Viriyah Insurance</item>
+    <item>Viriyah 保险</item>
+    <item>วิริยะประกันภัย</item>
+    <item>Dhipaya Insurance</item>
+    <item>Dhipaya 保险</item>
+    <item>ทิพยประกันภัย</item>
+    <item>Dhipaya Insurance</item>
+    <item>Dhipaya 保险</item>
+    <item>ทิพยประกันภัย</item>
+    <item>AIS</item>
+    <item>AIS</item>
+    <item>AIS</item>
+    <item>TRUE MOVE</item>
+    <item>TRUE MOVE</item>
+    <item>Truemove</item>
+    <item>DTAC</item>
+    <item>DTAC</item>
+    <item>DTAC</item>
+    <item>TOT</item>
+    <item>TOT</item>
+    <item>TOT</item>
+    <item>CAT</item>
+    <item>CAT</item>
+    <item>CAT</item>
+    <item>KFC</item>
+    <item>肯德基</item>
+    <item>KFC</item>
+    <item>"McDonald's"</item>
+    <item>麦当劳</item>
+    <item>"McDonald's"</item>
+    <item>Pizza</item>
+    <item>披萨</item>
+    <item>Pizza</item>
+    <item>Pizza Hut</item>
+    <item>必胜客</item>
+    <item>Pizza Hut</item>
+    <item>OPPO Customer Service</item>
+    <item>OPPO官方客服</item>
+    <item>OPPO Customer Service</item>
+    <item>OPPO Customer Service</item>
+    <item>OPPO官方客服</item>
+    <item>OPPO Customer Service</item>
+  </string-array>
+  <string-array name="unrestricted_packages">
+    <item>com.android.contacts</item>
+    <item>com.facebook.katana</item>
+  </string-array>
+</resources>

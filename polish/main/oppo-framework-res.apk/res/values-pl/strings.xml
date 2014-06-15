@@ -1,60 +1,307 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0"?>
 <resources>
-    <string name="oppo_rename_dialog_title">Zmień nazwę</string>
-    <string name="oppo_rename_dialog_btn_ok">OK</string>
-    <string name="oppo_rename_dialog_btn_cancel">Anuluj</string>
-    <string name="mmcmnc46001">UNICOM</string>
-    <string name="mmcmnc46000">CMCC</string>
-    <string name="mmcmnc46002">CMCC</string>
-    <string name="mmcmnc46003">China Telecom</string>
-    <string name="mmcmnc46007">CMCC</string>
-    <string name="mmcmnc45406">Smartone-Vodafone</string>
-    <string name="mmcmnc45410">New World</string>
-    <string name="mmcmnc45412">Osoby CMCC</string>
-    <string name="mmcmnc45415">SmarTone Mobile Comms</string>
-    <string name="mmcmnc45416">PCCW</string>
-    <string name="mmcmnc45419">PCCW</string>
-    <string name="mmcmnc45500">SmarTone</string>
-    <string name="mmcmnc45501">CTM</string>
-    <string name="mmcmnc45503">Hutchison</string>
-    <string name="mmcmnc45504">CTM</string>
-    <string name="mmcmnc45505">Hutchison</string>
-    <string name="mmcmnc46601">FarEasTone</string>
-    <string name="mmcmnc46688">KG Telecom</string>
-    <string name="mmcmnc46689">VIBO</string>
-    <string name="mmcmnc46692">Chungwa</string>
-    <string name="mmcmnc46693">MobiTai</string>
-    <string name="mmcmnc46697">Taiwan Mobile</string>
-    <string name="mmcmnc46699">TransAsia</string>
-    <string name="action_mode_done">Gotowe</string>
-    <string name="oppo_lunar_calendar_text">Kalendarz księżycowy</string>
-    <string name="oppo_solar_calendar_text">Kalendarz słoneczny:</string>
-    <string name="oppo_power_shutdown_text">Wyłącz</string>
-    <string name="oppo_power_vibrate_text">Wibruj</string>
-    <string name="oppo_power_slient_text">Wycisz</string>
-    <string name="oppo_power_airplanemode_text">Samolot</string>
-    <string name="oppo_power_ring_text">Dzwoń</string>
-    <string name="oppo_power_reboot_text">Uruchom ponownie</string>
-    <string name="oppo_permission_settings_prompt">Uprawnienia można ustawić w \"Monitorze uprawnień\"</string>
-    <string name="oppo_permission_choice_label">Pamiętaj wybór</string>
-    <string name="oppo_loading">Wczytywanie…</string>
-    <string name="oppo_edittext_IME">Sposób wprowadzania tekstu</string>
-    <string name="oppo_volume_unified_control">Uniwersalna kontrola głośności</string>
-    <string name="oppo_whichApplication">Wykonaj czynność za pomocą</string>
-    <string name="oppo_alwaysUse">Użyj jako ustawień domyślnych</string>
-    <string name="oppo_statusbar_key_swmgr">Manager programów</string>
-    <string name="oppo_usb_charge">Tylko ładowanie</string>
-    <string name="oppo_usb_storage">Pamięć</string>
-    <string name="oppo_usb_selection">Dotknij, aby zmienić ustawienia USB</string>
-    <string name="oppo_usb_mtp">Urządzenie multimedialne (MTP)</string>
-    <string name="oppo_modify_pkg_perms">Zmień uprawnienia</string>
-    <string name="oppo_modify_pkg_perms_detail">Otwórz Ustawienia → Ogólne → Aplikacje, aby zmienić uprawnienia aplikacji!</string>
-    <string name="oppo_permission_security_title">Ostrzeżenie zabezpieczeń</string>
-    <string name="oppo_permission_security_label">" próbuje "</string>
-    <string name="oppo_reject_text">Odrzuć</string>
-    <string name="oppo_allow_text">Zezwól</string>
-    <string name="oppo_volume_system_description">Głośność systemowa</string>
-    <string name="oppo_edittext_search">Szukaj</string>
-    <string name="data_setup_clearcode_29">Błąd uwierzytelniania -29-</string>
-    <string name="data_setup_clearcode_33">brak subskrypcji -33-</string>
+  <string name="oppo_rename_dialog_title">Zmień nazwę</string>
+  <string name="oppo_rename_dialog_btn_ok">OK</string>
+  <string name="oppo_rename_dialog_btn_cancel">Anuluj</string>
+  <string name="oppo_wifi_tether_configure_ssid_default">OPPO T29</string>
+  <string name="android_megabyteShort">@android:string/megabyteShort</string>
+  <string name="android_gigabyteShort">@android:string/gigabyteShort</string>
+  <string name="android_ringtone_unknown">@android:string/ringtone_unknown</string>
+  <string name="android_ringtone_silent">@android:string/ringtone_silent</string>
+  <string name="android_power_off">@android:string/power_off</string>
+  <string name="android_report">@android:string/report</string>
+  <string name="android_ssl_certificate">@android:string/ssl_certificate</string>
+  <string name="android_fast_scroll_alphabet">@android:string/fast_scroll_alphabet</string>
+  <string name="android_am">am</string>
+  <string name="android_pm">pm</string>
+  <string name="android_common_name_prefixes">@android:string/common_name_prefixes</string>
+  <string name="android_common_last_name_prefixes">@android:string/common_last_name_prefixes</string>
+  <string name="android_common_name_suffixes">@android:string/common_name_suffixes</string>
+  <string name="android_common_name_conjunctions">@android:string/common_name_conjunctions</string>
+  <string name="android_chooseUsbActivity">@android:string/chooseUsbActivity</string>
+  <string name="android_config_defaultDreamComponent">com.google.android.deskclock/com.android.deskclock.Screensaver</string>
+  <string name="android_ext_media_badremoval_notification_message">@android:string/ext_media_badremoval_notification_message</string>
+  <string name="android_ext_media_badremoval_notification_title">@android:string/ext_media_badremoval_notification_title</string>
+  <string name="android_ext_media_checking_notification_message">@android:string/ext_media_checking_notification_message</string>
+  <string name="android_ext_media_checking_notification_title">@android:string/ext_media_checking_notification_title</string>
+  <string name="android_ext_media_nofs_notification_message">@android:string/ext_media_nofs_notification_message</string>
+  <string name="android_ext_media_nofs_notification_title">@android:string/ext_media_nofs_notification_title</string>
+  <string name="android_ext_media_nomedia_notification_message">@android:string/ext_media_nomedia_notification_message</string>
+  <string name="android_ext_media_nomedia_notification_title">@android:string/ext_media_nomedia_notification_title</string>
+  <string name="android_ext_media_safe_unmount_notification_message">@android:string/ext_media_safe_unmount_notification_message</string>
+  <string name="android_ext_media_safe_unmount_notification_title">@android:string/ext_media_safe_unmount_notification_title</string>
+  <string name="android_ext_media_unmountable_notification_message">@android:string/ext_media_unmountable_notification_message</string>
+  <string name="android_ext_media_unmountable_notification_title">@android:string/ext_media_unmountable_notification_title</string>
+  <string name="android_share">@android:string/share</string>
+  <string name="android_usb_storage_message">@android:string/usb_storage_message</string>
+  <string name="android_usb_storage_notification_message">@android:string/usb_storage_notification_message</string>
+  <string name="android_usb_storage_notification_title">@android:string/usb_storage_notification_title</string>
+  <string name="android_usb_storage_stop_message">@android:string/usb_storage_stop_message</string>
+  <string name="android_usb_storage_stop_notification_message">@android:string/usb_storage_stop_notification_message</string>
+  <string name="android_usb_storage_stop_notification_title">@android:string/usb_storage_stop_notification_title</string>
+  <string name="android_usb_storage_stop_title">@android:string/usb_storage_stop_title</string>
+  <string name="android_usb_storage_title">@android:string/usb_storage_title</string>
+  <string name="android_config_dreamsDefaultComponent">@android:string/config_dreamsDefaultComponent</string>
+  <string name="mmcmnc46001">UNICOM</string>
+  <string name="mmcmnc46000">CMCC</string>
+  <string name="mmcmnc46002">CMCC</string>
+  <string name="mmcmnc46003">China Telecom</string>
+  <string name="mmcmnc46007">CMCC</string>
+  <string name="mmcmnc45406">Smartone-Vodafone</string>
+  <string name="mmcmnc45410">New World</string>
+  <string name="mmcmnc45412">Osoby CMCC</string>
+  <string name="mmcmnc45415">SmarTone Mobile Comms</string>
+  <string name="mmcmnc45416">PCCW</string>
+  <string name="mmcmnc45419">PCCW</string>
+  <string name="mmcmnc45500">SmarTone</string>
+  <string name="mmcmnc45501">CTM</string>
+  <string name="mmcmnc45503">Hutchison</string>
+  <string name="mmcmnc45504">CTM</string>
+  <string name="mmcmnc45505">Hutchison</string>
+  <string name="mmcmnc46601">FarEasTone</string>
+  <string name="mmcmnc46688">KG Telecom</string>
+  <string name="mmcmnc46689">VIBO</string>
+  <string name="mmcmnc46692">Chungwa</string>
+  <string name="mmcmnc46693">MobiTai</string>
+  <string name="mmcmnc46697">Taiwan Mobile</string>
+  <string name="mmcmnc46699">TransAsia</string>
+  <string name="mmcmnc25001">MTS RUS</string>
+  <string name="mmcmnc25002">MegaFon</string>
+  <string name="mmcmnc25003">NCC</string>
+  <string name="mmcmnc25005">ETK</string>
+  <string name="mmcmnc25007">SMARTS</string>
+  <string name="mmcmnc25012">Baykalwstern</string>
+  <string name="mmcmnc25014">SMARTS</string>
+  <string name="mmcmnc25016">NTC</string>
+  <string name="mmcmnc25017">Utel</string>
+  <string name="mmcmnc25019">INDIGO</string>
+  <string name="mmcmnc25020">Tele2</string>
+  <string name="mmcmnc25023">Mobicom</string>
+  <string name="mmcmnc25039">Utel</string>
+  <string name="mmcmnc25099">Beeline</string>
+  <string name="mmcmnc45201">VN MOBIFONE</string>
+  <string name="mmcmnc45202">VINAPHONE</string>
+  <string name="mmcmnc45204">VIETTEL</string>
+  <string name="mmcmnc45205">Vietnamobile</string>
+  <string name="mmcmnc45207">Beeline VN</string>
+  <string name="mmcmnc51001">INDOSAT</string>
+  <string name="mmcmnc51008">AXIS</string>
+  <string name="mmcmnc51010">TELKOMSEL</string>
+  <string name="mmcmnc51011">XL Axiata</string>
+  <string name="mmcmnc51089">3</string>
+  <string name="oppo_flip_frame_step">1.0f</string>
+  <string name="oppo_scene_preview_track_scroll_fast_step">0.25f</string>
+  <string name="oppo_lunar_leap_11">闰十一</string>
+  <string name="oppo_lunar_leap_12">闰十二</string>
+  <string name="oppo_lunar_calendar_text">Kalendarz księżycowy</string>
+  <string name="oppo_solar_calendar_text">Kalendarz słoneczny:</string>
+  <string name="oppo_selecttext">Wybierz</string>
+  <string name="oppo_touchsearch_dot">•</string>
+  <string name="oppo_touchsearch_side_keys_prefix">oppo_</string>
+  <string name="oppo_more_string">więcej...</string>
+  <string name="oppo_power_shutdown_text">Wyłącz</string>
+  <string name="oppo_power_vibrate_text">Wibruj</string>
+  <string name="oppo_power_slient_text">Wycisz</string>
+  <string name="oppo_power_airplanemode_text">Samolot</string>
+  <string name="oppo_power_ring_text">Dzwoń</string>
+  <string name="oppo_power_reboot_text">Uruchom ponownie</string>
+  <string name="oppo_battery_waring_subtitle">Uwaga:</string>
+  <string name="oppo_permission_settings_prompt">Uprawnienia można ustawić w \"Monitorze uprawnień\"</string>
+  <string name="oppo_permission_choice_label">Pamiętaj wybór</string>
+  <string name="oppo_loading">Wczytywanie…</string>
+  <string name="oppo_edittext_IME">Sposób wprowadzania tekstu</string>
+  <string name="oppo_volume_unified_control">Uniwersalna kontrola głośności</string>
+  <string name="oppo_resolver_ask_no_more">Nie pytaj ponownie</string>
+  <string name="oppo_usb_charge">Tylko ładowanie</string>
+  <string name="oppo_usb_storage">Pamięć</string>
+  <string name="oppo_usb_selection">Dotknij, aby zmienić ustawienia USB</string>
+  <string name="oppo_usb_mtp">Urządzenie multimedialne (MTP)</string>
+  <string name="oppo_modify_pkg_perms">Zmień uprawnienia</string>
+  <string name="oppo_modify_pkg_perms_detail">Otwórz Ustawienia → Ogólne → Aplikacje, aby zmienić uprawnienia aplikacji!</string>
+  <string name="android_date_picker_dialog_title">@android:string/date_picker_dialog_title</string>
+  <string name="android_time_picker_dialog_title">@android:string/time_picker_dialog_title</string>
+  <string name="android_lockscreen_return_to_call">@android:string/lockscreen_return_to_call</string>
+  <string name="android_lockscreen_emergency_call">@android:string/lockscreen_emergency_call</string>
+  <string name="android_date_picker_increment_day_button">@android:string/date_picker_increment_day_button</string>
+  <string name="android_date_picker_decrement_day_button">@android:string/date_picker_decrement_day_button</string>
+  <string name="android_date_picker_increment_month_button">@android:string/date_picker_increment_month_button</string>
+  <string name="android_date_picker_decrement_month_button">@android:string/date_picker_decrement_month_button</string>
+  <string name="android_date_picker_increment_year_button">@android:string/date_picker_increment_year_button</string>
+  <string name="android_date_picker_decrement_year_button">@android:string/date_picker_decrement_year_button</string>
+  <string name="android_number_picker_increment_scroll_action">@android:string/number_picker_increment_scroll_action</string>
+  <string name="android_number_picker_increment_scroll_mode">@android:string/number_picker_increment_scroll_mode</string>
+  <string name="android_lockscreen_access_pattern_cell_added">@android:string/lockscreen_access_pattern_cell_added</string>
+  <string name="android_lockscreen_access_pattern_start">@android:string/lockscreen_access_pattern_start</string>
+  <string name="android_lockscreen_access_pattern_detected">@android:string/lockscreen_access_pattern_detected</string>
+  <string name="android_lockscreen_access_pattern_cleared">@android:string/lockscreen_access_pattern_cleared</string>
+  <string name="android_time_picker_increment_minute_button">@android:string/time_picker_increment_minute_button</string>
+  <string name="android_time_picker_decrement_minute_button">@android:string/time_picker_decrement_minute_button</string>
+  <string name="android_time_picker_increment_hour_button">@android:string/time_picker_increment_hour_button</string>
+  <string name="android_time_picker_decrement_hour_button">@android:string/time_picker_decrement_hour_button</string>
+  <string name="android_time_picker_increment_set_pm_button">@android:string/time_picker_increment_set_pm_button</string>
+  <string name="android_time_picker_decrement_set_am_button">@android:string/time_picker_decrement_set_am_button</string>
+  <string name="android_global_actions">@android:string/global_actions</string>
+  <string name="oppo_permission_security_title">Ostrzeżenie zabezpieczeń</string>
+  <string name="oppo_permission_security_label">" próbuje "</string>
+  <string name="oppo_reject_text">Odrzuć</string>
+  <string name="oppo_allow_text">Zezwól</string>
+  <string name="android_volume_icon_description_bluetooth">@android:string/volume_icon_description_bluetooth</string>
+  <string name="android_volume_icon_description_ringer">@android:string/volume_icon_description_ringer</string>
+  <string name="android_volume_icon_description_incall">@android:string/volume_icon_description_incall</string>
+  <string name="android_volume_alarm">@android:string/volume_alarm</string>
+  <string name="android_volume_icon_description_media">@android:string/volume_icon_description_media</string>
+  <string name="android_volume_icon_description_notification">@android:string/volume_icon_description_notification</string>
+  <string name="android_global_action_toggle_silent_mode">@android:string/global_action_toggle_silent_mode</string>
+  <string name="android_global_action_silent_mode_on_status">@android:string/global_action_silent_mode_on_status</string>
+  <string name="android_global_action_silent_mode_off_status">@android:string/global_action_silent_mode_off_status</string>
+  <string name="oppo_wday_year_month_day" formatted="false">%s, %s %s %s</string>
+  <string name="oppo_wday_year_day_month" formatted="false">%s, %s %s %s</string>
+  <string name="oppo_wday_month_day_year" formatted="false">%s, %s %s, %s</string>
+  <string name="oppo_wday_month_year_day" formatted="false">%s, %s %s %s</string>
+  <string name="oppo_wday_day_month_year" formatted="false">%s, %s %s %s</string>
+  <string name="oppo_wday_day_year_month" formatted="false">%s, %s %s %s</string>
+  <string name="oppo_year_month_day_wday" formatted="false">%s %s %s, %s</string>
+  <string name="oppo_year_day_month_wday" formatted="false">%s %s %s, %s</string>
+  <string name="oppo_month_day_year_wday" formatted="false">%s %s, %s, %s</string>
+  <string name="oppo_month_year_day_wday" formatted="false">%s %s %s, %s</string>
+  <string name="oppo_day_month_year_wday" formatted="false">%s %s %s, %s</string>
+  <string name="oppo_day_year_month_wday" formatted="false">%s %s %s, %s</string>
+  <string name="android_hour_minute_24">@android:string/hour_minute_24</string>
+  <string name="android_hour_cap_ampm">@android:string/hour_cap_ampm</string>
+  <string name="android_hour_ampm">@android:string/hour_ampm</string>
+  <string name="android_hour_minute_cap_ampm">@android:string/hour_minute_cap_ampm</string>
+  <string name="android_hour_minute_ampm">@android:string/hour_minute_ampm</string>
+  <string name="android_Noon">@android:string/Noon</string>
+  <string name="android_noon">@android:string/noon</string>
+  <string name="android_Midnight">@android:string/Midnight</string>
+  <string name="android_midnight">@android:string/midnight</string>
+  <string name="android_numeric_date">@android:string/numeric_date</string>
+  <string name="android_abbrev_month_year">@android:string/abbrev_month_year</string>
+  <string name="android_abbrev_month_day_year">@android:string/abbrev_month_day_year</string>
+  <string name="android_month_year">@android:string/month_year</string>
+  <string name="android_month_day_year">@android:string/month_day_year</string>
+  <string name="android_abbrev_month">@android:string/abbrev_month</string>
+  <string name="android_abbrev_month_day">@android:string/abbrev_month_day</string>
+  <string name="android_month">@android:string/month</string>
+  <string name="android_month_day">@android:string/month_day</string>
+  <string name="android_wday1_date1_time1_wday2_date2_time2">@android:string/wday1_date1_time1_wday2_date2_time2</string>
+  <string name="android_wday1_date1_wday2_date2">@android:string/wday1_date1_wday2_date2</string>
+  <string name="android_date1_time1_date2_time2">@android:string/date1_time1_date2_time2</string>
+  <string name="android_date1_date2">@android:string/date1_date2</string>
+  <string name="android_short_format_month">@android:string/short_format_month</string>
+  <string name="android_time1_time2">@android:string/time1_time2</string>
+  <string name="android_time_wday_date">@android:string/time_wday_date</string>
+  <string name="android_wday_date">@android:string/wday_date</string>
+  <string name="android_time_date">@android:string/time_date</string>
+  <string name="android_time_wday">@android:string/time_wday</string>
+  <string name="oppo_twenty_four_hour_time_format">HH:mm</string>
+  <string name="oppo_twelve_hour_time_format">h:mm a</string>
+  <string name="android_numeric_date_template">@android:string/numeric_date_template</string>
+  <string name="android_numeric_date_format">@android:string/numeric_date_format</string>
+  <string name="imProtocolViber">Viber</string>
+  <string name="imProtocolWechat">Wechat</string>
+  <string name="imProtocolWhatsapp">Whatsapp</string>
+  <string name="imProtocolFBM">FBM</string>
+  <string name="imProtocolMail">Mail.ru Agent</string>
+  <string name="imProtocolQip">QIP</string>
+  <string name="android_safe_media_volume_warning">@android:string/safe_media_volume_warning</string>
+  <string name="oppo_month_year_dmy" formatted="false">%B %Y</string>
+  <string name="oppo_month_day_year_ymd" formatted="false">%Y, %B %-e</string>
+  <string name="oppo_month_day_year_mdy" formatted="false">%B %-e, %Y</string>
+  <string name="oppo_month_day_year_dmy" formatted="false">%-e %B, %Y</string>
+  <string name="oppo_abbrev_month_day_ymd" formatted="false">%b %-e</string>
+  <string name="oppo_abbrev_month_day_mdy" formatted="false">%b %-e</string>
+  <string name="oppo_abbrev_month_day_dmy" formatted="false">%-e %b</string>
+  <string name="oppo_month_day_ymd" formatted="false">%B %-e</string>
+  <string name="oppo_month_day_mdy" formatted="false">%B %-e</string>
+  <string name="oppo_month_day_dmy" formatted="false">%-e %B</string>
+  <string name="oppo_same_year_md1_md2_ymd">%2$s %3$s – %7$s %8$s</string>
+  <string name="oppo_same_year_md1_md2_mdy">%2$s %3$s – %7$s %8$s</string>
+  <string name="oppo_same_year_md1_md2_dmy">%3$s %2$s – %8$s %7$s</string>
+  <string name="oppo_same_year_wday1_md1_wday2_md2_ymd">%1$s, %2$s %3$s – %6$s, %7$s %8$s</string>
+  <string name="oppo_same_year_wday1_md1_wday2_md2_mdy">%1$s, %2$s %3$s – %6$s, %7$s %8$s</string>
+  <string name="oppo_same_year_wday1_md1_wday2_md2_dmy">%1$s, %3$s %2$s – %6$s, %8$s %7$s</string>
+  <string name="oppo_same_year_mdy1_mdy2_ymd">%4$s, %2$s %3$s – %7$s %8$s</string>
+  <string name="oppo_same_year_mdy1_mdy2_mdy">%2$s %3$s – %7$s %8$s, %9$s</string>
+  <string name="oppo_same_year_mdy1_mdy2_dmy">%3$s %2$s – %8$s %7$s, %9$s</string>
+  <string name="oppo_same_year_wday1_mdy1_wday2_mdy2_ymd">%4$s, %1$s, %2$s %3$s – %6$s, %7$s %8$s</string>
+  <string name="oppo_same_year_wday1_mdy1_wday2_mdy2_mdy">%1$s, %2$s %3$s – %6$s, %7$s %8$s, %9$s</string>
+  <string name="oppo_same_year_wday1_mdy1_wday2_mdy2_dmy">%1$s, %3$s %2$s – %6$s, %8$s %7$s, %9$s</string>
+  <string name="oppo_same_year_md1_time1_md2_time2_ymd">%2$s %3$s, %5$s – %7$s %8$s, %10$s</string>
+  <string name="oppo_same_year_md1_time1_md2_time2_mdy">%2$s %3$s, %5$s – %7$s %8$s, %10$s</string>
+  <string name="oppo_same_year_md1_time1_md2_time2_dmy">%3$s %2$s, %5$s – %8$s %7$s, %10$s</string>
+  <string name="oppo_same_year_wday1_md1_time1_wday2_md2_time2_ymd">%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s</string>
+  <string name="oppo_same_year_wday1_md1_time1_wday2_md2_time2_mdy">%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s</string>
+  <string name="oppo_same_year_wday1_md1_time1_wday2_md2_time2_dmy">%1$s, %3$s %2$s, %5$s – %6$s, %8$s %7$s, %10$s</string>
+  <string name="oppo_same_year_mdy1_time1_mdy2_time2_ymd">%4$s, %2$s %3$s, %5$s – %9$s, %7$s %8$s, %10$s</string>
+  <string name="oppo_same_year_mdy1_time1_mdy2_time2_mdy">%2$s %3$s, %4$s, %5$s – %7$s %8$s, %9$s, %10$s</string>
+  <string name="oppo_same_year_mdy1_time1_mdy2_time2_dmy">%3$s %2$s, %4$s, %5$s – %8$s %7$s, %9$s, %10$s</string>
+  <string name="oppo_same_year_wday1_mdy1_time1_wday2_mdy2_time2_ymd">%1$s, %4$s, %2$s %3$s, %5$s – %6$s, %9$s, %7$s %8$s, %10$s</string>
+  <string name="oppo_same_year_wday1_mdy1_time1_wday2_mdy2_time2_mdy">%1$s, %2$s %3$s, %4$s, %5$s – %6$s, %7$s %8$s, %9$s, %10$s</string>
+  <string name="oppo_same_year_wday1_mdy1_time1_wday2_mdy2_time2_dmy">%1$s, %3$s %2$s, %4$s, %5$s – %6$s, %8$s %7$s, %9$s, %10$s</string>
+  <string name="oppo_numeric_md1_md2_ymd">%2$s/%3$s – %7$s/%8$s</string>
+  <string name="oppo_numeric_md1_md2_mdy">%2$s/%3$s – %7$s/%8$s</string>
+  <string name="oppo_numeric_md1_md2_dmy">%3$s/%2$s – %8$s/%7$s</string>
+  <string name="oppo_numeric_wday1_md1_wday2_md2_ymd">%1$s, %2$s/%3$s – %6$s, %7$s/%8$s</string>
+  <string name="oppo_numeric_wday1_md1_wday2_md2_mdy">%1$s, %2$s/%3$s – %6$s, %7$s/%8$s</string>
+  <string name="oppo_numeric_wday1_md1_wday2_md2_dmy">%1$s, %3$s/%2$s – %6$s, %8$s/%7$s</string>
+  <string name="oppo_numeric_mdy1_mdy2_ymd">%4$s/%2$s/%3$s – %9$s/%7$s/%8$s</string>
+  <string name="oppo_numeric_mdy1_mdy2_mdy">%2$s/%3$s/%4$s – %7$s/%8$s/%9$s</string>
+  <string name="oppo_numeric_mdy1_mdy2_dmy">%3$s/%2$s/%4$s – %8$s/%7$s/%9$s</string>
+  <string name="oppo_numeric_wday1_mdy1_wday2_mdy2_ymd">%1$s, %4$s/%2$s/%3$s – %6$s, %9$s/%7$s/%8$s</string>
+  <string name="oppo_numeric_wday1_mdy1_wday2_mdy2_mdy">%1$s, %2$s/%3$s/%4$s – %6$s, %7$s/%8$s/%9$s</string>
+  <string name="oppo_numeric_wday1_mdy1_wday2_mdy2_dmy">%1$s, %3$s/%2$s/%4$s – %6$s, %8$s/%7$s/%9$s</string>
+  <string name="oppo_numeric_md1_time1_md2_time2_ymd">%2$s/%3$s, %5$s – %7$s/%8$s, %10$s</string>
+  <string name="oppo_numeric_md1_time1_md2_time2_mdy">%2$s/%3$s, %5$s – %7$s/%8$s, %10$s</string>
+  <string name="oppo_numeric_md1_time1_md2_time2_dmy">%3$s/%2$s, %5$s – %8$s/%7$s, %10$s</string>
+  <string name="oppo_numeric_wday1_md1_time1_wday2_md2_time2_ymd">%1$s, %2$s/%3$s, %5$s – %6$s, %7$s/%8$s, %10$s</string>
+  <string name="oppo_numeric_wday1_md1_time1_wday2_md2_time2_mdy">%1$s, %2$s/%3$s, %5$s – %6$s, %7$s/%8$s, %10$s</string>
+  <string name="oppo_numeric_wday1_md1_time1_wday2_md2_time2_dmy">%1$s, %3$s/%2$s, %5$s – %6$s, %8$s/%7$s, %10$s</string>
+  <string name="oppo_numeric_mdy1_time1_mdy2_time2_ymd">%4$s/%2$s/%3$s, %5$s – %9$s/%7$s/%8$s, %10$s</string>
+  <string name="oppo_numeric_mdy1_time1_mdy2_time2_mdy">%2$s/%3$s/%4$s, %5$s – %7$s/%8$s/%9$s, %10$s</string>
+  <string name="oppo_numeric_mdy1_time1_mdy2_time2_dmy">%3$s/%2$s/%4$s, %5$s – %8$s/%7$s/%9$s, %10$s</string>
+  <string name="oppo_numeric_wday1_mdy1_time1_wday2_mdy2_time2_ymd">%1$s, %4$s/%2$s/%3$s, %5$s – %6$s, %9$s/%7$s/%8$s, %10$s</string>
+  <string name="oppo_numeric_wday1_mdy1_time1_wday2_mdy2_time2_mdy">%1$s, %2$s/%3$s/%4$s, %5$s – %6$s, %7$s/%8$s/%9$s, %10$s</string>
+  <string name="oppo_numeric_wday1_mdy1_time1_wday2_mdy2_time2_dmy">%1$s, %3$s/%2$s/%4$s, %5$s – %6$s, %8$s/%7$s/%9$s, %10$s</string>
+  <string name="oppo_same_month_md1_md2_ymd">%2$s %3$s – %8$s</string>
+  <string name="oppo_same_month_md1_md2_mdy">%2$s %3$s – %8$s</string>
+  <string name="oppo_same_month_md1_md2_dmy">%3$s – %8$s %7$s</string>
+  <string name="oppo_same_month_wday1_md1_wday2_md2_ymd">%1$s, %2$s %3$s – %6$s, %7$s %8$s</string>
+  <string name="oppo_same_month_wday1_md1_wday2_md2_mdy">%1$s, %2$s %3$s – %6$s, %7$s %8$s</string>
+  <string name="oppo_same_month_wday1_md1_wday2_md2_dmy">%1$s, %3$s %2$s – %6$s, %8$s %7$s</string>
+  <string name="oppo_same_month_mdy1_mdy2_ymd">%4$s, %2$s %3$s – %8$s</string>
+  <string name="oppo_same_month_mdy1_mdy2_mdy">%2$s %3$s – %8$s, %9$s</string>
+  <string name="oppo_same_month_mdy1_mdy2_dmy">%3$s – %8$s %7$s, %9$s</string>
+  <string name="oppo_same_month_wday1_mdy1_wday2_mdy2_ymd">%1$s, %4$s, %2$s %3$s – %6$s, %9$s, %7$s %8$s</string>
+  <string name="oppo_same_month_wday1_mdy1_wday2_mdy2_mdy">%1$s, %2$s %3$s, %4$s – %6$s, %7$s %8$s, %9$s</string>
+  <string name="oppo_same_month_wday1_mdy1_wday2_mdy2_dmy">%1$s, %3$s %2$s, %4$s – %6$s, %8$s %7$s, %9$s</string>
+  <string name="oppo_same_month_md1_time1_md2_time2_ymd">%2$s %3$s, %5$s – %7$s %8$s, %10$s</string>
+  <string name="oppo_same_month_md1_time1_md2_time2_mdy">%2$s %3$s, %5$s – %7$s %8$s, %10$s</string>
+  <string name="oppo_same_month_md1_time1_md2_time2_dmy">%3$s %2$s, %5$s – %8$s %7$s, %10$s</string>
+  <string name="oppo_same_month_wday1_md1_time1_wday2_md2_time2_ymd">%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s</string>
+  <string name="oppo_same_month_wday1_md1_time1_wday2_md2_time2_mdy">%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s</string>
+  <string name="oppo_same_month_wday1_md1_time1_wday2_md2_time2_dmy">%1$s, %3$s %2$s, %5$s – %6$s, %8$s %7$s, %10$s</string>
+  <string name="oppo_same_month_mdy1_time1_mdy2_time2_ymd">%4$s, %2$s %3$s, %5$s – %9$s, %7$s %8$s, %10$s</string>
+  <string name="oppo_same_month_mdy1_time1_mdy2_time2_mdy">%2$s %3$s, %4$s, %5$s – %7$s %8$s, %9$s, %10$s</string>
+  <string name="oppo_same_month_mdy1_time1_mdy2_time2_dmy">%3$s %2$s, %4$s, %5$s – %8$s %7$s, %9$s, %10$s</string>
+  <string name="oppo_same_month_wday1_mdy1_time1_wday2_mdy2_time2_ymd">%1$s, %4$s, %2$s %3$s, %5$s – %6$s, %9$s, %7$s %8$s, %10$s</string>
+  <string name="oppo_same_month_wday1_mdy1_time1_wday2_mdy2_time2_mdy">%1$s, %2$s %3$s, %4$s, %5$s – %6$s, %7$s %8$s, %9$s, %10$s</string>
+  <string name="oppo_same_month_wday1_mdy1_time1_wday2_mdy2_time2_dmy">%1$s, %3$s %2$s, %4$s, %5$s – %6$s, %8$s %7$s, %9$s, %10$s</string>
+  <string name="oppo_numeric_date_ymd" formatted="false">%Y/%-m/%-e</string>
+  <string name="oppo_numeric_date_mdy" formatted="false">%-m/%-e/%Y</string>
+  <string name="oppo_numeric_date_dmy" formatted="false">%-e/%-m/%Y</string>
+  <string name="oppo_abbrev_month_year_ymd" formatted="false">%Y %b</string>
+  <string name="oppo_abbrev_month_year_mdy" formatted="false">%b %Y</string>
+  <string name="oppo_abbrev_month_year_dmy" formatted="false">%b %Y</string>
+  <string name="oppo_abbrev_month_day_year_ymd" formatted="false">%Y, %b %-e</string>
+  <string name="oppo_abbrev_month_day_year_mdy" formatted="false">%b %-e, %Y</string>
+  <string name="oppo_abbrev_month_day_year_dmy" formatted="false">%-e %b, %Y</string>
+  <string name="oppo_month_year_ymd" formatted="false">%Y %B</string>
+  <string name="oppo_month_year_mdy" formatted="false">%B %Y</string>
+  <string name="android_text_copied">@android:string/text_copied</string>
+  <string name="android_dlg_ok">@android:string/dlg_ok</string>
+  <string name="oppo_volume_system_description">Głośność systemowa</string>
+  <string name="oppo_edittext_search">Szukaj</string>
+  <string name="android_whichApplication">@android:string/whichApplication</string>
+  <string name="android_noApplications">@android:string/noApplications</string>
 </resources>
